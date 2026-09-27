@@ -1,0 +1,5402 @@
+[
+  {
+    "dataStart": 979383,
+    "dataStartHex": "0x0EF1B7",
+    "recordBytes": 56,
+    "score": 18.9,
+    "idUniqueRatio": 0.99,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 8.927170604396446,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.273534836642846,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.305970511520041,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979439,
+    "dataStartHex": "0x0EF1EF",
+    "recordBytes": 56,
+    "score": 18.9,
+    "idUniqueRatio": 0.99,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 8.926611899259433,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.274456105751933,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.3003858372020995,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979495,
+    "dataStartHex": "0x0EF227",
+    "recordBytes": 56,
+    "score": 18.9,
+    "idUniqueRatio": 0.99,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 8.887631855561985,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.273534836642846,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.3022597594537406,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979327,
+    "dataStartHex": "0x0EF17F",
+    "recordBytes": 56,
+    "score": 18.85,
+    "idUniqueRatio": 0.985,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 8.964528710423096,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.2806074335309,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.3078074009760856,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979551,
+    "dataStartHex": "0x0EF25F",
+    "recordBytes": 56,
+    "score": 18.85,
+    "idUniqueRatio": 0.985,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 8.920336316529777,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.269707249917729,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.3103895775388192,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979271,
+    "dataStartHex": "0x0EF147",
+    "recordBytes": 56,
+    "score": 18.8,
+    "idUniqueRatio": 0.98,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 9.001554032499062,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.287085256908242,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.3161120439218825,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979607,
+    "dataStartHex": "0x0EF297",
+    "recordBytes": 56,
+    "score": 18.8,
+    "idUniqueRatio": 0.98,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 8.917958006180577,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.270945445682956,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.3136767276350407,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979663,
+    "dataStartHex": "0x0EF2CF",
+    "recordBytes": 56,
+    "score": 18.8,
+    "idUniqueRatio": 0.98,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 8.878626019829879,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.271814602718614,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.3153779389119187,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979719,
+    "dataStartHex": "0x0EF307",
+    "recordBytes": 56,
+    "score": 18.8,
+    "idUniqueRatio": 0.98,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 8.871751518161457,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.2753684051786705,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.3041213075704157,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979775,
+    "dataStartHex": "0x0EF33F",
+    "recordBytes": 56,
+    "score": 18.8,
+    "idUniqueRatio": 0.98,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 8.906333420661948,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.269555011942112,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.300603181776465,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979831,
+    "dataStartHex": "0x0EF377",
+    "recordBytes": 56,
+    "score": 18.8,
+    "idUniqueRatio": 0.98,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 8.904178794251612,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.277662913320776,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2944225853142233,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979887,
+    "dataStartHex": "0x0EF3AF",
+    "recordBytes": 56,
+    "score": 18.8,
+    "idUniqueRatio": 0.98,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 8.90487366558337,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.266471024160367,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2948638303829707,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979215,
+    "dataStartHex": "0x0EF10F",
+    "recordBytes": 56,
+    "score": 18.75,
+    "idUniqueRatio": 0.975,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 9.03691872266206,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.301136477723068,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.315253765788968,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979159,
+    "dataStartHex": "0x0EF0D7",
+    "recordBytes": 56,
+    "score": 18.7,
+    "idUniqueRatio": 0.97,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 9.036918722662062,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.311507856887194,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.329291737846509,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979103,
+    "dataStartHex": "0x0EF09F",
+    "recordBytes": 56,
+    "score": 18.65,
+    "idUniqueRatio": 0.965,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 9.036918722662062,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.321385773105659,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.331174596635782,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979047,
+    "dataStartHex": "0x0EF067",
+    "recordBytes": 56,
+    "score": 18.6,
+    "idUniqueRatio": 0.96,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 9.073758868297077,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.326011442425921,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.3430749027719955,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 978991,
+    "dataStartHex": "0x0EF02F",
+    "recordBytes": 56,
+    "score": 18.549999999999997,
+    "idUniqueRatio": 0.955,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 9.10944015842906,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.341540625169827,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.3430749027719955,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 978935,
+    "dataStartHex": "0x0EEFF7",
+    "recordBytes": 56,
+    "score": 18.5,
+    "idUniqueRatio": 0.95,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 9.144938490771823,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.35154857493284,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.344306933829268,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979534,
+    "dataStartHex": "0x0EF24E",
+    "recordBytes": 56,
+    "score": 18.5,
+    "idUniqueRatio": 0.95,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.242824378242315,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 8.06575476939388,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.4497142690526186,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979590,
+    "dataStartHex": "0x0EF286",
+    "recordBytes": 56,
+    "score": 18.5,
+    "idUniqueRatio": 0.95,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.261700582061303,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 8.04489900495959,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.451321072401573,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979646,
+    "dataStartHex": "0x0EF2BE",
+    "recordBytes": 56,
+    "score": 18.5,
+    "idUniqueRatio": 0.95,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.261700582061303,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 8.036776405997625,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.445766750939263,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979702,
+    "dataStartHex": "0x0EF2F6",
+    "recordBytes": 56,
+    "score": 18.5,
+    "idUniqueRatio": 0.95,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.245136726603194,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 8.014098514493057,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.4533599409789018,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979758,
+    "dataStartHex": "0x0EF32E",
+    "recordBytes": 56,
+    "score": 18.5,
+    "idUniqueRatio": 0.95,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.245136726603194,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 7.990555362426324,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.447646829099329,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979814,
+    "dataStartHex": "0x0EF366",
+    "recordBytes": 56,
+    "score": 18.5,
+    "idUniqueRatio": 0.95,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.240301374963218,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 7.977192488588942,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.448182999695897,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979870,
+    "dataStartHex": "0x0EF39E",
+    "recordBytes": 56,
+    "score": 18.5,
+    "idUniqueRatio": 0.95,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.252110913068712,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 7.9697537603115345,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.448182999695897,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 978879,
+    "dataStartHex": "0x0EEFBF",
+    "recordBytes": 56,
+    "score": 18.45,
+    "idUniqueRatio": 0.945,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 9.179602387903302,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 14,
+        "stddev": 4.36684955087761,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.333875532242456,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979366,
+    "dataStartHex": "0x0EF1A6",
+    "recordBytes": 56,
+    "score": 18.45,
+    "idUniqueRatio": 0.945,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.261700582061303,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 8.117535032261948,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.4523254270181987,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979422,
+    "dataStartHex": "0x0EF1DE",
+    "recordBytes": 56,
+    "score": 18.45,
+    "idUniqueRatio": 0.945,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.242824378242315,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 8.099134212988455,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.4523254270181987,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979478,
+    "dataStartHex": "0x0EF216",
+    "recordBytes": 56,
+    "score": 18.45,
+    "idUniqueRatio": 0.945,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.261700582061303,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 8.079899442443578,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.4497142690526186,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979310,
+    "dataStartHex": "0x0EF16E",
+    "recordBytes": 56,
+    "score": 18.4,
+    "idUniqueRatio": 0.94,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.296065686777865,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 8.117535032261948,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.435030800626554,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979254,
+    "dataStartHex": "0x0EF136",
+    "recordBytes": 56,
+    "score": 18.35,
+    "idUniqueRatio": 0.935,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.301892540632304,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 8.135107559215175,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.435030800626554,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979808,
+    "dataStartHex": "0x0EF360",
+    "recordBytes": 56,
+    "score": 18.35,
+    "idUniqueRatio": 0.935,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.037752762717068,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 6.091959865265032,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0975223479143206,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979864,
+    "dataStartHex": "0x0EF398",
+    "recordBytes": 56,
+    "score": 18.35,
+    "idUniqueRatio": 0.935,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.035347253979783,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 6.017788214950737,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.09752234791432,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979198,
+    "dataStartHex": "0x0EF0FE",
+    "recordBytes": 56,
+    "score": 18.3,
+    "idUniqueRatio": 0.93,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.301892540632304,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 8.1309532036533,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.435030800626554,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979752,
+    "dataStartHex": "0x0EF328",
+    "recordBytes": 56,
+    "score": 18.3,
+    "idUniqueRatio": 0.93,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.037752762717068,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 6.116434827577249,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0976176963403033,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979142,
+    "dataStartHex": "0x0EF0C6",
+    "recordBytes": 56,
+    "score": 18.25,
+    "idUniqueRatio": 0.925,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.318921105829832,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 8.133202013967196,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.4171057072457547,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979696,
+    "dataStartHex": "0x0EF2F0",
+    "recordBytes": 56,
+    "score": 18.25,
+    "idUniqueRatio": 0.925,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.036978200704038,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 6.125153059312066,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0975223479143206,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979086,
+    "dataStartHex": "0x0EF08E",
+    "recordBytes": 56,
+    "score": 18.200000000000003,
+    "idUniqueRatio": 0.92,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.329766105264472,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 8.118688317702553,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.4222097349321325,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979640,
+    "dataStartHex": "0x0EF2B8",
+    "recordBytes": 56,
+    "score": 18.200000000000003,
+    "idUniqueRatio": 0.92,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.04344513998952,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 6.026400252223542,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0975223479143206,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979871,
+    "dataStartHex": "0x0EF39F",
+    "recordBytes": 56,
+    "score": 18.200000000000003,
+    "idUniqueRatio": 0.92,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 10,
+        "stddev": 2.9856280746268427,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 15,
+        "stddev": 3.6930204440268106,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2513940126064123,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979030,
+    "dataStartHex": "0x0EF056",
+    "recordBytes": 56,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.344161493913955,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 8.134340784599585,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.4266798305503743,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979116,
+    "dataStartHex": "0x0EF0AC",
+    "recordBytes": 56,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 24,
+        "stddev": 3.3703263936894863,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 16,
+        "stddev": 4.304854817528696,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.5187248758052156,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979172,
+    "dataStartHex": "0x0EF0E4",
+    "recordBytes": 56,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 16,
+        "stddev": 3.02783338379112,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 16,
+        "stddev": 4.317866950242911,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.510597538435822,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979228,
+    "dataStartHex": "0x0EF11C",
+    "recordBytes": 56,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 16,
+        "stddev": 2.9888292022128025,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 15,
+        "stddev": 4.2911507780547655,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.5035774403840594,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979304,
+    "dataStartHex": "0x0EF168",
+    "recordBytes": 56,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.006995892083,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 6.034898507845847,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1130487452967097,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979360,
+    "dataStartHex": "0x0EF1A0",
+    "recordBytes": 56,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.031478284312046,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 6.02537135785007,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1071307505705477,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979416,
+    "dataStartHex": "0x0EF1D8",
+    "recordBytes": 56,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.066960626362066,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 6.02537135785007,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.103562454504263,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979472,
+    "dataStartHex": "0x0EF210",
+    "recordBytes": 56,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.066960626362066,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 6.027385419898084,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0976176963403033,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979528,
+    "dataStartHex": "0x0EF248",
+    "recordBytes": 56,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.03698511673003,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 6.033885564045781,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0976176963403033,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979535,
+    "dataStartHex": "0x0EF24F",
+    "recordBytes": 56,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 10,
+        "stddev": 2.9768733597518033,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 15,
+        "stddev": 3.742873227882559,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2417850030723305,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979584,
+    "dataStartHex": "0x0EF280",
+    "recordBytes": 56,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.039773227244142,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 6.027501555371014,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0975223479143206,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979591,
+    "dataStartHex": "0x0EF287",
+    "recordBytes": 56,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 10,
+        "stddev": 2.9903009881950005,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 15,
+        "stddev": 3.7359035051778324,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2398158406440465,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979647,
+    "dataStartHex": "0x0EF2BF",
+    "recordBytes": 56,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 10,
+        "stddev": 2.9910533261712318,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 15,
+        "stddev": 3.7290447838555134,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.247837850023884,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979703,
+    "dataStartHex": "0x0EF2F7",
+    "recordBytes": 56,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 10,
+        "stddev": 2.9869675257692387,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 15,
+        "stddev": 3.724375786625188,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2415117666432174,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979759,
+    "dataStartHex": "0x0EF32F",
+    "recordBytes": 56,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 10,
+        "stddev": 2.980432015664842,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 15,
+        "stddev": 3.7173881960322626,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.242208732477868,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979815,
+    "dataStartHex": "0x0EF367",
+    "recordBytes": 56,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 10,
+        "stddev": 2.97334407696116,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 15,
+        "stddev": 3.697783119654262,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.247020249129946,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979391,
+    "dataStartHex": "0x0EF1BF",
+    "recordBytes": 57,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.911572220488167,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.932458635253013,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.21796641092691,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979448,
+    "dataStartHex": "0x0EF1F8",
+    "recordBytes": 57,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.89651663710018,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.924493674677263,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.21796641092691,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979505,
+    "dataStartHex": "0x0EF231",
+    "recordBytes": 57,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.819167155138711,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.03146157308867,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.21489841753522,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979673,
+    "dataStartHex": "0x0EF2D9",
+    "recordBytes": 58,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.9007025004109614,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.050565197549794,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.280213805764714,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979201,
+    "dataStartHex": "0x0EF101",
+    "recordBytes": 59,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.093816580512275,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.704334818788711,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2470814404466966,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979260,
+    "dataStartHex": "0x0EF13C",
+    "recordBytes": 59,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.089795102201142,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.732203760895073,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2377444000600235,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979319,
+    "dataStartHex": "0x0EF177",
+    "recordBytes": 59,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.052445802102325,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.747836794873785,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2377444000600235,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979378,
+    "dataStartHex": "0x0EF1B2",
+    "recordBytes": 59,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.145762680061187,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.753668486593943,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.247081440446696,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979496,
+    "dataStartHex": "0x0EF228",
+    "recordBytes": 59,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.21795937287641,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.730185961540644,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2322130274684833,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979614,
+    "dataStartHex": "0x0EF29E",
+    "recordBytes": 59,
+    "score": 18.15,
+    "idUniqueRatio": 0.915,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.2734837035496,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.732139096007002,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.225848152952036,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 978892,
+    "dataStartHex": "0x0EEFCC",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 4.216749340427993,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 16,
+        "stddev": 4.401633219612922,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.4954157970165993,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 978918,
+    "dataStartHex": "0x0EEFE6",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.357270798919963,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 8.144861877281897,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.4310491562286436,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 978948,
+    "dataStartHex": "0x0EF004",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 3.8463976653487153,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 16,
+        "stddev": 4.389578567470914,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.5059479244389724,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 978974,
+    "dataStartHex": "0x0EF01E",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 25,
+        "stddev": 11.357270798919963,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 19,
+        "stddev": 8.134340784599585,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.4266798305503743,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979004,
+    "dataStartHex": "0x0EF03C",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 3.823450666609934,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 16,
+        "stddev": 4.343028896979622,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.5159491250818253,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979060,
+    "dataStartHex": "0x0EF074",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 24,
+        "stddev": 3.399058693226694,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 16,
+        "stddev": 4.347157117013373,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.5095019426173013,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979248,
+    "dataStartHex": "0x0EF130",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.006995892083,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 6.0343993073047395,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1130487452967097,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979284,
+    "dataStartHex": "0x0EF154",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.8470862298146127,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 15,
+        "stddev": 4.292772996560614,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.5118469300496806,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979311,
+    "dataStartHex": "0x0EF16F",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 10,
+        "stddev": 2.952541278288926,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 15,
+        "stddev": 3.7509165546570067,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2380739487335966,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979340,
+    "dataStartHex": "0x0EF18C",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.840734940116728,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 1,
+        "max": 15,
+        "stddev": 4.25257275070045,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.5032778511383835,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979367,
+    "dataStartHex": "0x0EF1A7",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 10,
+        "stddev": 2.952541278288926,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 15,
+        "stddev": 3.7509865368993247,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.230336297512103,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979396,
+    "dataStartHex": "0x0EF1C4",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.840734940116728,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 1,
+        "max": 15,
+        "stddev": 4.240801810978672,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.502154071994768,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979423,
+    "dataStartHex": "0x0EF1DF",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 10,
+        "stddev": 2.952541278288926,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 15,
+        "stddev": 3.7509865368993247,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.236157418430108,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979452,
+    "dataStartHex": "0x0EF1FC",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.840734940116728,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 1,
+        "max": 15,
+        "stddev": 4.228604970909435,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.4934915279583376,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979479,
+    "dataStartHex": "0x0EF217",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 10,
+        "stddev": 2.96468801056705,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 15,
+        "stddev": 3.742873227882559,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2417850030723305,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979508,
+    "dataStartHex": "0x0EF234",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.8423185957946377,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 1,
+        "max": 15,
+        "stddev": 4.217437017905543,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.4847082323685403,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979564,
+    "dataStartHex": "0x0EF26C",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.84077454226836,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 1,
+        "max": 15,
+        "stddev": 4.240943291297351,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.4919871588754225,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979620,
+    "dataStartHex": "0x0EF2A4",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.8391504010883244,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 1,
+        "max": 15,
+        "stddev": 4.240943291297351,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.5038170859709377,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979676,
+    "dataStartHex": "0x0EF2DC",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.8403828967236087,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 1,
+        "max": 15,
+        "stddev": 4.234120333670266,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.5119514326515158,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979732,
+    "dataStartHex": "0x0EF314",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.8414740892712733,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 1,
+        "max": 15,
+        "stddev": 4.228604970909435,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.516937623382831,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979788,
+    "dataStartHex": "0x0EF34C",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.842424141467983,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 1,
+        "max": 15,
+        "stddev": 4.232537654882705,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.512921606417518,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979844,
+    "dataStartHex": "0x0EF384",
+    "recordBytes": 56,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.8432331947977802,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 1,
+        "max": 15,
+        "stddev": 4.266802081184457,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.512921606417518,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979106,
+    "dataStartHex": "0x0EF0A2",
+    "recordBytes": 57,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.887380743947894,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.828280462528158,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1784398086704186,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979277,
+    "dataStartHex": "0x0EF14D",
+    "recordBytes": 57,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.911572220488167,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.945810216711698,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2085062825357764,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979334,
+    "dataStartHex": "0x0EF186",
+    "recordBytes": 57,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.911572220488167,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.925093059390532,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2085062825357764,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979562,
+    "dataStartHex": "0x0EF26A",
+    "recordBytes": 57,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.843071783427717,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.022018137601037,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.205538483001371,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979619,
+    "dataStartHex": "0x0EF2A3",
+    "recordBytes": 57,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.791134384670823,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.054787396325237,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2055384830013716,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979676,
+    "dataStartHex": "0x0EF2DC",
+    "recordBytes": 57,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.791134384670823,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.054787396325239,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2206080248436475,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979733,
+    "dataStartHex": "0x0EF315",
+    "recordBytes": 57,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.781347890950516,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.073314065487605,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2261570025494657,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979790,
+    "dataStartHex": "0x0EF34E",
+    "recordBytes": 57,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.651717127547254,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.074526301895368,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2261570025494657,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979847,
+    "dataStartHex": "0x0EF387",
+    "recordBytes": 57,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.651717127547254,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.058511028719877,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.238302928559938,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979615,
+    "dataStartHex": "0x0EF29F",
+    "recordBytes": 58,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.912490126376144,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.047981113297926,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2869193252058544,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979731,
+    "dataStartHex": "0x0EF313",
+    "recordBytes": 58,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.9007025004109614,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.112336284942828,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.25254855663535,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979024,
+    "dataStartHex": "0x0EF050",
+    "recordBytes": 59,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.099493117751118,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.69291719700661,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.258755188151207,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979083,
+    "dataStartHex": "0x0EF08B",
+    "recordBytes": 59,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.110761493969648,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.708800166044005,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.249688867376999,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979142,
+    "dataStartHex": "0x0EF0C6",
+    "recordBytes": 59,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.110761493969648,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.708800166044006,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2470814404466966,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979437,
+    "dataStartHex": "0x0EF1ED",
+    "recordBytes": 59,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.236015103928748,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.7574464226316096,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2322130274684833,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979555,
+    "dataStartHex": "0x0EF263",
+    "recordBytes": 59,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.299461005886302,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.7167982350195,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.226201922557789,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979673,
+    "dataStartHex": "0x0EF2D9",
+    "recordBytes": 59,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.25820581970395,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.714711595387095,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2351230391188803,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979732,
+    "dataStartHex": "0x0EF314",
+    "recordBytes": 59,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.254058569081998,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.714711595387095,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2093211627103932,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979791,
+    "dataStartHex": "0x0EF34F",
+    "recordBytes": 59,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.240216447681298,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.767567186706535,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2119617989468106,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979850,
+    "dataStartHex": "0x0EF38A",
+    "recordBytes": 59,
+    "score": 18.1,
+    "idUniqueRatio": 0.91,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.240366605281412,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.7662329993375785,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2119617989468106,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979024,
+    "dataStartHex": "0x0EF050",
+    "recordBytes": 56,
+    "score": 18.05,
+    "idUniqueRatio": 0.905,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.092062472288665,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 5.925504197956489,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.128356173200344,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979136,
+    "dataStartHex": "0x0EF0C0",
+    "recordBytes": 56,
+    "score": 18.05,
+    "idUniqueRatio": 0.905,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.050965418119786,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 5.917769850205392,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.118938413451418,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979192,
+    "dataStartHex": "0x0EF0F8",
+    "recordBytes": 56,
+    "score": 18.05,
+    "idUniqueRatio": 0.905,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.012922666926634,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 6.040842242601605,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.118938413451418,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979255,
+    "dataStartHex": "0x0EF137",
+    "recordBytes": 56,
+    "score": 18.05,
+    "idUniqueRatio": 0.905,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 10,
+        "stddev": 2.972137278121588,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 15,
+        "stddev": 3.745100132172706,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.22920950114609,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 978935,
+    "dataStartHex": "0x0EEFF7",
+    "recordBytes": 57,
+    "score": 18.05,
+    "idUniqueRatio": 0.905,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.914012888541439,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.829968071454698,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.167948338867877,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 978992,
+    "dataStartHex": "0x0EF030",
+    "recordBytes": 57,
+    "score": 18.05,
+    "idUniqueRatio": 0.905,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.91564905740521,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.845340974106861,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1870299494977163,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979049,
+    "dataStartHex": "0x0EF069",
+    "recordBytes": 57,
+    "score": 18.05,
+    "idUniqueRatio": 0.905,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.901132830170625,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.852254453340141,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1810032095345453,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979163,
+    "dataStartHex": "0x0EF0DB",
+    "recordBytes": 57,
+    "score": 18.05,
+    "idUniqueRatio": 0.905,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.8767759902132495,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.826467913433231,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1873214212822036,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979220,
+    "dataStartHex": "0x0EF114",
+    "recordBytes": 57,
+    "score": 18.05,
+    "idUniqueRatio": 0.905,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.9192660644784505,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.825439284794176,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2085062825357764,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979396,
+    "dataStartHex": "0x0EF1C4",
+    "recordBytes": 57,
+    "score": 18.05,
+    "idUniqueRatio": 0.905,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.57937060628576,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.396278937719972,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.048780124854788,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979453,
+    "dataStartHex": "0x0EF1FD",
+    "recordBytes": 57,
+    "score": 18.05,
+    "idUniqueRatio": 0.905,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.69367442454569,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.399581834829632,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0460694025374595,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979797,
+    "dataStartHex": "0x0EF355",
+    "recordBytes": 57,
+    "score": 18.05,
+    "idUniqueRatio": 0.905,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.133515205001851,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.195388947450876,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.092844953645635,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979852,
+    "dataStartHex": "0x0EF38C",
+    "recordBytes": 57,
+    "score": 18.05,
+    "idUniqueRatio": 0.905,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.616088149502644,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.32237796546155,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0312003840094137,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979557,
+    "dataStartHex": "0x0EF265",
+    "recordBytes": 58,
+    "score": 18.05,
+    "idUniqueRatio": 0.905,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.88372373945206,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.066250677979205,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2869193252058544,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979789,
+    "dataStartHex": "0x0EF34D",
+    "recordBytes": 58,
+    "score": 18.05,
+    "idUniqueRatio": 0.905,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.9046046706967035,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.112336284942828,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.25254855663535,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 978965,
+    "dataStartHex": "0x0EF015",
+    "recordBytes": 59,
+    "score": 18.05,
+    "idUniqueRatio": 0.905,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.112243137669228,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.7167026637029394,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.258755188151207,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 978912,
+    "dataStartHex": "0x0EEFE0",
+    "recordBytes": 56,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.091313161474531,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 5.8391694614902265,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.134238740160059,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 978968,
+    "dataStartHex": "0x0EF018",
+    "recordBytes": 56,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.056178829948085,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 5.925504197956489,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.134238740160059,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979080,
+    "dataStartHex": "0x0EF088",
+    "recordBytes": 56,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 9.055385138137417,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 22,
+        "stddev": 5.926811959223943,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1248470533193666,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979199,
+    "dataStartHex": "0x0EF0FF",
+    "recordBytes": 56,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 10,
+        "stddev": 2.98422519257512,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 15,
+        "stddev": 3.745100132172706,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.22920950114609,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 978878,
+    "dataStartHex": "0x0EEFBE",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.888212725326316,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.843581771104319,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.167948338867877,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979111,
+    "dataStartHex": "0x0EF0A7",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.346662506654987,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.425851589008667,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0868876347326406,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979168,
+    "dataStartHex": "0x0EF0E0",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.346662506654987,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.407086296690428,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.084130514147326,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979225,
+    "dataStartHex": "0x0EF119",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.477021882713291,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.453868936764989,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0702113418682617,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979282,
+    "dataStartHex": "0x0EF152",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.567403340569415,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.446206248961722,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0702113418682617,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979315,
+    "dataStartHex": "0x0EF173",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.522850168810908,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.957435202375202,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.203973684053419,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979339,
+    "dataStartHex": "0x0EF18B",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.57937060628576,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.39637421748221,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0702113418682617,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979372,
+    "dataStartHex": "0x0EF1AC",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.504985302750384,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.921230964944782,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2011303914125566,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979510,
+    "dataStartHex": "0x0EF236",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.649530334070167,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.400819900462096,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0460694025374595,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979567,
+    "dataStartHex": "0x0EF26F",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.638865666278189,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.38402647896582,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.059999999999999,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979573,
+    "dataStartHex": "0x0EF275",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.514922195769028,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.75252217023595,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2133176455267334,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979607,
+    "dataStartHex": "0x0EF297",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.406710117519225,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 29,
+        "stddev": 7.577229044974157,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.174390719259074,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979624,
+    "dataStartHex": "0x0EF2A8",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.591086951020806,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.391172444897085,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.057370895098886,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979664,
+    "dataStartHex": "0x0EF2D0",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.406710117519225,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 29,
+        "stddev": 7.592692210276936,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1422826610884007,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979681,
+    "dataStartHex": "0x0EF2E1",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.592898230515711,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.391172444897085,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.057370895098886,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979721,
+    "dataStartHex": "0x0EF309",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.486034114944395,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 29,
+        "stddev": 7.6115553601087305,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.140741693899572,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979738,
+    "dataStartHex": "0x0EF31A",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.596742115476072,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.334229118520806,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.036412286350677,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979740,
+    "dataStartHex": "0x0EF31C",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.164954991706173,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.266158418515822,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0879655169566362,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979771,
+    "dataStartHex": "0x0EF33B",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.437936655367828,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.972187591872139,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1988121793368336,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979778,
+    "dataStartHex": "0x0EF342",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.46911447555174,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 29,
+        "stddev": 7.623514609417371,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1207310060448483,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979795,
+    "dataStartHex": "0x0EF353",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.59289823051571,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.326914194345946,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.035951865835731,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979828,
+    "dataStartHex": "0x0EF374",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.450264788750701,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.986411897717276,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1963094044328106,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979854,
+    "dataStartHex": "0x0EF38E",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.128389781336022,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.047726386999004,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0879655169566362,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979885,
+    "dataStartHex": "0x0EF3AD",
+    "recordBytes": 57,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.464484626957507,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.997968492060962,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.193621434979153,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979383,
+    "dataStartHex": "0x0EF1B7",
+    "recordBytes": 58,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.952796677898912,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.952733806685597,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.3063770290219274,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979441,
+    "dataStartHex": "0x0EF1F1",
+    "recordBytes": 58,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.940363656659557,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.97043913470267,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.289519600265523,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979499,
+    "dataStartHex": "0x0EF22B",
+    "recordBytes": 58,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.934404514517774,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.954219006288427,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2829312298008455,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979847,
+    "dataStartHex": "0x0EF387",
+    "recordBytes": 58,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 28,
+        "stddev": 7.897833563705936,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.131050055189675,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.267548235429624,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 978906,
+    "dataStartHex": "0x0EEFDA",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.122587352281146,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.698077682122984,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2559643170936905,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979297,
+    "dataStartHex": "0x0EF161",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.938679992034617,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.240411094114181,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.042155723739011,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979356,
+    "dataStartHex": "0x0EF19C",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.944489923969952,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.25806272681432,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.028694161277152,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979408,
+    "dataStartHex": "0x0EF1D0",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 29,
+        "stddev": 8.05282403880776,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.483433369784219,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.023456201651028,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979415,
+    "dataStartHex": "0x0EF1D7",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.92853711421978,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.23940380124679,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.028694161277152,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979467,
+    "dataStartHex": "0x0EF20B",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 29,
+        "stddev": 8.070314430057852,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.46872813804332,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.023456201651028,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979474,
+    "dataStartHex": "0x0EF212",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.929410674843,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.23940380124679,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0295258066849002,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979526,
+    "dataStartHex": "0x0EF246",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 29,
+        "stddev": 8.083260480771356,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.461172830058296,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.044254142713179,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979533,
+    "dataStartHex": "0x0EF24D",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.807746590360098,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.232215679876235,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0085753657754557,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979551,
+    "dataStartHex": "0x0EF25F",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 9.028808060868284,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 7.5072614847226395,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.078695504396929,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979585,
+    "dataStartHex": "0x0EF281",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 29,
+        "stddev": 8.052173619588693,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.461172830058295,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.044254142713179,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979592,
+    "dataStartHex": "0x0EF288",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.79044367480959,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.231098043396152,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0127034058698268,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979610,
+    "dataStartHex": "0x0EF29A",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 9.007983958689087,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 7.5097786252325704,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1016124761715687,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979644,
+    "dataStartHex": "0x0EF2BC",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 29,
+        "stddev": 8.064235859645974,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.45180347298559,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.044254142713179,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979651,
+    "dataStartHex": "0x0EF2C3",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.736080356773286,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.229202573761324,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.014689802426169,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979669,
+    "dataStartHex": "0x0EF2D5",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 9.026448637199467,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 7.523423422884025,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1016124761715687,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979690,
+    "dataStartHex": "0x0EF2EA",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 9.24729149535149,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.253894535308769,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0449694374244323,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979710,
+    "dataStartHex": "0x0EF2FE",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.632309945779289,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.229202573761324,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0176657304915504,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979728,
+    "dataStartHex": "0x0EF310",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 9.026448637199465,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 7.523423422884024,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1016124761715687,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979749,
+    "dataStartHex": "0x0EF325",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 9.143269382447397,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.28237737609196,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.048877741594163,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979787,
+    "dataStartHex": "0x0EF34B",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 9.002187234222587,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 7.519758972201169,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1016124761715687,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979808,
+    "dataStartHex": "0x0EF360",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 9.135467968309008,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.267762696159096,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0378358618887806,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979846,
+    "dataStartHex": "0x0EF386",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.987941922375775,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 27,
+        "stddev": 7.5098335534151515,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1084591530309535,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979867,
+    "dataStartHex": "0x0EF39B",
+    "recordBytes": 59,
+    "score": 18,
+    "idUniqueRatio": 0.9,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 9.152458686058079,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.240860088607254,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.044504830026085,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979143,
+    "dataStartHex": "0x0EF0C7",
+    "recordBytes": 56,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 10,
+        "stddev": 2.995730294936445,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 15,
+        "stddev": 3.7443290453698093,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.210407202304589,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979054,
+    "dataStartHex": "0x0EF06E",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.350473040492975,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.425851589008667,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0868876347326406,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979201,
+    "dataStartHex": "0x0EF101",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.524046867538914,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.949282986534072,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.214136400495689,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979258,
+    "dataStartHex": "0x0EF13A",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.536508361150949,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.9659886392085735,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.203973684053419,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979429,
+    "dataStartHex": "0x0EF1E5",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.52570231711147,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.041068026077134,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.198812179336834,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979486,
+    "dataStartHex": "0x0EF21E",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.51828034288612,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.041511052034938,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1959963570097294,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979516,
+    "dataStartHex": "0x0EF23C",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.517744713244232,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.7601546376344865,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2133176455267334,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979543,
+    "dataStartHex": "0x0EF257",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.503197927838679,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.067699486222827,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.198812179336834,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979550,
+    "dataStartHex": "0x0EF25E",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.26779293403022,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 29,
+        "stddev": 7.592127501563708,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.173913521739076,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979569,
+    "dataStartHex": "0x0EF271",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.184169804614898,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.244992419644781,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.071177201496773,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979600,
+    "dataStartHex": "0x0EF290",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.426594804545902,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.004984384744294,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.201613045019491,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979626,
+    "dataStartHex": "0x0EF2AA",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.16492089436673,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.264230151683822,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.0710142442774258,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979629,
+    "dataStartHex": "0x0EF2AD",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.431178743212598,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.8439212132708205,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.149273132945183,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979630,
+    "dataStartHex": "0x0EF2AE",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 8.511821191730949,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 7.758851396953026,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.2112835639058153,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979657,
+    "dataStartHex": "0x0EF2C9",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.426594804545902,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.989366370370058,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.198812179336834,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979671,
+    "dataStartHex": "0x0EF2D7",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.760884658526214,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.110431554485865,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1391528697126807,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979683,
+    "dataStartHex": "0x0EF2E3",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 31,
+        "stddev": 9.164954991706173,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.266981008808479,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.092844953645635,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979686,
+    "dataStartHex": "0x0EF2E6",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.434629511721301,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.6983098794475655,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1523882084791324,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979714,
+    "dataStartHex": "0x0EF302",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.437936655367828,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 7.986411897717276,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.198812179336834,
+        "inRangeFraction": 1
+      }
+    }
+  },
+  {
+    "dataStart": 979728,
+    "dataStartHex": "0x0EF310",
+    "recordBytes": 57,
+    "score": 17.95,
+    "idUniqueRatio": 0.895,
+    "ratingFieldStats": {
+      "POVR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.7536049716674,
+        "inRangeFraction": 1
+      },
+      "PSTR": {
+        "min": 0,
+        "max": 30,
+        "stddev": 8.110431554485865,
+        "inRangeFraction": 1
+      },
+      "PAWR": {
+        "min": 0,
+        "max": 7,
+        "stddev": 2.1199941037653853,
+        "inRangeFraction": 1
+      }
+    }
+  }
+]

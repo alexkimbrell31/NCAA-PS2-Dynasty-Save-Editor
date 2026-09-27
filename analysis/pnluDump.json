@@ -1,0 +1,362 @@
+{
+  "pnlu": {
+    "name": "PNLU",
+    "dirOffsetHex": "0x0278",
+    "pointer": 1493720,
+    "pointerHex": "0x0016CAD8",
+    "rangeEnd": 1494048,
+    "rangeLength": 328,
+    "isValidPointer": true
+  },
+  "dumpLength": 328,
+  "hexDump": [
+    "0x16CAD8: 00 01 7e 30 c0 60 00 00 fd 35 67 81 21 80 68 00  ..~0@`..}5g.!.h.",
+    "0x16CAE8: 00 22 01 21 40 10 00 00 fe 35 28 01 41 c0 50 00  .\".!@...~5(.A@P.",
+    "0x16CAF8: 00 02 81 30 00 00 00 00 ff 35 80 01 42 c4 48 05  ...0.....5..BDH.",
+    "0x16CB08: 00 00 04 00 80 19 00 00 00 36 20 81 72 42 61 07  .........6 .rBa.",
+    "0x16CB18: 0c 01 18 05 00 39 00 00 01 36 00 01 11 80 98 e0  .....9...6.....`",
+    "0x16CB28: 20 00 00 00 c0 09 00 00 02 36 60 01 11 80 70 e0   ...@....6`...p`",
+    "0x16CB38: 18 00 00 00 00 1a 00 00 03 36 00 82 83 88 61 08  .........6....a.",
+    "0x16CB48: 00 00 1c 20 00 31 00 00 04 36 20 01 52 84 61 04  ... .1...6 .R.a.",
+    "0x16CB58: 00 00 00 20 00 09 00 00 05 36 60 81 11 40 38 60  ... .....6`..@8`",
+    "0x16CB68: 25 00 24 00 c0 62 00 00 06 36 60 81 11 40 38 60  %.$.@b...6`..@8`",
+    "0x16CB78: 25 00 24 00 c0 62 00 00 07 36 e0 81 c4 88 62 03  %.$.@b...6`.D.b.",
+    "0x16CB88: 00 02 1c 15 80 40 00 00 08 36 00 01 94 04 4a 02  .....@...6....J.",
+    "0x16CB98: 00 00 0c 04 c0 38 00 00 09 36 60 01 84 d0 71 20  ....@8...6`..Pq ",
+    "0x16CBA8: 0c 04 14 43 00 21 00 00 0a 36 40 81 52 4a 59 20  ...C.!...6@.RJY ",
+    "0x16CBB8: 08 04 00 33 c0 38 00 00 0b 36 40 81 52 4a 59 20  ...3@8...6@.RJY ",
+    "0x16CBC8: 08 04 00 33 c0 38 00 00 0c 36 a0 02 3a 9f 8c 00  ...3@8...6 .:...",
+    "0x16CBD8: 08 01 7c 15 40 78 00 00 0d 36 80 82 07 91 73 40  ..|.@x...6....s@",
+    "0x16CBE8: 0c 06 34 45 00 21 00 00 0e 36 c0 81 b6 14 6b 00  ..4E.!...6@.6.k.",
+    "0x16CBF8: 00 01 24 05 00 38 00 00 0f 36 c0 81 84 4c 62 00  ..$..8...6@..Lb.",
+    "0x16CC08: 00 02 88 14 40 20 00 00 10 36 60 01 94 0a 62 00  ....@ ...6`...b.",
+    "0x16CC18: 00 01 00 55 40 10 00 00                          ...U@..."
+  ],
+  "nonzeroWords": [
+    {
+      "offsetHex": "0x16CAD8",
+      "value": 813564160
+    },
+    {
+      "offsetHex": "0x16CADC",
+      "value": 24768
+    },
+    {
+      "offsetHex": "0x16CAE0",
+      "value": 2171024893
+    },
+    {
+      "offsetHex": "0x16CAE4",
+      "value": 6848545
+    },
+    {
+      "offsetHex": "0x16CAE8",
+      "value": 553722368
+    },
+    {
+      "offsetHex": "0x16CAEC",
+      "value": 4160
+    },
+    {
+      "offsetHex": "0x16CAF0",
+      "value": 19412478
+    },
+    {
+      "offsetHex": "0x16CAF4",
+      "value": 5292097
+    },
+    {
+      "offsetHex": "0x16CAF8",
+      "value": 813761024
+    },
+    {
+      "offsetHex": "0x16CB00",
+      "value": 25179647
+    },
+    {
+      "offsetHex": "0x16CB04",
+      "value": 88654914
+    },
+    {
+      "offsetHex": "0x16CB08",
+      "value": 262144
+    },
+    {
+      "offsetHex": "0x16CB0C",
+      "value": 6528
+    },
+    {
+      "offsetHex": "0x16CB10",
+      "value": 2166371840
+    },
+    {
+      "offsetHex": "0x16CB14",
+      "value": 123814514
+    },
+    {
+      "offsetHex": "0x16CB18",
+      "value": 85459212
+    },
+    {
+      "offsetHex": "0x16CB1C",
+      "value": 14592
+    },
+    {
+      "offsetHex": "0x16CB20",
+      "value": 16791041
+    },
+    {
+      "offsetHex": "0x16CB24",
+      "value": 3768090641
+    },
+    {
+      "offsetHex": "0x16CB28",
+      "value": 32
+    },
+    {
+      "offsetHex": "0x16CB2C",
+      "value": 2496
+    },
+    {
+      "offsetHex": "0x16CB30",
+      "value": 23082498
+    },
+    {
+      "offsetHex": "0x16CB34",
+      "value": 3765469201
+    },
+    {
+      "offsetHex": "0x16CB38",
+      "value": 24
+    },
+    {
+      "offsetHex": "0x16CB3C",
+      "value": 6656
+    },
+    {
+      "offsetHex": "0x16CB40",
+      "value": 2181051907
+    },
+    {
+      "offsetHex": "0x16CB44",
+      "value": 140609667
+    },
+    {
+      "offsetHex": "0x16CB48",
+      "value": 538705920
+    },
+    {
+      "offsetHex": "0x16CB4C",
+      "value": 12544
+    },
+    {
+      "offsetHex": "0x16CB50",
+      "value": 18888196
+    },
+    {
+      "offsetHex": "0x16CB54",
+      "value": 73499730
+    },
+    {
+      "offsetHex": "0x16CB58",
+      "value": 536870912
+    },
+    {
+      "offsetHex": "0x16CB5C",
+      "value": 2304
+    },
+    {
+      "offsetHex": "0x16CB60",
+      "value": 2170566149
+    },
+    {
+      "offsetHex": "0x16CB64",
+      "value": 1614299153
+    },
+    {
+      "offsetHex": "0x16CB68",
+      "value": 2359333
+    },
+    {
+      "offsetHex": "0x16CB6C",
+      "value": 25280
+    },
+    {
+      "offsetHex": "0x16CB70",
+      "value": 2170566150
+    },
+    {
+      "offsetHex": "0x16CB74",
+      "value": 1614299153
+    },
+    {
+      "offsetHex": "0x16CB78",
+      "value": 2359333
+    },
+    {
+      "offsetHex": "0x16CB7C",
+      "value": 25280
+    },
+    {
+      "offsetHex": "0x16CB80",
+      "value": 2178954759
+    },
+    {
+      "offsetHex": "0x16CB84",
+      "value": 56789188
+    },
+    {
+      "offsetHex": "0x16CB88",
+      "value": 354157056
+    },
+    {
+      "offsetHex": "0x16CB8C",
+      "value": 16512
+    },
+    {
+      "offsetHex": "0x16CB90",
+      "value": 16791048
+    },
+    {
+      "offsetHex": "0x16CB94",
+      "value": 38405268
+    },
+    {
+      "offsetHex": "0x16CB98",
+      "value": 67895296
+    },
+    {
+      "offsetHex": "0x16CB9C",
+      "value": 14528
+    },
+    {
+      "offsetHex": "0x16CBA0",
+      "value": 23082505
+    },
+    {
+      "offsetHex": "0x16CBA4",
+      "value": 544329860
+    },
+    {
+      "offsetHex": "0x16CBA8",
+      "value": 1125385228
+    },
+    {
+      "offsetHex": "0x16CBAC",
+      "value": 8448
+    },
+    {
+      "offsetHex": "0x16CBB0",
+      "value": 2168469002
+    },
+    {
+      "offsetHex": "0x16CBB4",
+      "value": 542722642
+    },
+    {
+      "offsetHex": "0x16CBB8",
+      "value": 855639048
+    },
+    {
+      "offsetHex": "0x16CBBC",
+      "value": 14528
+    },
+    {
+      "offsetHex": "0x16CBC0",
+      "value": 2168469003
+    },
+    {
+      "offsetHex": "0x16CBC4",
+      "value": 542722642
+    },
+    {
+      "offsetHex": "0x16CBC8",
+      "value": 855639048
+    },
+    {
+      "offsetHex": "0x16CBCC",
+      "value": 14528
+    },
+    {
+      "offsetHex": "0x16CBD0",
+      "value": 44054028
+    },
+    {
+      "offsetHex": "0x16CBD4",
+      "value": 9215802
+    },
+    {
+      "offsetHex": "0x16CBD8",
+      "value": 360448264
+    },
+    {
+      "offsetHex": "0x16CBDC",
+      "value": 30784
+    },
+    {
+      "offsetHex": "0x16CBE0",
+      "value": 2189440525
+    },
+    {
+      "offsetHex": "0x16CBE4",
+      "value": 1081315591
+    },
+    {
+      "offsetHex": "0x16CBE8",
+      "value": 1161037324
+    },
+    {
+      "offsetHex": "0x16CBEC",
+      "value": 8448
+    },
+    {
+      "offsetHex": "0x16CBF0",
+      "value": 2176857614
+    },
+    {
+      "offsetHex": "0x16CBF4",
+      "value": 7017654
+    },
+    {
+      "offsetHex": "0x16CBF8",
+      "value": 86245632
+    },
+    {
+      "offsetHex": "0x16CBFC",
+      "value": 14336
+    },
+    {
+      "offsetHex": "0x16CC00",
+      "value": 2176857615
+    },
+    {
+      "offsetHex": "0x16CC04",
+      "value": 6442116
+    },
+    {
+      "offsetHex": "0x16CC08",
+      "value": 344457728
+    },
+    {
+      "offsetHex": "0x16CC0C",
+      "value": 8256
+    },
+    {
+      "offsetHex": "0x16CC10",
+      "value": 23082512
+    },
+    {
+      "offsetHex": "0x16CC14",
+      "value": 6425236
+    },
+    {
+      "offsetHex": "0x16CC18",
+      "value": 1426063616
+    },
+    {
+      "offsetHex": "0x16CC1C",
+      "value": 4160
+    }
+  ],
+  "nearbySchemaRuns": []
+}

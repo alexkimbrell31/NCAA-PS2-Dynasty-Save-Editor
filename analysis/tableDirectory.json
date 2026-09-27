@@ -1,0 +1,758 @@
+[
+  {
+    "name": "R",
+    "dirOffsetHex": "0x0010",
+    "pointer": 2889951778,
+    "pointerHex": "0xAC412A22",
+    "rangeEnd": null,
+    "rangeLength": null,
+    "isValidPointer": false
+  },
+  {
+    "name": "BOWL",
+    "dirOffsetHex": "0x0018",
+    "pointer": 0,
+    "pointerHex": "0x00000000",
+    "rangeEnd": null,
+    "rangeLength": null,
+    "isValidPointer": false
+  },
+  {
+    "name": "BXSS",
+    "dirOffsetHex": "0x0020",
+    "pointer": 1792,
+    "pointerHex": "0x00000700",
+    "rangeEnd": 2072,
+    "rangeLength": 280,
+    "isValidPointer": true
+  },
+  {
+    "name": "cSTA",
+    "dirOffsetHex": "0x0028",
+    "pointer": 2072,
+    "pointerHex": "0x00000818",
+    "rangeEnd": 2216,
+    "rangeLength": 144,
+    "isValidPointer": true
+  },
+  {
+    "name": "COCH",
+    "dirOffsetHex": "0x0030",
+    "pointer": 2216,
+    "pointerHex": "0x000008A8",
+    "rangeEnd": 28116,
+    "rangeLength": 25900,
+    "isValidPointer": true
+  },
+  {
+    "name": "CONF",
+    "dirOffsetHex": "0x0038",
+    "pointer": 28116,
+    "pointerHex": "0x00006DD4",
+    "rangeEnd": 28984,
+    "rangeLength": 868,
+    "isValidPointer": true
+  },
+  {
+    "name": "CTCD",
+    "dirOffsetHex": "0x0040",
+    "pointer": 28984,
+    "pointerHex": "0x00007138",
+    "rangeEnd": 31040,
+    "rangeLength": 2056,
+    "isValidPointer": true
+  },
+  {
+    "name": "CTUN",
+    "dirOffsetHex": "0x0048",
+    "pointer": 31040,
+    "pointerHex": "0x00007940",
+    "rangeEnd": 35176,
+    "rangeLength": 4136,
+    "isValidPointer": true
+  },
+  {
+    "name": "DCHT",
+    "dirOffsetHex": "0x0050",
+    "pointer": 35176,
+    "pointerHex": "0x00008968",
+    "rangeEnd": 77856,
+    "rangeLength": 42680,
+    "isValidPointer": true
+  },
+  {
+    "name": "DCGA",
+    "dirOffsetHex": "0x0058",
+    "pointer": 77856,
+    "pointerHex": "0x00013020",
+    "rangeEnd": 78648,
+    "rangeLength": 792,
+    "isValidPointer": true
+  },
+  {
+    "name": "DIVI",
+    "dirOffsetHex": "0x0060",
+    "pointer": 78648,
+    "pointerHex": "0x00013338",
+    "rangeEnd": 78976,
+    "rangeLength": 328,
+    "isValidPointer": true
+  },
+  {
+    "name": "DRPS",
+    "dirOffsetHex": "0x0068",
+    "pointer": 78976,
+    "pointerHex": "0x00013480",
+    "rangeEnd": 79744,
+    "rangeLength": 768,
+    "isValidPointer": true
+  },
+  {
+    "name": "EASP",
+    "dirOffsetHex": "0x0070",
+    "pointer": 79744,
+    "pointerHex": "0x00013780",
+    "rangeEnd": 80036,
+    "rangeLength": 292,
+    "isValidPointer": true
+  },
+  {
+    "name": "GINF",
+    "dirOffsetHex": "0x0078",
+    "pointer": 80036,
+    "pointerHex": "0x000138A4",
+    "rangeEnd": 80664,
+    "rangeLength": 628,
+    "isValidPointer": true
+  },
+  {
+    "name": "GOPT",
+    "dirOffsetHex": "0x0080",
+    "pointer": 80664,
+    "pointerHex": "0x00013B18",
+    "rangeEnd": 82384,
+    "rangeLength": 1720,
+    "isValidPointer": true
+  },
+  {
+    "name": "INJY",
+    "dirOffsetHex": "0x0088",
+    "pointer": 82384,
+    "pointerHex": "0x000141D0",
+    "rangeEnd": 86296,
+    "rangeLength": 3912,
+    "isValidPointer": true
+  },
+  {
+    "name": "IGAM",
+    "dirOffsetHex": "0x0090",
+    "pointer": 86296,
+    "pointerHex": "0x00015118",
+    "rangeEnd": 86464,
+    "rangeLength": 168,
+    "isValidPointer": true
+  },
+  {
+    "name": "LECH",
+    "dirOffsetHex": "0x0098",
+    "pointer": 86464,
+    "pointerHex": "0x000151C0",
+    "rangeEnd": 86616,
+    "rangeLength": 152,
+    "isValidPointer": true
+  },
+  {
+    "name": "LEVT",
+    "dirOffsetHex": "0x00A0",
+    "pointer": 86616,
+    "pointerHex": "0x00015258",
+    "rangeEnd": 91840,
+    "rangeLength": 5224,
+    "isValidPointer": true
+  },
+  {
+    "name": "LEXS",
+    "dirOffsetHex": "0x00A8",
+    "pointer": 91840,
+    "pointerHex": "0x000166C0",
+    "rangeEnd": 92344,
+    "rangeLength": 504,
+    "isValidPointer": true
+  },
+  {
+    "name": "LEAS",
+    "dirOffsetHex": "0x00B0",
+    "pointer": 92344,
+    "pointerHex": "0x000168B8",
+    "rangeEnd": 92560,
+    "rangeLength": 216,
+    "isValidPointer": true
+  },
+  {
+    "name": "LEFP",
+    "dirOffsetHex": "0x00B8",
+    "pointer": 92560,
+    "pointerHex": "0x00016990",
+    "rangeEnd": 92740,
+    "rangeLength": 180,
+    "isValidPointer": true
+  },
+  {
+    "name": "LGLP",
+    "dirOffsetHex": "0x00C0",
+    "pointer": 92740,
+    "pointerHex": "0x00016A44",
+    "rangeEnd": 92832,
+    "rangeLength": 92,
+    "isValidPointer": true
+  },
+  {
+    "name": "LGPL",
+    "dirOffsetHex": "0x00C8",
+    "pointer": 92832,
+    "pointerHex": "0x00016AA0",
+    "rangeEnd": 93124,
+    "rangeLength": 292,
+    "isValidPointer": true
+  },
+  {
+    "name": "LPOP",
+    "dirOffsetHex": "0x00D0",
+    "pointer": 93124,
+    "pointerHex": "0x00016BC4",
+    "rangeEnd": 93260,
+    "rangeLength": 136,
+    "isValidPointer": true
+  },
+  {
+    "name": "MCHG",
+    "dirOffsetHex": "0x00D8",
+    "pointer": 93260,
+    "pointerHex": "0x00016C4C",
+    "rangeEnd": 96580,
+    "rangeLength": 3320,
+    "isValidPointer": true
+  },
+  {
+    "name": "MCOV",
+    "dirOffsetHex": "0x00E0",
+    "pointer": 96580,
+    "pointerHex": "0x00017944",
+    "rangeEnd": 99588,
+    "rangeLength": 3008,
+    "isValidPointer": true
+  },
+  {
+    "name": "MRCT",
+    "dirOffsetHex": "0x00E8",
+    "pointer": 99588,
+    "pointerHex": "0x00018504",
+    "rangeEnd": 123372,
+    "rangeLength": 23784,
+    "isValidPointer": true
+  },
+  {
+    "name": "TMIF",
+    "dirOffsetHex": "0x00F0",
+    "pointer": 123372,
+    "pointerHex": "0x0001E1EC",
+    "rangeEnd": 146436,
+    "rangeLength": 23064,
+    "isValidPointer": true
+  },
+  {
+    "name": "MOIN",
+    "dirOffsetHex": "0x00F8",
+    "pointer": 146436,
+    "pointerHex": "0x00023C04",
+    "rangeEnd": 146652,
+    "rangeLength": 216,
+    "isValidPointer": true
+  },
+  {
+    "name": "MOPT",
+    "dirOffsetHex": "0x0100",
+    "pointer": 146652,
+    "pointerHex": "0x00023CDC",
+    "rangeEnd": 146748,
+    "rangeLength": 96,
+    "isValidPointer": true
+  },
+  {
+    "name": "PCAW",
+    "dirOffsetHex": "0x0108",
+    "pointer": 146748,
+    "pointerHex": "0x00023D3C",
+    "rangeEnd": 146852,
+    "rangeLength": 104,
+    "isValidPointer": true
+  },
+  {
+    "name": "PCCD",
+    "dirOffsetHex": "0x0110",
+    "pointer": 146852,
+    "pointerHex": "0x00023DA4",
+    "rangeEnd": 146972,
+    "rangeLength": 120,
+    "isValidPointer": true
+  },
+  {
+    "name": "PCCK",
+    "dirOffsetHex": "0x0118",
+    "pointer": 146972,
+    "pointerHex": "0x00023E1C",
+    "rangeEnd": 147140,
+    "rangeLength": 168,
+    "isValidPointer": true
+  },
+  {
+    "name": "PCCR",
+    "dirOffsetHex": "0x0120",
+    "pointer": 147140,
+    "pointerHex": "0x00023EC4",
+    "rangeEnd": 147276,
+    "rangeLength": 136,
+    "isValidPointer": true
+  },
+  {
+    "name": "PCCO",
+    "dirOffsetHex": "0x0128",
+    "pointer": 147276,
+    "pointerHex": "0x00023F4C",
+    "rangeEnd": 147524,
+    "rangeLength": 248,
+    "isValidPointer": true
+  },
+  {
+    "name": "PGDE",
+    "dirOffsetHex": "0x0130",
+    "pointer": 147524,
+    "pointerHex": "0x00024044",
+    "rangeEnd": 147788,
+    "rangeLength": 264,
+    "isValidPointer": true
+  },
+  {
+    "name": "PGMP",
+    "dirOffsetHex": "0x0138",
+    "pointer": 147788,
+    "pointerHex": "0x0002414C",
+    "rangeEnd": 147940,
+    "rangeLength": 152,
+    "isValidPointer": true
+  },
+  {
+    "name": "PGKI",
+    "dirOffsetHex": "0x0140",
+    "pointer": 147940,
+    "pointerHex": "0x000241E4",
+    "rangeEnd": 148412,
+    "rangeLength": 472,
+    "isValidPointer": true
+  },
+  {
+    "name": "PGKP",
+    "dirOffsetHex": "0x0148",
+    "pointer": 148412,
+    "pointerHex": "0x000243BC",
+    "rangeEnd": 148596,
+    "rangeLength": 184,
+    "isValidPointer": true
+  },
+  {
+    "name": "PGOF",
+    "dirOffsetHex": "0x0150",
+    "pointer": 148596,
+    "pointerHex": "0x00024474",
+    "rangeEnd": 149004,
+    "rangeLength": 408,
+    "isValidPointer": true
+  },
+  {
+    "name": "PGOL",
+    "dirOffsetHex": "0x0158",
+    "pointer": 149004,
+    "pointerHex": "0x0002460C",
+    "rangeEnd": 149092,
+    "rangeLength": 88,
+    "isValidPointer": true
+  },
+  {
+    "name": "PLAC",
+    "dirOffsetHex": "0x0160",
+    "pointer": 149092,
+    "pointerHex": "0x00024664",
+    "rangeEnd": 211356,
+    "rangeLength": 62264,
+    "isValidPointer": true
+  },
+  {
+    "name": "OSPA",
+    "dirOffsetHex": "0x0168",
+    "pointer": 211356,
+    "pointerHex": "0x0003399C",
+    "rangeEnd": 213116,
+    "rangeLength": 1760,
+    "isValidPointer": true
+  },
+  {
+    "name": "PLSU",
+    "dirOffsetHex": "0x0170",
+    "pointer": 213116,
+    "pointerHex": "0x0003407C",
+    "rangeEnd": 219420,
+    "rangeLength": 6304,
+    "isValidPointer": true
+  },
+  {
+    "name": "PCVT",
+    "dirOffsetHex": "0x0178",
+    "pointer": 219420,
+    "pointerHex": "0x0003591C",
+    "rangeEnd": 219492,
+    "rangeLength": 72,
+    "isValidPointer": true
+  },
+  {
+    "name": "PLPS",
+    "dirOffsetHex": "0x0180",
+    "pointer": 219492,
+    "pointerHex": "0x00035964",
+    "rangeEnd": 220260,
+    "rangeLength": 768,
+    "isValidPointer": true
+  },
+  {
+    "name": "PRLU",
+    "dirOffsetHex": "0x0188",
+    "pointer": 220260,
+    "pointerHex": "0x00035C64",
+    "rangeEnd": 220468,
+    "rangeLength": 208,
+    "isValidPointer": true
+  },
+  {
+    "name": "POSG",
+    "dirOffsetHex": "0x0190",
+    "pointer": 220468,
+    "pointerHex": "0x00035D34",
+    "rangeEnd": 221236,
+    "rangeLength": 768,
+    "isValidPointer": true
+  },
+  {
+    "name": "PSDE",
+    "dirOffsetHex": "0x0198",
+    "pointer": 221236,
+    "pointerHex": "0x00036034",
+    "rangeEnd": 459532,
+    "rangeLength": 238296,
+    "isValidPointer": true
+  },
+  {
+    "name": "PSKI",
+    "dirOffsetHex": "0x01A0",
+    "pointer": 459532,
+    "pointerHex": "0x0007030C",
+    "rangeEnd": 500020,
+    "rangeLength": 40488,
+    "isValidPointer": true
+  },
+  {
+    "name": "PSKP",
+    "dirOffsetHex": "0x01A8",
+    "pointer": 500020,
+    "pointerHex": "0x0007A134",
+    "rangeEnd": 517372,
+    "rangeLength": 17352,
+    "isValidPointer": true
+  },
+  {
+    "name": "PSOF",
+    "dirOffsetHex": "0x01B0",
+    "pointer": 517372,
+    "pointerHex": "0x0007E4FC",
+    "rangeEnd": 784356,
+    "rangeLength": 266984,
+    "isValidPointer": true
+  },
+  {
+    "name": "PSOL",
+    "dirOffsetHex": "0x01B8",
+    "pointer": 784356,
+    "pointerHex": "0x000BF7E4",
+    "rangeEnd": 837788,
+    "rangeLength": 53432,
+    "isValidPointer": true
+  },
+  {
+    "name": "PSRC",
+    "dirOffsetHex": "0x01C0",
+    "pointer": 837788,
+    "pointerHex": "0x000CC89C",
+    "rangeEnd": 842692,
+    "rangeLength": 4904,
+    "isValidPointer": true
+  },
+  {
+    "name": "PSRN",
+    "dirOffsetHex": "0x01C8",
+    "pointer": 842692,
+    "pointerHex": "0x000CDBC4",
+    "rangeEnd": 843180,
+    "rangeLength": 488,
+    "isValidPointer": true
+  },
+  {
+    "name": "PSRT",
+    "dirOffsetHex": "0x01D0",
+    "pointer": 843180,
+    "pointerHex": "0x000CDDAC",
+    "rangeEnd": 843508,
+    "rangeLength": 328,
+    "isValidPointer": true
+  },
+  {
+    "name": "SPYR",
+    "dirOffsetHex": "0x01D8",
+    "pointer": 843508,
+    "pointerHex": "0x000CDEF4",
+    "rangeEnd": 847676,
+    "rangeLength": 4168,
+    "isValidPointer": true
+  },
+  {
+    "name": "SPGA",
+    "dirOffsetHex": "0x01E0",
+    "pointer": 847676,
+    "pointerHex": "0x000CEF3C",
+    "rangeEnd": 847924,
+    "rangeLength": 248,
+    "isValidPointer": true
+  },
+  {
+    "name": "SCHD",
+    "dirOffsetHex": "0x01E8",
+    "pointer": 847924,
+    "pointerHex": "0x000CF034",
+    "rangeEnd": 860988,
+    "rangeLength": 13064,
+    "isValidPointer": true
+  },
+  {
+    "name": "SEAI",
+    "dirOffsetHex": "0x01F0",
+    "pointer": 860988,
+    "pointerHex": "0x000D233C",
+    "rangeEnd": 861288,
+    "rangeLength": 300,
+    "isValidPointer": true
+  },
+  {
+    "name": "TCAL",
+    "dirOffsetHex": "0x01F8",
+    "pointer": 861288,
+    "pointerHex": "0x000D2468",
+    "rangeEnd": 864712,
+    "rangeLength": 3424,
+    "isValidPointer": true
+  },
+  {
+    "name": "TEAM",
+    "dirOffsetHex": "0x0200",
+    "pointer": 864712,
+    "pointerHex": "0x000D31C8",
+    "rangeEnd": 948608,
+    "rangeLength": 83896,
+    "isValidPointer": true
+  },
+  {
+    "name": "TMCO",
+    "dirOffsetHex": "0x0208",
+    "pointer": 948608,
+    "pointerHex": "0x000E7980",
+    "rangeEnd": 948712,
+    "rangeLength": 104,
+    "isValidPointer": true
+  },
+  {
+    "name": "STTM",
+    "dirOffsetHex": "0x0210",
+    "pointer": 948712,
+    "pointerHex": "0x000E79E8",
+    "rangeEnd": 951452,
+    "rangeLength": 2740,
+    "isValidPointer": true
+  },
+  {
+    "name": "TSWP",
+    "dirOffsetHex": "0x0218",
+    "pointer": 951452,
+    "pointerHex": "0x000E849C",
+    "rangeEnd": 953324,
+    "rangeLength": 1872,
+    "isValidPointer": true
+  },
+  {
+    "name": "TSGA",
+    "dirOffsetHex": "0x0220",
+    "pointer": 953324,
+    "pointerHex": "0x000E8BEC",
+    "rangeEnd": 954356,
+    "rangeLength": 1032,
+    "isValidPointer": true
+  },
+  {
+    "name": "TSPR",
+    "dirOffsetHex": "0x0228",
+    "pointer": 954356,
+    "pointerHex": "0x000E8FF4",
+    "rangeEnd": 954476,
+    "rangeLength": 120,
+    "isValidPointer": true
+  },
+  {
+    "name": "TSRD",
+    "dirOffsetHex": "0x0230",
+    "pointer": 954476,
+    "pointerHex": "0x000E906C",
+    "rangeEnd": 954580,
+    "rangeLength": 104,
+    "isValidPointer": true
+  },
+  {
+    "name": "TSSE",
+    "dirOffsetHex": "0x0238",
+    "pointer": 954580,
+    "pointerHex": "0x000E90D4",
+    "rangeEnd": 960892,
+    "rangeLength": 6312,
+    "isValidPointer": true
+  },
+  {
+    "name": "USTG",
+    "dirOffsetHex": "0x0240",
+    "pointer": 960892,
+    "pointerHex": "0x000EA97C",
+    "rangeEnd": 961060,
+    "rangeLength": 168,
+    "isValidPointer": true
+  },
+  {
+    "name": "WQTS",
+    "dirOffsetHex": "0x0248",
+    "pointer": 961060,
+    "pointerHex": "0x000EAA24",
+    "rangeEnd": 976680,
+    "rangeLength": 15620,
+    "isValidPointer": true
+  },
+  {
+    "name": "HEIS",
+    "dirOffsetHex": "0x0250",
+    "pointer": 976680,
+    "pointerHex": "0x000EE728",
+    "rangeEnd": 977096,
+    "rangeLength": 416,
+    "isValidPointer": true
+  },
+  {
+    "name": "PLAY",
+    "dirOffsetHex": "0x0258",
+    "pointer": 977096,
+    "pointerHex": "0x000EE8C8",
+    "rangeEnd": 1453024,
+    "rangeLength": 475928,
+    "isValidPointer": true
+  },
+  {
+    "name": "AAPL",
+    "dirOffsetHex": "0x0260",
+    "pointer": 1453024,
+    "pointerHex": "0x00162BE0",
+    "rangeEnd": 1480408,
+    "rangeLength": 27384,
+    "isValidPointer": true
+  },
+  {
+    "name": "PLGA",
+    "dirOffsetHex": "0x0268",
+    "pointer": 1480408,
+    "pointerHex": "0x001696D8",
+    "rangeEnd": 1491120,
+    "rangeLength": 10712,
+    "isValidPointer": true
+  },
+  {
+    "name": "POAG",
+    "dirOffsetHex": "0x0270",
+    "pointer": 1491120,
+    "pointerHex": "0x0016C0B0",
+    "rangeEnd": 1493720,
+    "rangeLength": 2600,
+    "isValidPointer": true
+  },
+  {
+    "name": "PNLU",
+    "dirOffsetHex": "0x0278",
+    "pointer": 1493720,
+    "pointerHex": "0x0016CAD8",
+    "rangeEnd": 1494048,
+    "rangeLength": 328,
+    "isValidPointer": true
+  },
+  {
+    "name": "SCHT",
+    "dirOffsetHex": "0x0280",
+    "pointer": 1494048,
+    "pointerHex": "0x0016CC20",
+    "rangeEnd": 1494312,
+    "rangeLength": 264,
+    "isValidPointer": true
+  },
+  {
+    "name": "STAD",
+    "dirOffsetHex": "0x0288",
+    "pointer": 1494312,
+    "pointerHex": "0x0016CD28",
+    "rangeEnd": 1534248,
+    "rangeLength": 39936,
+    "isValidPointer": true
+  },
+  {
+    "name": "TRAN",
+    "dirOffsetHex": "0x0290",
+    "pointer": 1534248,
+    "pointerHex": "0x00176928",
+    "rangeEnd": 1536336,
+    "rangeLength": 2088,
+    "isValidPointer": true
+  },
+  {
+    "name": "USDT",
+    "dirOffsetHex": "0x0298",
+    "pointer": 1536336,
+    "pointerHex": "0x00177150",
+    "rangeEnd": 1537416,
+    "rangeLength": 1080,
+    "isValidPointer": true
+  },
+  {
+    "name": "USRT",
+    "dirOffsetHex": "0x02A0",
+    "pointer": 1537416,
+    "pointerHex": "0x00177588",
+    "rangeEnd": 2161664,
+    "rangeLength": 624248,
+    "isValidPointer": true
+  },
+  {
+    "name": "y",
+    "dirOffsetHex": "0x02A8",
+    "pointer": 6,
+    "pointerHex": "0x00000006",
+    "rangeEnd": null,
+    "rangeLength": null,
+    "isValidPointer": false
+  }
+]

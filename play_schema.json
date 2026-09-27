@@ -1,0 +1,354 @@
+[
+  {
+    "index": 0,
+    "fieldName": "WGTY",
+    "fieldOffsetHex": "0x018A8C",
+    "bitOffset": 0,
+    "typeFlag": 0,
+    "bitWidth": 16
+  },
+  {
+    "index": 1,
+    "fieldName": "PRV1",
+    "fieldOffsetHex": "0x0187FC",
+    "bitOffset": 16,
+    "typeFlag": 3,
+    "bitWidth": 16
+  },
+  {
+    "index": 2,
+    "fieldName": "PRV2",
+    "fieldOffsetHex": "0x01882C",
+    "bitOffset": 32,
+    "typeFlag": 3,
+    "bitWidth": 16
+  },
+  {
+    "index": 3,
+    "fieldName": "PRV3",
+    "fieldOffsetHex": "0x01885C",
+    "bitOffset": 48,
+    "typeFlag": 3,
+    "bitWidth": 16
+  },
+  {
+    "index": 4,
+    "fieldName": "PRV4",
+    "fieldOffsetHex": "0x01888C",
+    "bitOffset": 64,
+    "typeFlag": 3,
+    "bitWidth": 16
+  },
+  {
+    "index": 5,
+    "fieldName": "PRV5",
+    "fieldOffsetHex": "0x0188BC",
+    "bitOffset": 80,
+    "typeFlag": 3,
+    "bitWidth": 16
+  },
+  {
+    "index": 6,
+    "fieldName": "PRV6",
+    "fieldOffsetHex": "0x0188EC",
+    "bitOffset": 96,
+    "typeFlag": 3,
+    "bitWidth": 16
+  },
+  {
+    "index": 7,
+    "fieldName": "PRV7",
+    "fieldOffsetHex": "0x01891C",
+    "bitOffset": 112,
+    "typeFlag": 3,
+    "bitWidth": 16
+  },
+  {
+    "index": 8,
+    "fieldName": "RCHD",
+    "fieldOffsetHex": "0x01898C",
+    "bitOffset": 128,
+    "typeFlag": 3,
+    "bitWidth": 16
+  },
+  {
+    "index": 9,
+    "fieldName": "PRID",
+    "fieldOffsetHex": "0x01899C",
+    "bitOffset": 144,
+    "typeFlag": 3,
+    "bitWidth": 8
+  },
+  {
+    "index": 10,
+    "fieldName": "PS01",
+    "fieldOffsetHex": "0x0187DC",
+    "bitOffset": 152,
+    "typeFlag": 3,
+    "bitWidth": 9
+  },
+  {
+    "index": 11,
+    "fieldName": "PT01",
+    "fieldOffsetHex": "0x0187EC",
+    "bitOffset": 161,
+    "typeFlag": 3,
+    "bitWidth": 3
+  },
+  {
+    "index": 12,
+    "fieldName": "PS02",
+    "fieldOffsetHex": "0x01880C",
+    "bitOffset": 164,
+    "typeFlag": 3,
+    "bitWidth": 9
+  },
+  {
+    "index": 13,
+    "fieldName": "PT02",
+    "fieldOffsetHex": "0x01881C",
+    "bitOffset": 173,
+    "typeFlag": 3,
+    "bitWidth": 3
+  },
+  {
+    "index": 14,
+    "fieldName": "PS03",
+    "fieldOffsetHex": "0x01883C",
+    "bitOffset": 176,
+    "typeFlag": 3,
+    "bitWidth": 9
+  },
+  {
+    "index": 15,
+    "fieldName": "PT03",
+    "fieldOffsetHex": "0x01884C",
+    "bitOffset": 185,
+    "typeFlag": 3,
+    "bitWidth": 3
+  },
+  {
+    "index": 16,
+    "fieldName": "PS04",
+    "fieldOffsetHex": "0x01886C",
+    "bitOffset": 188,
+    "typeFlag": 3,
+    "bitWidth": 9
+  },
+  {
+    "index": 17,
+    "fieldName": "PT04",
+    "fieldOffsetHex": "0x01887C",
+    "bitOffset": 197,
+    "typeFlag": 3,
+    "bitWidth": 3
+  },
+  {
+    "index": 18,
+    "fieldName": "PS05",
+    "fieldOffsetHex": "0x01889C",
+    "bitOffset": 200,
+    "typeFlag": 3,
+    "bitWidth": 9
+  },
+  {
+    "index": 19,
+    "fieldName": "PT05",
+    "fieldOffsetHex": "0x0188AC",
+    "bitOffset": 209,
+    "typeFlag": 3,
+    "bitWidth": 3
+  },
+  {
+    "index": 20,
+    "fieldName": "PS06",
+    "fieldOffsetHex": "0x0188CC",
+    "bitOffset": 212,
+    "typeFlag": 3,
+    "bitWidth": 9
+  },
+  {
+    "index": 21,
+    "fieldName": "PT06",
+    "fieldOffsetHex": "0x0188DC",
+    "bitOffset": 221,
+    "typeFlag": 3,
+    "bitWidth": 3
+  },
+  {
+    "index": 22,
+    "fieldName": "PS07",
+    "fieldOffsetHex": "0x0188FC",
+    "bitOffset": 224,
+    "typeFlag": 3,
+    "bitWidth": 9
+  },
+  {
+    "index": 23,
+    "fieldName": "PT07",
+    "fieldOffsetHex": "0x01890C",
+    "bitOffset": 233,
+    "typeFlag": 3,
+    "bitWidth": 3
+  },
+  {
+    "index": 24,
+    "fieldName": "PS08",
+    "fieldOffsetHex": "0x01892C",
+    "bitOffset": 236,
+    "typeFlag": 3,
+    "bitWidth": 9
+  },
+  {
+    "index": 25,
+    "fieldName": "PT08",
+    "fieldOffsetHex": "0x01893C",
+    "bitOffset": 245,
+    "typeFlag": 3,
+    "bitWidth": 3
+  },
+  {
+    "index": 26,
+    "fieldName": "PRV8",
+    "fieldOffsetHex": "0x01894C",
+    "bitOffset": 248,
+    "typeFlag": 3,
+    "bitWidth": 7
+  },
+  {
+    "index": 27,
+    "fieldName": "WGTA",
+    "fieldOffsetHex": "0x01895C",
+    "bitOffset": 255,
+    "typeFlag": 3,
+    "bitWidth": 1
+  },
+  {
+    "index": 28,
+    "fieldName": "STGC",
+    "fieldOffsetHex": "0x01896C",
+    "bitOffset": 256,
+    "typeFlag": 3,
+    "bitWidth": 7
+  },
+  {
+    "index": 29,
+    "fieldName": "WGTC",
+    "fieldOffsetHex": "0x01897C",
+    "bitOffset": 263,
+    "typeFlag": 3,
+    "bitWidth": 14
+  },
+  {
+    "index": 30,
+    "fieldName": "STID",
+    "fieldOffsetHex": "0x0189AC",
+    "bitOffset": 277,
+    "typeFlag": 3,
+    "bitWidth": 1
+  },
+  {
+    "index": 31,
+    "fieldName": "RORD",
+    "fieldOffsetHex": "0x0189BC",
+    "bitOffset": 278,
+    "typeFlag": 3,
+    "bitWidth": 3
+  },
+  {
+    "index": 32,
+    "fieldName": "MSTG",
+    "fieldOffsetHex": "0x0189CC",
+    "bitOffset": 281,
+    "typeFlag": 3,
+    "bitWidth": 13
+  },
+  {
+    "index": 33,
+    "fieldName": "SPSL",
+    "fieldOffsetHex": "0x0189DC",
+    "bitOffset": 294,
+    "typeFlag": 3,
+    "bitWidth": 7
+  },
+  {
+    "index": 34,
+    "fieldName": "WGTL",
+    "fieldOffsetHex": "0x0189EC",
+    "bitOffset": 301,
+    "typeFlag": 3,
+    "bitWidth": 1
+  },
+  {
+    "index": 35,
+    "fieldName": "RCCM",
+    "fieldOffsetHex": "0x0189FC",
+    "bitOffset": 302,
+    "typeFlag": 3,
+    "bitWidth": 13
+  },
+  {
+    "index": 36,
+    "fieldName": "FSPN",
+    "fieldOffsetHex": "0x018A0C",
+    "bitOffset": 315,
+    "typeFlag": 3,
+    "bitWidth": 13
+  },
+  {
+    "index": 37,
+    "fieldName": "LSPN",
+    "fieldOffsetHex": "0x018A1C",
+    "bitOffset": 328,
+    "typeFlag": 3,
+    "bitWidth": 6
+  },
+  {
+    "index": 38,
+    "fieldName": "PFMP",
+    "fieldOffsetHex": "0x018A2C",
+    "bitOffset": 334,
+    "typeFlag": 3,
+    "bitWidth": 1
+  },
+  {
+    "index": 39,
+    "fieldName": "PPSP",
+    "fieldOffsetHex": "0x018A3C",
+    "bitOffset": 335,
+    "typeFlag": 3,
+    "bitWidth": 7
+  },
+  {
+    "index": 40,
+    "fieldName": "WGTP",
+    "fieldOffsetHex": "0x018A4C",
+    "bitOffset": 342,
+    "typeFlag": 3,
+    "bitWidth": 5
+  },
+  {
+    "index": 41,
+    "fieldName": "POVR",
+    "fieldOffsetHex": "0x018A5C",
+    "bitOffset": 347,
+    "typeFlag": 3,
+    "bitWidth": 5
+  },
+  {
+    "index": 42,
+    "fieldName": "PPOS",
+    "fieldOffsetHex": "0x018A6C",
+    "bitOffset": 352,
+    "typeFlag": 3,
+    "bitWidth": 7
+  },
+  {
+    "index": 43,
+    "fieldName": "WGTS",
+    "fieldOffsetHex": "0x018A7C",
+    "bitOffset": 359,
+    "typeFlag": 3,
+    "bitWidth": 7
+  }
+]

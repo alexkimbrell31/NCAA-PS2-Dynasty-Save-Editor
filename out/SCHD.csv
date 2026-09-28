@@ -1,0 +1,786 @@
+week,weekType,day,kickoff,awayTeam,homeTeam,result,winner,conferenceGame,userGame,GTOD,GATG,GHTG,GSTA,GASC,GHSC,GDAT,SEWT,SGNM,SEWN,GFOT,GFFU,GFHU,GMFX
+0,Regular Season,Saturday,8:00pm,Kentucky Wildcats,Louisville Cardinals,,,no,no,1200,42,44,0,0,0,5,0,69,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Marshall Thundering Herd,West Virginia Mountaineers,20-38,West Virginia Mountaineers,no,no,750,46,112,2,20,38,5,0,17,0,0,0,0,0
+1,Regular Season,Saturday,6:00pm,Colorado Buffs,Colorado State Rams,,,no,no,1080,22,23,0,0,0,5,1,54,1,0,0,0,0
+1,Regular Season,Saturday,6:00pm,Idaho Vandals,Washington State Cougars,,,no,no,1080,34,111,0,0,0,5,1,55,1,0,0,0,0
+1,Regular Season,Saturday,8:00pm,New Mexico Lobos,New Mexico State Aggies,,,no,no,1200,60,61,0,0,0,5,1,63,1,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Iowa State Cyclones,Iowa Hawkeyes,,,no,no,750,38,37,0,0,0,5,2,25,2,0,0,0,0
+2,Regular Season,Saturday,3:30pm,Michigan Wolverines,Notre Dame Fighting Irish,,,no,no,930,51,68,0,0,0,5,2,45,2,0,0,0,0
+2,Regular Season,Saturday,8:00pm,Utah Utes,Utah State Aggies,,,no,no,1200,103,104,0,0,0,5,2,61,2,0,0,0,0
+2,Regular Season,Thursday,3:30pm,Maryland Terrapins,West Virginia Mountaineers,,,no,no,930,47,112,0,0,0,3,2,1,2,0,0,0,0
+3,Regular Season,Saturday,3:30pm,Notre Dame Fighting Irish,Michigan State Spartans,,,no,no,930,68,52,0,0,0,5,3,24,3,0,0,0,0
+3,Regular Season,Saturday,6:00pm,UTEP Miners,New Mexico Lobos,,,no,no,1080,105,60,0,0,0,5,3,56,3,0,0,0,0
+4,Regular Season,Saturday,12:30pm,Miami University RedHawks,Cincinnati Bearcats,,,no,no,750,50,20,0,0,0,5,4,18,4,0,0,0,0
+4,Regular Season,Saturday,3:30pm,Purdue Boilermakers,Notre Dame Fighting Irish,,,no,no,930,78,68,0,0,0,5,4,19,4,0,0,0,0
+4,Regular Season,Saturday,6:00pm,Nevada Wolf Pack,UNLV Rebels,,,no,no,1080,59,101,0,0,0,5,4,53,4,0,0,0,0
+4,Regular Season,Saturday,3:30pm,New Mexico State Aggies,UTEP Miners,,,no,no,930,61,105,0,0,0,5,4,23,4,0,0,0,0
+5,Regular Season,Saturday,3:30pm,Navy Midshipmen,Air Force Falcons,,,no,no,930,57,1,0,0,0,5,5,22,5,0,0,0,0
+5,Regular Season,Saturday,8:00pm,Stanford Cardinal,Notre Dame Fighting Irish,,,no,no,1200,87,68,0,0,0,5,5,56,5,0,0,0,0
+8,Regular Season,Saturday,3:30pm,Notre Dame Fighting Irish,Navy Midshipmen,,,no,no,930,68,57,0,0,0,5,8,21,8,0,0,0,0
+9,Regular Season,Friday,3:30pm,Air Force Falcons,Army Black Knights,,,no,no,930,1,8,0,0,0,4,9,3,9,0,0,0,0
+12,Regular Season,Saturday,12:30pm,South Carolina Gamecocks,Clemson Tigers,,,no,no,750,84,21,0,0,0,5,12,14,12,0,0,0,0
+12,Regular Season,Saturday,3:30pm,Florida Gators,Florida State Seminoles,,,no,no,930,27,28,0,0,0,5,12,36,12,0,0,0,0
+12,Regular Season,Saturday,12:30pm,Georgia Tech Yellow Jackets,Georgia Bulldogs,,,no,no,750,31,30,0,0,0,5,12,15,12,0,0,0,0
+12,Regular Season,Saturday,8:00pm,Notre Dame Fighting Irish,USC Trojans,,,no,no,1200,68,102,0,0,0,5,12,45,12,0,0,0,0
+13,Regular Season,Saturday,12:30pm,Navy Midshipmen,Army Black Knights,,,no,no,750,57,8,0,0,0,5,13,4,13,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Sam Houston St Bearkats,SMU Mustangs,,,no,no,750,217,83,0,0,0,5,2,21,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Wofford Terriers,South Carolina Gamecocks,,,no,no,750,196,84,0,0,0,5,2,20,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,NC State Wolfpack,Southern Miss Golden Eagles,,,no,no,750,63,85,0,0,0,5,2,19,2,0,0,0,0
+2,Regular Season,Saturday,3:30pm,1AA Southeast,UL Lafayette Ragin' Cajuns,,,no,no,930,164,86,0,0,0,5,2,46,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Navy Midshipmen,Stanford Cardinal,,,no,no,750,57,87,0,0,0,5,2,18,2,0,0,0,0
+2,Regular Season,Saturday,3:30pm,Texas Tech Red Raiders,TCU Horned Frogs,,,no,no,930,94,89,0,0,0,5,2,44,2,0,0,0,0
+2,Regular Season,Saturday,3:30pm,Florida Gators,Tennessee Volunteers,,,yes,no,930,27,91,0,0,0,5,2,43,2,0,0,0,1
+2,Regular Season,Saturday,12:30pm,Army Black Knights,Texas A&M Aggies,,,no,no,750,8,93,0,0,0,5,2,24,2,0,0,0,0
+2,Regular Season,Friday,6:00pm,Kansas Jayhawks,Toledo Rockets,,,no,no,1080,39,95,0,0,0,4,2,2,2,0,0,0,0
+2,Regular Season,Saturday,6:00pm,North Texas Mean Green,Tulsa Golden Hurricane,,,no,no,1080,64,97,0,0,0,5,2,60,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,USF Bulls,UCF Golden Knights,,,no,no,750,144,18,0,0,0,5,2,23,2,0,0,0,0
+2,Regular Season,Saturday,6:00pm,Wake Forest Demon Deacons,Connecticut Huskies,,,no,no,1080,109,100,0,0,0,5,2,59,2,0,0,0,0
+2,Regular Season,Saturday,3:30pm,Nebraska Cornhuskers,USC Trojans,,,no,no,930,58,102,0,0,0,5,2,42,2,0,0,0,0
+2,Regular Season,Saturday,6:00pm,Arkansas Razorbacks,Vanderbilt Commodores,,,yes,no,1080,6,106,0,0,0,5,2,58,2,0,0,0,1
+2,Regular Season,Saturday,6:00pm,Western Michigan Broncos,Virginia Cavaliers,,,no,no,1080,113,107,0,0,0,5,2,57,2,0,0,0,0
+2,Regular Season,Saturday,3:30pm,Duke Blue Devils,Virginia Tech Hokies,,,yes,no,930,24,108,0,0,0,5,2,29,2,0,0,0,1
+2,Regular Season,Saturday,12:30pm,Fresno State Bulldogs,Washington Huskies,,,no,yes,750,29,110,0,0,0,5,2,22,2,0,1,1,0
+2,Regular Season,Saturday,6:00pm,Baylor Bears,Washington State Cougars,,,no,no,1080,11,111,0,0,0,5,2,56,2,0,0,0,0
+2,Regular Season,Saturday,3:30pm,San Diego State Aztecs,Wisconsin Badgers,,,no,no,930,81,114,0,0,0,5,2,28,2,0,0,0,0
+2,Regular Season,Saturday,3:30pm,Boise State Broncos,Wyoming Cowboys,,,no,no,930,12,115,0,0,0,5,2,27,2,0,0,0,0
+3,Regular Season,Saturday,3:30pm,North Texas Mean Green,Akron Zips,,,no,no,930,64,2,0,0,0,5,3,25,3,0,0,0,0
+3,Regular Season,Saturday,12:30pm,USC Trojans,Arizona Wildcats,,,yes,no,750,102,4,0,0,0,5,3,23,3,0,0,0,1
+3,Regular Season,Saturday,3:30pm,Alabama Crimson Tide,Arkansas Razorbacks,,,yes,no,930,3,6,0,0,0,5,3,44,3,0,0,0,1
+3,Regular Season,Saturday,12:30pm,Buffalo Bulls,Auburn Tigers,,,no,no,750,15,9,0,0,0,5,3,22,3,0,0,0,0
+3,Regular Season,Saturday,3:30pm,1AA Midwest,Ball State Cardinals,,,no,no,930,163,10,0,0,0,5,3,43,3,0,0,0,0
+3,Regular Season,Saturday,3:30pm,Army Black Knights,Baylor Bears,,,no,no,930,8,11,0,0,0,5,3,42,3,0,0,0,0
+3,Regular Season,Saturday,12:30pm,Hawaii Warriors,Boise State Broncos,,,yes,no,750,32,12,0,0,0,5,3,21,3,0,0,0,1
+3,Regular Season,Saturday,12:30pm,Kent State Golden Flashes,Bowling Green Falcons,,,yes,no,750,41,14,0,0,0,5,3,20,3,0,0,0,1
+3,Regular Season,Saturday,12:30pm,Utah State Aggies,BYU Cougars,,,no,no,750,104,16,0,0,0,5,3,19,3,0,0,0,0
+3,Regular Season,Saturday,3:30pm,Arizona State Sun Devils,Cal Golden Bears,,,yes,no,930,5,17,0,0,0,5,3,41,3,0,0,0,1
+3,Regular Season,Saturday,12:30pm,North Carolina Tar Heels,Clemson Tigers,,,yes,no,750,62,21,0,0,0,5,3,18,3,0,0,0,1
+3,Regular Season,Saturday,12:30pm,Central Michigan Chippewas,Eastern Michigan Eagles,,,yes,no,750,19,26,0,0,0,5,3,17,3,0,0,0,1
+3,Regular Season,Saturday,12:30pm,West Virginia Mountaineers,ECU Pirates,,,no,no,750,112,25,0,0,0,5,3,16,3,0,0,0,0
+3,Regular Season,Saturday,3:30pm,Kentucky Wildcats,Florida Gators,,,yes,no,930,42,27,0,0,0,5,3,40,3,0,0,0,1
+3,Regular Season,Saturday,3:30pm,Rice Owls,Florida State Seminoles,,,no,no,930,79,28,0,0,0,5,3,39,3,0,0,0,0
+3,Regular Season,Saturday,6:00pm,Colorado Buffs,Georgia Bulldogs,,,no,no,1080,22,30,0,0,0,5,3,55,3,0,0,0,0
+3,Regular Season,Thursday,6:00pm,Virginia Cavaliers,Georgia Tech Yellow Jackets,,,yes,no,1080,107,31,0,0,0,3,3,0,3,0,0,0,1
+3,Regular Season,Saturday,12:30pm,Oklahoma State Cowboys,Houston Cougars,,,no,no,750,72,33,0,0,0,5,3,15,3,0,0,0,0
+3,Regular Season,Saturday,6:00pm,Iowa Hawkeyes,Illinois Fighting Illini,,,yes,no,1080,37,35,0,0,0,5,3,54,3,0,0,0,1
+3,Regular Season,Saturday,3:30pm,Connecticut Huskies,Indiana Hoosiers,,,no,no,930,100,36,0,0,0,5,3,38,3,0,0,0,0
+3,Regular Season,Saturday,6:00pm,USF Bulls,Kansas Jayhawks,,,no,no,1080,144,39,0,0,0,5,3,53,3,0,0,0,0
+3,Regular Season,Saturday,3:30pm,Louisville Cardinals,Kansas State Wildcats,,,no,no,930,44,40,0,0,0,5,3,37,3,0,0,0,0
+3,Regular Season,Saturday,12:30pm,Tulane Green Wave,LSU Tigers,,,no,no,750,96,45,0,0,0,5,3,14,3,0,0,0,0
+3,Regular Season,Saturday,12:30pm,FIU Golden Panthers,Maryland Terrapins,,,no,no,750,230,47,0,0,0,5,3,13,3,0,0,0,0
+3,Regular Season,Saturday,3:30pm,Wisconsin Badgers,Michigan Wolverines,,,yes,no,930,114,51,0,0,0,5,3,36,3,0,0,0,1
+3,Regular Season,Saturday,12:30pm,Ohio Bobcats,Missouri Tigers,,,no,no,750,69,56,0,0,0,5,3,12,3,0,0,0,0
+3,Regular Season,Saturday,12:30pm,Tulsa Golden Hurricane,Navy Midshipmen,,,no,no,750,97,57,0,0,0,5,3,11,3,0,0,0,0
+3,Regular Season,Saturday,3:30pm,Boston College Eagles,NC State Wolfpack,,,yes,no,930,13,63,0,0,0,5,3,35,3,0,0,0,1
+3,Regular Season,Saturday,3:30pm,Troy Trojans,Nebraska Cornhuskers,,,no,no,930,143,58,0,0,0,5,3,34,3,0,0,0,0
+3,Regular Season,Friday,6:00pm,Northwestern Wildcats,Nevada Wolf Pack,,,no,no,1080,67,59,0,0,0,4,3,1,3,0,0,0,0
+3,Regular Season,Saturday,3:30pm,Indiana State Sycamores,Northern Illinois Huskies,,,no,no,930,206,66,0,0,0,5,3,33,3,0,0,0,0
+3,Regular Season,Saturday,6:00pm,Penn State Nittany Lions,Ohio State Buckeyes,,,yes,no,1080,76,70,0,0,0,5,3,52,3,0,0,0,1
+3,Regular Season,Saturday,3:30pm,Mid Tenn State Blue Raiders,Oklahoma Sooners,,,no,no,930,53,71,0,0,0,5,3,32,3,0,0,0,0
+3,Regular Season,Saturday,6:00pm,Wake Forest Demon Deacons,Ole Miss Rebels,,,no,no,1080,109,73,0,0,0,5,3,51,3,0,0,0,0
+3,Regular Season,Saturday,6:00pm,Idaho Vandals,Oregon State Beavers,,,no,no,1080,34,75,0,0,0,5,3,50,3,0,0,0,0
+3,Regular Season,Saturday,12:30pm,The Citadel Bulldogs,Pittsburgh Panthers,,,no,no,750,189,77,0,0,0,5,3,10,3,0,0,0,0
+3,Regular Season,Saturday,6:00pm,Minnesota Golden Gophers,Purdue Boilermakers,,,yes,no,1080,54,78,0,0,0,5,3,49,3,0,0,0,1
+3,Regular Season,Saturday,3:30pm,Howard Bison,Rutgers Scarlet Knights,,,no,no,930,130,80,0,0,0,5,3,31,3,0,0,0,0
+3,Regular Season,Saturday,3:30pm,Utah Utes,San Diego State Aztecs,,,yes,no,930,103,81,0,0,0,5,3,30,3,0,0,0,1
+3,Regular Season,Saturday,12:30pm,1AA West,San Jose State Spartans,,,no,no,750,161,82,0,0,0,5,3,9,3,0,0,0,0
+3,Regular Season,Saturday,12:30pm,Arkansas State Indians,SMU Mustangs,,,no,no,750,7,83,0,0,0,5,3,8,3,0,0,0,0
+3,Regular Season,Saturday,3:30pm,Florida Atlantic Owls,South Carolina Gamecocks,,,no,no,930,229,84,0,0,0,5,3,29,3,0,0,0,0
+3,Regular Season,Saturday,12:30pm,Washington State Cougars,Stanford Cardinal,,,yes,no,750,111,87,0,0,0,5,3,7,3,0,0,0,1
+3,Regular Season,Saturday,12:30pm,Miami University RedHawks,Syracuse Orange,,,no,no,750,50,88,0,0,0,5,3,6,3,0,0,0,0
+3,Regular Season,Saturday,3:30pm,Marshall Thundering Herd,Tennessee Volunteers,,,no,no,930,46,91,0,0,0,5,3,28,3,0,0,0,0
+3,Regular Season,Saturday,12:30pm,Iowa State Cyclones,Texas Longhorns,,,yes,no,750,38,92,0,0,0,5,3,5,3,0,0,0,1
+3,Regular Season,Saturday,12:30pm,Louisiana Tech Bulldogs,Texas A&M Aggies,,,no,no,750,43,93,0,0,0,5,3,4,3,0,0,0,0
+3,Regular Season,Saturday,6:00pm,Southeastern Lions,Texas Tech Red Raiders,,,no,no,1080,231,94,0,0,0,5,3,48,3,0,0,0,0
+3,Regular Season,Saturday,6:00pm,McNeese State Cowboys,Toledo Rockets,,,no,no,1080,213,95,0,0,0,5,3,47,3,0,0,0,0
+3,Regular Season,Saturday,6:00pm,Mississippi State Bulldogs,UAB Blazers,,,no,no,1080,55,98,0,0,0,5,3,46,3,0,0,0,0
+3,Regular Season,Saturday,3:30pm,Tennessee State Tigers,Vanderbilt Commodores,,,no,no,930,225,106,0,0,0,5,3,27,3,0,0,0,0
+3,Regular Season,Saturday,6:00pm,Cincinnati Bearcats,Virginia Tech Hokies,,,no,no,1080,20,108,0,0,0,5,3,45,3,0,0,0,0
+3,Regular Season,Saturday,3:30pm,UCLA Bruins,Washington Huskies,,,yes,yes,930,99,110,0,0,0,5,3,26,3,0,1,1,1
+3,Regular Season,Saturday,12:30pm,Temple Owls,Western Michigan Broncos,,,no,no,750,90,113,0,0,0,5,3,3,3,0,0,0,0
+3,Regular Season,Saturday,12:30pm,Air Force Falcons,Wyoming Cowboys,,,yes,no,750,1,115,0,0,0,5,3,2,3,0,0,0,1
+4,Regular Season,Saturday,3:30pm,New Mexico Lobos,Air Force Falcons,,,yes,no,930,60,1,0,0,0,5,4,22,4,0,0,0,1
+4,Regular Season,Saturday,3:30pm,Washington Huskies,Arizona Wildcats,,,yes,yes,930,110,4,0,0,0,5,4,21,4,0,1,1,1
+4,Regular Season,Saturday,12:30pm,Oregon Ducks,Arizona State Sun Devils,,,yes,no,750,74,5,0,0,0,5,4,17,4,0,0,0,1
+4,Regular Season,Saturday,6:00pm,Rice Owls,Army Black Knights,,,no,no,1080,79,8,0,0,0,5,4,52,4,0,0,0,0
+4,Regular Season,Saturday,12:30pm,Northern Illinois Huskies,Ball State Cardinals,,,yes,no,750,66,10,0,0,0,5,4,16,4,0,0,0,1
+4,Regular Season,Saturday,6:00pm,Kansas State Wildcats,Baylor Bears,,,yes,no,1080,40,11,0,0,0,5,4,51,4,0,0,0,1
+4,Regular Season,Saturday,3:30pm,Maine Black Bears,Boston College Eagles,,,no,no,930,180,13,0,0,0,5,4,20,4,0,0,0,0
+4,Regular Season,Saturday,6:00pm,Louisiana Tech Bulldogs,Clemson Tigers,,,no,no,1080,43,21,0,0,0,5,4,50,4,0,0,0,0
+4,Regular Season,Saturday,3:30pm,Virginia Cavaliers,Duke Blue Devils,,,yes,no,930,107,24,0,0,0,5,4,36,4,0,0,0,1
+4,Regular Season,Saturday,3:30pm,Arkansas State Indians,FIU Golden Panthers,,,yes,no,930,7,230,0,0,0,5,4,35,4,0,0,0,1
+4,Regular Season,Saturday,12:30pm,Alabama Crimson Tide,Florida Gators,,,yes,no,750,3,27,0,0,0,5,4,15,4,0,0,0,1
+4,Regular Season,Saturday,12:30pm,Colorado State Rams,Fresno State Bulldogs,,,no,no,750,23,29,0,0,0,5,4,14,4,0,0,0,0
+4,Regular Season,Saturday,3:30pm,Wisconsin Badgers,Indiana Hoosiers,,,yes,no,930,114,36,0,0,0,5,4,34,4,0,0,0,1
+4,Regular Season,Saturday,12:30pm,Ohio State Buckeyes,Iowa Hawkeyes,,,yes,no,750,70,37,0,0,0,5,4,13,4,0,0,0,1
+4,Regular Season,Saturday,3:30pm,UNI Panthers,Iowa State Cyclones,,,no,no,930,207,38,0,0,0,5,4,33,4,0,0,0,0
+4,Regular Season,Saturday,12:30pm,Akron Zips,Kent State Golden Flashes,,,yes,no,750,2,41,0,0,0,5,4,12,4,0,0,0,1
+4,Regular Season,Saturday,6:00pm,Central Michigan Chippewas,Kentucky Wildcats,,,no,no,1080,19,42,0,0,0,5,4,49,4,0,0,0,0
+4,Regular Season,Saturday,6:00pm,Mississippi State Bulldogs,LSU Tigers,,,yes,no,1080,55,45,0,0,0,5,4,48,4,0,0,0,1
+4,Regular Season,Saturday,3:30pm,Tennessee Volunteers,Memphis Tigers,,,no,no,930,91,48,0,0,0,5,4,32,4,0,0,0,0
+4,Regular Season,Saturday,12:30pm,Houston Cougars,Miami Hurricanes,,,no,no,750,33,49,0,0,0,5,4,11,4,0,0,0,0
+4,Regular Season,Saturday,6:00pm,Illinois Fighting Illini,Michigan State Spartans,,,yes,no,1080,35,52,0,0,0,5,4,47,4,0,0,0,1
+4,Regular Season,Saturday,6:00pm,Michigan Wolverines,Minnesota Golden Gophers,,,yes,no,1080,51,54,0,0,0,5,4,46,4,0,0,0,1
+4,Regular Season,Saturday,6:00pm,Colorado Buffs,Missouri Tigers,,,yes,no,1080,22,56,0,0,0,5,4,45,4,0,0,0,1
+4,Regular Season,Saturday,3:30pm,Kansas Jayhawks,Nebraska Cornhuskers,,,yes,no,930,39,58,0,0,0,5,4,31,4,0,0,0,1
+4,Regular Season,Saturday,6:00pm,Mid Tenn State Blue Raiders,North Texas Mean Green,,,yes,no,1080,53,64,0,0,0,5,4,44,4,0,0,0,1
+4,Regular Season,Saturday,3:30pm,Bowling Green Falcons,Ohio Bobcats,,,yes,no,930,14,69,0,0,0,5,4,30,4,0,0,0,1
+4,Regular Season,Saturday,3:30pm,Georgia Bulldogs,Ole Miss Rebels,,,yes,no,930,30,73,0,0,0,5,4,29,4,0,0,0,1
+4,Regular Season,Saturday,12:30pm,Cal Golden Bears,Oregon State Beavers,,,yes,no,750,17,75,0,0,0,5,4,10,4,0,0,0,1
+4,Regular Season,Saturday,6:00pm,Northwestern Wildcats,Penn State Nittany Lions,,,yes,no,1080,67,76,0,0,0,5,4,43,4,0,0,0,1
+4,Regular Season,Saturday,3:30pm,Toledo Rockets,Pittsburgh Panthers,,,no,no,930,95,77,0,0,0,5,4,28,4,0,0,0,0
+4,Regular Season,Saturday,6:00pm,San Diego State Aztecs,San Jose State Spartans,,,no,no,1080,81,82,0,0,0,5,4,42,4,0,0,0,0
+4,Regular Season,Thursday,6:00pm,Auburn Tigers,South Carolina Gamecocks,,,yes,no,1080,9,84,0,0,0,3,4,2,4,0,0,0,1
+4,Regular Season,Thursday,6:00pm,BYU Cougars,TCU Horned Frogs,,,yes,no,1080,16,89,0,0,0,3,4,1,4,0,0,0,1
+4,Regular Season,Saturday,3:30pm,Sam Houston St Bearkats,Texas Longhorns,,,no,no,930,217,92,0,0,0,5,4,27,4,0,0,0,0
+4,Regular Season,Saturday,3:30pm,Texas Tech Red Raiders,Texas A&M Aggies,,,yes,no,930,94,93,0,0,0,5,4,26,4,0,0,0,1
+4,Regular Season,Saturday,3:30pm,SMU Mustangs,Tulane Green Wave,,,yes,no,930,83,96,0,0,0,5,4,25,4,0,0,0,1
+4,Regular Season,Saturday,12:30pm,Troy Trojans,UAB Blazers,,,no,no,750,143,98,0,0,0,5,4,9,4,0,0,0,0
+4,Regular Season,Tuesday,6:00pm,Southern Miss Golden Eagles,UCF Golden Knights,,,yes,no,1080,85,18,0,0,0,1,4,0,4,0,0,0,1
+4,Regular Season,Saturday,12:30pm,Stanford Cardinal,UCLA Bruins,,,yes,no,750,87,99,0,0,0,5,4,8,4,0,0,0,1
+4,Regular Season,Saturday,3:30pm,Navy Midshipmen,Connecticut Huskies,,,no,no,930,57,100,0,0,0,5,4,24,4,0,0,0,0
+4,Regular Season,Saturday,6:00pm,Eastern Michigan Eagles,UL Lafayette Ragin' Cajuns,,,no,no,1080,26,86,0,0,0,5,4,41,4,0,0,0,0
+4,Regular Season,Saturday,12:30pm,Florida Atlantic Owls,UL Monroe Warhawks,,,yes,no,750,229,65,0,0,0,5,4,7,4,0,0,0,1
+4,Regular Season,Friday,6:00pm,Rutgers Scarlet Knights,USF Bulls,,,yes,no,1080,80,144,0,0,0,4,4,3,4,0,0,0,1
+4,Regular Season,Saturday,12:30pm,Boise State Broncos,Utah Utes,,,no,no,750,12,103,0,0,0,5,4,6,4,0,0,0,0
+4,Regular Season,Saturday,12:30pm,Idaho Vandals,Utah State Aggies,,,yes,no,750,34,104,0,0,0,5,4,5,4,0,0,0,1
+4,Regular Season,Saturday,6:00pm,Temple Owls,Vanderbilt Commodores,,,no,no,1080,90,106,0,0,0,5,4,40,4,0,0,0,0
+4,Regular Season,Saturday,6:00pm,Georgia Tech Yellow Jackets,Virginia Tech Hokies,,,yes,no,1080,31,108,0,0,0,5,4,39,4,0,0,0,1
+4,Regular Season,Saturday,6:00pm,1AA East,Wake Forest Demon Deacons,,,no,no,1080,160,109,0,0,0,5,4,38,4,0,0,0,0
+4,Regular Season,Saturday,12:30pm,USC Trojans,Washington State Cougars,,,yes,no,750,102,111,0,0,0,5,4,4,4,0,0,0,1
+4,Regular Season,Saturday,6:00pm,Wyoming Cowboys,Syracuse Orange,,,no,no,1080,115,88,0,0,0,5,4,37,4,0,0,0,0
+5,Regular Season,Saturday,12:30pm,Duke Blue Devils,Alabama Crimson Tide,,,no,no,750,24,3,0,0,0,5,5,21,5,0,0,0,0
+5,Regular Season,Saturday,12:30pm,UL Monroe Warhawks,Arkansas State Indians,,,yes,no,750,65,7,0,0,0,5,5,20,5,0,0,0,1
+5,Regular Season,Saturday,3:30pm,1AA East,Army Black Knights,,,no,no,930,160,8,0,0,0,5,5,44,5,0,0,0,0
+5,Regular Season,Saturday,3:30pm,Arkansas Razorbacks,Auburn Tigers,,,yes,no,930,6,9,0,0,0,5,5,43,5,0,0,0,1
+5,Regular Season,Saturday,12:30pm,Louisiana Tech Bulldogs,Boise State Broncos,,,yes,no,750,43,12,0,0,0,5,5,19,5,0,0,0,1
+5,Regular Season,Saturday,3:30pm,Ball State Cardinals,Buffalo Bulls,,,yes,no,930,10,15,0,0,0,5,5,25,5,0,0,0,1
+5,Regular Season,Saturday,6:00pm,San Diego State Aztecs,BYU Cougars,,,yes,no,1080,81,16,0,0,0,5,5,55,5,0,0,0,1
+5,Regular Season,Saturday,6:00pm,Oregon Ducks,Cal Golden Bears,,,yes,no,1080,74,17,0,0,0,5,5,54,5,0,0,0,1
+5,Regular Season,Saturday,3:30pm,Akron Zips,Cincinnati Bearcats,,,no,no,930,2,20,0,0,0,5,5,24,5,0,0,0,0
+5,Regular Season,Saturday,3:30pm,Baylor Bears,Colorado Buffs,,,yes,no,930,11,22,0,0,0,5,5,23,5,0,0,0,1
+5,Regular Season,Saturday,12:30pm,UNLV Rebels,Colorado State Rams,,,yes,no,750,101,23,0,0,0,5,5,18,5,0,0,0,1
+5,Regular Season,Saturday,12:30pm,Virginia Cavaliers,ECU Pirates,,,no,no,750,107,25,0,0,0,5,5,17,5,0,0,0,0
+5,Regular Season,Saturday,12:30pm,LSU Tigers,Florida Gators,,,yes,no,750,45,27,0,0,0,5,5,16,5,0,0,0,1
+5,Regular Season,Saturday,3:30pm,Tennessee Volunteers,Georgia Bulldogs,,,yes,no,930,91,30,0,0,0,5,5,42,5,0,0,0,1
+5,Regular Season,Saturday,12:30pm,Maryland Terrapins,Georgia Tech Yellow Jackets,,,yes,no,750,47,31,0,0,0,5,5,15,5,0,0,0,1
+5,Regular Season,Saturday,3:30pm,Nevada Wolf Pack,Hawaii Warriors,,,yes,no,930,59,32,0,0,0,5,5,41,5,0,0,0,1
+5,Regular Season,Saturday,6:00pm,UL Lafayette Ragin' Cajuns,Houston Cougars,,,no,no,1080,86,33,0,0,0,5,5,53,5,0,0,0,0
+5,Regular Season,Saturday,6:00pm,New Mexico State Aggies,Idaho Vandals,,,yes,no,1080,61,34,0,0,0,5,5,52,5,0,0,0,1
+5,Regular Season,Saturday,12:30pm,Indiana Hoosiers,Illinois Fighting Illini,,,yes,no,750,36,35,0,0,0,5,5,14,5,0,0,0,1
+5,Regular Season,Saturday,6:00pm,Purdue Boilermakers,Iowa Hawkeyes,,,yes,no,1080,78,37,0,0,0,5,5,51,5,0,0,0,1
+5,Regular Season,Saturday,3:30pm,Nebraska Cornhuskers,Iowa State Cyclones,,,yes,no,930,58,38,0,0,0,5,5,40,5,0,0,0,1
+5,Regular Season,Saturday,12:30pm,Texas A&M Aggies,Kansas Jayhawks,,,yes,no,750,93,39,0,0,0,5,5,13,5,0,0,0,1
+5,Regular Season,Saturday,3:30pm,Oklahoma State Cowboys,Kansas State Wildcats,,,yes,no,930,72,40,0,0,0,5,5,39,5,0,0,0,1
+5,Regular Season,Saturday,6:00pm,South Carolina Gamecocks,Kentucky Wildcats,,,yes,no,1080,84,42,0,0,0,5,5,50,5,0,0,0,1
+5,Regular Season,Wednesday,6:00pm,UCF Golden Knights,Marshall Thundering Herd,,,yes,no,1080,18,46,0,0,0,2,5,1,5,0,0,0,1
+5,Regular Season,Saturday,6:00pm,North Carolina Tar Heels,Miami Hurricanes,,,yes,no,1080,62,49,0,0,0,5,5,49,5,0,0,0,1
+5,Regular Season,Saturday,3:30pm,Northern Illinois Huskies,Miami University RedHawks,,,yes,no,930,66,50,0,0,0,5,5,38,5,0,0,0,1
+5,Regular Season,Saturday,3:30pm,Michigan State Spartans,Michigan Wolverines,,,yes,no,930,52,51,0,0,0,5,5,37,5,0,0,0,1
+5,Regular Season,Friday,6:00pm,Louisville Cardinals,Mid Tenn State Blue Raiders,,,no,no,1080,44,53,0,0,0,4,5,4,5,0,0,0,0
+5,Regular Season,Saturday,6:00pm,Penn State Nittany Lions,Minnesota Golden Gophers,,,yes,no,1080,76,54,0,0,0,5,5,48,5,0,0,0,1
+5,Regular Season,Saturday,3:30pm,West Virginia Mountaineers,Mississippi State Bulldogs,,,no,no,930,112,55,0,0,0,5,5,36,5,0,0,0,0
+5,Regular Season,Thursday,6:00pm,Florida State Seminoles,NC State Wolfpack,,,yes,no,1080,28,63,0,0,0,3,5,3,5,0,0,0,1
+5,Regular Season,Saturday,12:30pm,Wyoming Cowboys,New Mexico Lobos,,,yes,no,750,115,60,0,0,0,5,5,12,5,0,0,0,1
+5,Regular Season,Saturday,3:30pm,FIU Golden Panthers,North Texas Mean Green,,,yes,no,930,230,64,0,0,0,5,5,35,5,0,0,0,1
+5,Regular Season,Saturday,3:30pm,Western Michigan Broncos,Ohio Bobcats,,,yes,no,930,113,69,0,0,0,5,5,34,5,0,0,0,1
+5,Regular Season,Saturday,12:30pm,Bowling Green Falcons,Ohio State Buckeyes,,,no,no,750,14,70,0,0,0,5,5,11,5,0,0,0,0
+5,Regular Season,Saturday,3:30pm,Texas Longhorns,Oklahoma Sooners,,,yes,no,930,92,71,0,0,0,5,5,33,5,0,0,0,1
+5,Regular Season,Saturday,6:00pm,Vanderbilt Commodores,Ole Miss Rebels,,,yes,no,1080,106,73,0,0,0,5,5,47,5,0,0,0,1
+5,Regular Season,Saturday,12:30pm,Washington State Cougars,Oregon State Beavers,,,yes,no,750,111,75,0,0,0,5,5,10,5,0,0,0,1
+5,Regular Season,Saturday,6:00pm,Pittsburgh Panthers,Syracuse Orange,,,yes,no,1080,77,88,0,0,0,5,5,46,5,0,0,0,1
+5,Regular Season,Saturday,3:30pm,Kent State Golden Flashes,Temple Owls,,,no,no,930,41,90,0,0,0,5,5,32,5,0,0,0,0
+5,Regular Season,Saturday,3:30pm,Missouri Tigers,Texas Tech Red Raiders,,,yes,no,930,56,94,0,0,0,5,5,31,5,0,0,0,1
+5,Regular Season,Saturday,3:30pm,Central Michigan Chippewas,Toledo Rockets,,,yes,no,930,19,95,0,0,0,5,5,30,5,0,0,0,1
+5,Regular Season,Saturday,6:00pm,Rice Owls,Tulane Green Wave,,,yes,no,1080,79,96,0,0,0,5,5,45,5,0,0,0,1
+5,Regular Season,Tuesday,6:00pm,Southern Miss Golden Eagles,Tulsa Golden Hurricane,,,yes,no,1080,85,97,0,0,0,1,5,0,5,0,0,0,1
+5,Regular Season,Saturday,12:30pm,Memphis Tigers,UAB Blazers,,,yes,no,750,48,98,0,0,0,5,5,9,5,0,0,0,1
+5,Regular Season,Saturday,12:30pm,Arizona Wildcats,UCLA Bruins,,,yes,no,750,4,99,0,0,0,5,5,8,5,0,0,0,1
+5,Regular Season,Saturday,12:30pm,Washington Huskies,USC Trojans,,,yes,yes,750,110,102,0,0,0,5,5,7,5,0,1,1,1
+5,Regular Season,Saturday,3:30pm,Connecticut Huskies,USF Bulls,,,yes,no,930,100,144,0,0,0,5,5,29,5,0,0,0,1
+5,Regular Season,Thursday,6:00pm,TCU Horned Frogs,Utah Utes,,,yes,no,1080,89,103,0,0,0,3,5,2,5,0,0,0,1
+5,Regular Season,Saturday,12:30pm,Fresno State Bulldogs,Utah State Aggies,,,yes,no,750,29,104,0,0,0,5,5,6,5,0,0,0,1
+5,Regular Season,Saturday,3:30pm,SMU Mustangs,UTEP Miners,,,yes,no,930,83,105,0,0,0,5,5,28,5,0,0,0,1
+5,Regular Season,Saturday,3:30pm,Clemson Tigers,Wake Forest Demon Deacons,,,yes,no,930,21,109,0,0,0,5,5,27,5,0,0,0,1
+5,Regular Season,Saturday,12:30pm,Northwestern Wildcats,Wisconsin Badgers,,,yes,no,750,67,114,0,0,0,5,5,5,5,0,0,0,1
+6,Regular Season,Thursday,6:00pm,Colorado State Rams,Air Force Falcons,,,yes,no,1080,23,1,0,0,0,3,6,2,6,0,0,0,1
+6,Regular Season,Saturday,6:00pm,Ole Miss Rebels,Alabama Crimson Tide,,,yes,no,1080,73,3,0,0,0,5,6,52,6,0,0,0,1
+6,Regular Season,Saturday,12:30pm,SE Missouri St Redhawks,Arkansas Razorbacks,,,no,no,750,222,6,0,0,0,5,6,4,6,0,0,0,0
+6,Regular Season,Saturday,12:30pm,Florida Gators,Auburn Tigers,,,yes,no,750,27,9,0,0,0,5,6,8,6,0,0,0,1
+6,Regular Season,Thursday,6:00pm,Virginia Tech Hokies,Boston College Eagles,,,yes,no,1080,108,13,0,0,0,3,6,1,6,0,0,0,1
+6,Regular Season,Saturday,12:30pm,Eastern Michigan Eagles,Bowling Green Falcons,,,yes,no,750,26,14,0,0,0,5,6,7,6,0,0,0,1
+6,Regular Season,Saturday,12:30pm,Miami University RedHawks,Buffalo Bulls,,,yes,no,750,50,15,0,0,0,5,6,6,6,0,0,0,1
+6,Regular Season,Saturday,12:30pm,Ball State Cardinals,Central Michigan Chippewas,,,yes,no,750,10,19,0,0,0,5,6,5,6,0,0,0,1
+6,Regular Season,Saturday,6:00pm,Texas Tech Red Raiders,Colorado Buffs,,,yes,no,1080,94,22,0,0,0,5,6,51,6,0,0,0,1
+6,Regular Season,Saturday,6:00pm,Florida State Seminoles,Duke Blue Devils,,,yes,no,1080,28,24,0,0,0,5,6,50,6,0,0,0,1
+6,Regular Season,Saturday,3:30pm,Tulsa Golden Hurricane,ECU Pirates,,,yes,no,930,97,25,0,0,0,5,6,39,6,0,0,0,1
+6,Regular Season,Saturday,12:30pm,Hawaii Warriors,Fresno State Bulldogs,,,yes,no,750,32,29,0,0,0,5,6,15,6,0,0,0,1
+6,Regular Season,Saturday,3:30pm,Vanderbilt Commodores,Georgia Bulldogs,,,yes,no,930,106,30,0,0,0,5,6,38,6,0,0,0,1
+6,Regular Season,Saturday,3:30pm,Ohio Bobcats,Illinois Fighting Illini,,,no,no,930,69,35,0,0,0,5,6,37,6,0,0,0,0
+6,Regular Season,Saturday,12:30pm,Iowa Hawkeyes,Indiana Hoosiers,,,yes,no,750,37,36,0,0,0,5,6,14,6,0,0,0,1
+6,Regular Season,Saturday,6:00pm,Oklahoma State Cowboys,Kansas Jayhawks,,,yes,no,1080,72,39,0,0,0,5,6,49,6,0,0,0,1
+6,Regular Season,Saturday,3:30pm,Nebraska Cornhuskers,Kansas State Wildcats,,,yes,no,930,58,40,0,0,0,5,6,36,6,0,0,0,1
+6,Regular Season,Saturday,12:30pm,Toledo Rockets,Kent State Golden Flashes,,,yes,no,750,95,41,0,0,0,5,6,13,6,0,0,0,1
+6,Regular Season,Saturday,3:30pm,Idaho Vandals,Louisiana Tech Bulldogs,,,yes,no,930,34,43,0,0,0,5,6,35,6,0,0,0,1
+6,Regular Season,Saturday,12:30pm,Cincinnati Bearcats,Louisville Cardinals,,,yes,no,750,20,44,0,0,0,5,6,12,6,0,0,0,1
+6,Regular Season,Saturday,12:30pm,Kentucky Wildcats,LSU Tigers,,,yes,no,750,42,45,0,0,0,5,6,11,6,0,0,0,1
+6,Regular Season,Saturday,6:00pm,Arkansas State Indians,Memphis Tigers,,,no,no,1080,7,48,0,0,0,5,6,48,6,0,0,0,0
+6,Regular Season,Saturday,12:30pm,FIU Golden Panthers,Miami Hurricanes,,,no,no,750,230,49,0,0,0,5,6,10,6,0,0,0,0
+6,Regular Season,Saturday,6:00pm,Ohio State Buckeyes,Michigan State Spartans,,,yes,no,1080,70,52,0,0,0,5,6,47,6,0,0,0,1
+6,Regular Season,Saturday,12:30pm,Jacksonville State Gamecocks,Mississippi State Bulldogs,,,no,no,750,223,55,0,0,0,5,6,9,6,0,0,0,0
+6,Regular Season,Saturday,3:30pm,Rutgers Scarlet Knights,Navy Midshipmen,,,no,no,930,80,57,0,0,0,5,6,34,6,0,0,0,0
+6,Regular Season,Saturday,3:30pm,Wake Forest Demon Deacons,NC State Wolfpack,,,yes,no,930,109,63,0,0,0,5,6,33,6,0,0,0,1
+6,Regular Season,Sunday,12:30pm,Boise State Broncos,New Mexico State Aggies,,,yes,no,750,12,61,0,0,0,6,6,53,6,0,0,0,1
+6,Regular Season,Saturday,12:30pm,USF Bulls,North Carolina Tar Heels,,,no,no,750,144,62,0,0,0,5,6,24,6,0,0,0,0
+6,Regular Season,Saturday,12:30pm,Purdue Boilermakers,Northwestern Wildcats,,,yes,no,750,78,67,0,0,0,5,6,23,6,0,0,0,1
+6,Regular Season,Saturday,6:00pm,Iowa State Cyclones,Oklahoma Sooners,,,yes,no,1080,38,71,0,0,0,5,6,46,6,0,0,0,1
+6,Regular Season,Saturday,3:30pm,UCLA Bruins,Oregon Ducks,,,yes,no,930,99,74,0,0,0,5,6,32,6,0,0,0,1
+6,Regular Season,Saturday,12:30pm,Michigan Wolverines,Penn State Nittany Lions,,,yes,no,750,51,76,0,0,0,5,6,22,6,0,0,0,1
+6,Regular Season,Saturday,6:00pm,UAB Blazers,Rice Owls,,,yes,no,1080,98,79,0,0,0,5,6,45,6,0,0,0,1
+6,Regular Season,Saturday,6:00pm,Utah State Aggies,San Jose State Spartans,,,yes,no,1080,104,82,0,0,0,5,6,44,6,0,0,0,1
+6,Regular Season,Saturday,12:30pm,Marshall Thundering Herd,SMU Mustangs,,,yes,no,750,46,83,0,0,0,5,6,21,6,0,0,0,1
+6,Regular Season,Saturday,12:30pm,Houston Cougars,Southern Miss Golden Eagles,,,yes,no,750,33,85,0,0,0,5,6,20,6,0,0,0,1
+6,Regular Season,Saturday,6:00pm,Arizona Wildcats,Stanford Cardinal,,,yes,no,1080,4,87,0,0,0,5,6,43,6,0,0,0,1
+6,Regular Season,Thursday,3:30pm,Clemson Tigers,Temple Owls,,,no,no,930,21,90,0,0,0,3,6,0,6,0,0,0,0
+6,Regular Season,Saturday,3:30pm,Baylor Bears,Texas Longhorns,,,yes,no,930,11,92,0,0,0,5,6,31,6,0,0,0,1
+6,Regular Season,Saturday,3:30pm,Missouri Tigers,Texas A&M Aggies,,,yes,no,930,56,93,0,0,0,5,6,30,6,0,0,0,1
+6,Regular Season,Saturday,12:30pm,UL Monroe Warhawks,Troy Trojans,,,yes,no,750,65,143,0,0,0,5,6,19,6,0,0,0,1
+6,Regular Season,Friday,6:00pm,Pittsburgh Panthers,UCF Golden Knights,,,no,no,1080,77,18,0,0,0,4,6,3,6,0,0,0,0
+6,Regular Season,Saturday,6:00pm,Army Black Knights,Connecticut Huskies,,,no,no,1080,8,100,0,0,0,5,6,42,6,0,0,0,0
+6,Regular Season,Saturday,12:30pm,New Mexico Lobos,UNLV Rebels,,,yes,no,750,60,101,0,0,0,5,6,18,6,0,0,0,1
+6,Regular Season,Saturday,3:30pm,Arizona State Sun Devils,USC Trojans,,,yes,no,930,5,102,0,0,0,5,6,29,6,0,0,0,1
+6,Regular Season,Saturday,3:30pm,Tulane Green Wave,UTEP Miners,,,yes,no,930,96,105,0,0,0,5,6,28,6,0,0,0,1
+6,Regular Season,Saturday,3:30pm,Maryland Terrapins,Virginia Cavaliers,,,yes,no,930,47,107,0,0,0,5,6,27,6,0,0,0,1
+6,Regular Season,Saturday,12:30pm,Oregon State Beavers,Washington Huskies,,,yes,yes,750,75,110,0,0,0,5,6,17,6,0,1,1,1
+6,Regular Season,Saturday,3:30pm,Cal Golden Bears,Washington State Cougars,,,yes,no,930,17,111,0,0,0,5,6,26,6,0,0,0,1
+6,Regular Season,Saturday,6:00pm,Syracuse Orange,West Virginia Mountaineers,,,yes,no,1080,88,112,0,0,0,5,6,41,6,0,0,0,1
+6,Regular Season,Saturday,3:30pm,Northern Illinois Huskies,Western Michigan Broncos,,,yes,no,930,66,113,0,0,0,5,6,25,6,0,0,0,1
+6,Regular Season,Saturday,6:00pm,Minnesota Golden Gophers,Wisconsin Badgers,,,yes,no,1080,54,114,0,0,0,5,6,40,6,0,0,0,1
+6,Regular Season,Saturday,12:30pm,Utah Utes,Wyoming Cowboys,,,yes,no,750,103,115,0,0,0,5,6,16,6,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Miami University RedHawks,Akron Zips,,,yes,no,930,50,2,0,0,0,5,7,20,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Oregon State Beavers,Arizona Wildcats,,,yes,no,930,75,4,0,0,0,5,7,21,7,0,0,0,1
+7,Regular Season,Saturday,6:00pm,Stanford Cardinal,Arizona State Sun Devils,,,yes,no,1080,87,5,0,0,0,5,7,55,7,0,0,0,1
+7,Regular Season,Saturday,12:30pm,Ole Miss Rebels,Arkansas Razorbacks,,,yes,no,750,73,6,0,0,0,5,7,19,7,0,0,0,1
+7,Regular Season,Saturday,6:00pm,North Texas Mean Green,Arkansas State Indians,,,yes,no,1080,64,7,0,0,0,5,7,54,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,TCU Horned Frogs,Army Black Knights,,,no,no,930,89,8,0,0,0,5,7,41,7,0,0,0,0
+7,Regular Season,Saturday,12:30pm,Tulane Green Wave,Auburn Tigers,,,no,no,750,96,9,0,0,0,5,7,18,7,0,0,0,0
+7,Regular Season,Saturday,3:30pm,Western Michigan Broncos,Ball State Cardinals,,,yes,no,930,113,10,0,0,0,5,7,23,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Kansas Jayhawks,Baylor Bears,,,yes,no,930,39,11,0,0,0,5,7,22,7,0,0,0,1
+7,Regular Season,Saturday,6:00pm,UNLV Rebels,BYU Cougars,,,yes,no,1080,101,16,0,0,0,5,7,53,7,0,0,0,1
+7,Regular Season,Saturday,12:30pm,Washington Huskies,Cal Golden Bears,,,yes,yes,750,110,17,0,0,0,5,7,17,7,0,1,1,1
+7,Regular Season,Thursday,6:00pm,Bowling Green Falcons,Central Michigan Chippewas,,,yes,no,1080,14,19,0,0,0,3,7,3,7,0,0,0,1
+7,Regular Season,Saturday,6:00pm,USF Bulls,Cincinnati Bearcats,,,yes,no,1080,144,20,0,0,0,5,7,52,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Georgia Tech Yellow Jackets,Clemson Tigers,,,yes,no,930,31,21,0,0,0,5,7,40,7,0,0,0,1
+7,Regular Season,Saturday,6:00pm,Miami Hurricanes,Duke Blue Devils,,,yes,no,1080,49,24,0,0,0,5,7,51,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Toledo Rockets,Eastern Michigan Eagles,,,yes,no,930,95,26,0,0,0,5,7,39,7,0,0,0,1
+7,Regular Season,Saturday,12:30pm,SMU Mustangs,ECU Pirates,,,yes,no,750,83,25,0,0,0,5,7,16,7,0,0,0,1
+7,Regular Season,Wednesday,6:00pm,UL Lafayette Ragin' Cajuns,Florida Atlantic Owls,,,yes,no,1080,86,229,0,0,0,2,7,0,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Boston College Eagles,Florida State Seminoles,,,yes,no,930,13,28,0,0,0,5,7,38,7,0,0,0,1
+7,Regular Season,Saturday,6:00pm,Mississippi State Bulldogs,Georgia Bulldogs,,,yes,no,1080,55,30,0,0,0,5,7,50,7,0,0,0,1
+7,Regular Season,Saturday,12:30pm,UTEP Miners,Houston Cougars,,,yes,no,750,105,33,0,0,0,5,7,15,7,0,0,0,1
+7,Regular Season,Saturday,12:30pm,Boise State Broncos,Idaho Vandals,,,yes,no,750,12,34,0,0,0,5,7,14,7,0,0,0,1
+7,Regular Season,Saturday,6:00pm,Texas Tech Red Raiders,Iowa State Cyclones,,,yes,no,1080,94,38,0,0,0,5,7,49,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Utah State Aggies,Louisiana Tech Bulldogs,,,yes,no,930,104,43,0,0,0,5,7,37,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Fresno State Bulldogs,LSU Tigers,,,no,no,930,29,45,0,0,0,5,7,36,7,0,0,0,0
+7,Regular Season,Saturday,3:30pm,NC State Wolfpack,Maryland Terrapins,,,yes,no,930,63,47,0,0,0,5,7,35,7,0,0,0,1
+7,Regular Season,Saturday,12:30pm,Tulsa Golden Hurricane,Memphis Tigers,,,yes,no,750,97,48,0,0,0,5,7,13,7,0,0,0,1
+7,Regular Season,Saturday,12:30pm,Iowa Hawkeyes,Michigan Wolverines,,,yes,no,750,37,51,0,0,0,5,7,12,7,0,0,0,1
+7,Regular Season,Saturday,6:00pm,1AA Midwest,Minnesota Golden Gophers,,,no,no,1080,163,54,0,0,0,5,7,48,7,0,0,0,0
+7,Regular Season,Saturday,6:00pm,Kansas State Wildcats,Missouri Tigers,,,yes,no,1080,40,56,0,0,0,5,7,47,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Texas Longhorns,Nebraska Cornhuskers,,,yes,no,930,92,58,0,0,0,5,7,34,7,0,0,0,1
+7,Regular Season,Saturday,12:30pm,San Jose State Spartans,Nevada Wolf Pack,,,yes,no,750,82,59,0,0,0,5,7,11,7,0,0,0,1
+7,Regular Season,Thursday,6:00pm,Utah Utes,New Mexico Lobos,,,yes,no,1080,103,60,0,0,0,3,7,2,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Hawaii Warriors,New Mexico State Aggies,,,yes,no,930,32,61,0,0,0,5,7,33,7,0,0,0,1
+7,Regular Season,Saturday,6:00pm,Temple Owls,Northern Illinois Huskies,,,no,no,1080,90,66,0,0,0,5,7,46,7,0,0,0,0
+7,Regular Season,Saturday,6:00pm,Michigan State Spartans,Northwestern Wildcats,,,yes,no,1080,52,67,0,0,0,5,7,45,7,0,0,0,1
+7,Regular Season,Saturday,12:30pm,UCLA Bruins,Notre Dame Fighting Irish,,,no,no,750,99,68,0,0,0,5,7,10,7,0,0,0,0
+7,Regular Season,Saturday,3:30pm,Buffalo Bulls,Ohio Bobcats,,,yes,no,930,15,69,0,0,0,5,7,32,7,0,0,0,1
+7,Regular Season,Saturday,6:00pm,Indiana Hoosiers,Ohio State Buckeyes,,,yes,no,1080,36,70,0,0,0,5,7,44,7,0,0,0,1
+7,Regular Season,Saturday,12:30pm,Colorado Buffs,Oklahoma Sooners,,,yes,no,750,22,71,0,0,0,5,7,9,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Texas A&M Aggies,Oklahoma State Cowboys,,,yes,no,930,93,72,0,0,0,5,7,31,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Illinois Fighting Illini,Penn State Nittany Lions,,,yes,no,930,35,76,0,0,0,5,7,30,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Rutgers Scarlet Knights,Pittsburgh Panthers,,,yes,no,930,80,77,0,0,0,5,7,29,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Wisconsin Badgers,Purdue Boilermakers,,,yes,no,930,114,78,0,0,0,5,7,28,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Air Force Falcons,San Diego State Aztecs,,,yes,no,930,1,81,0,0,0,5,7,27,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Louisville Cardinals,Syracuse Orange,,,yes,no,930,44,88,0,0,0,5,7,26,7,0,0,0,1
+7,Regular Season,Saturday,12:30pm,Alabama Crimson Tide,Tennessee Volunteers,,,yes,no,750,3,91,0,0,0,5,7,8,7,0,0,0,1
+7,Regular Season,Saturday,12:30pm,Marshall Thundering Herd,UAB Blazers,,,yes,no,750,46,98,0,0,0,5,7,7,7,0,0,0,1
+7,Regular Season,Saturday,12:30pm,Rice Owls,UCF Golden Knights,,,yes,no,750,79,18,0,0,0,5,7,6,7,0,0,0,1
+7,Regular Season,Friday,6:00pm,West Virginia Mountaineers,Connecticut Huskies,,,yes,no,1080,112,100,0,0,0,4,7,4,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Mid Tenn State Blue Raiders,UL Monroe Warhawks,,,yes,no,930,53,65,0,0,0,5,7,25,7,0,0,0,1
+7,Regular Season,Saturday,6:00pm,South Carolina Gamecocks,Vanderbilt Commodores,,,yes,no,1080,84,106,0,0,0,5,7,43,7,0,0,0,1
+7,Regular Season,Thursday,6:00pm,North Carolina Tar Heels,Virginia Cavaliers,,,yes,no,1080,62,107,0,0,0,3,7,1,7,0,0,0,1
+7,Regular Season,Saturday,6:00pm,Southern Miss Golden Eagles,Virginia Tech Hokies,,,no,no,1080,85,108,0,0,0,5,7,42,7,0,0,0,0
+7,Regular Season,Saturday,12:30pm,Oregon Ducks,Washington State Cougars,,,yes,no,750,74,111,0,0,0,5,7,5,7,0,0,0,1
+7,Regular Season,Saturday,3:30pm,Colorado State Rams,Wyoming Cowboys,,,yes,no,930,23,115,0,0,0,5,7,24,7,0,0,0,1
+8,Regular Season,Saturday,3:30pm,BYU Cougars,Air Force Falcons,,,yes,no,930,16,1,0,0,0,5,8,41,8,0,0,0,1
+8,Regular Season,Saturday,12:30pm,FIU Golden Panthers,Alabama Crimson Tide,,,no,no,750,230,3,0,0,0,5,8,20,8,0,0,0,0
+8,Regular Season,Saturday,3:30pm,UL Monroe Warhawks,Arkansas Razorbacks,,,no,no,930,65,6,0,0,0,5,8,40,8,0,0,0,0
+8,Regular Season,Saturday,3:30pm,Texas A&M Aggies,Baylor Bears,,,yes,no,930,93,11,0,0,0,5,8,39,8,0,0,0,1
+8,Regular Season,Saturday,12:30pm,Buffalo Bulls,Boston College Eagles,,,no,no,750,15,13,0,0,0,5,8,19,8,0,0,0,0
+8,Regular Season,Saturday,12:30pm,Syracuse Orange,Cincinnati Bearcats,,,yes,no,750,88,20,0,0,0,5,8,18,8,0,0,0,1
+8,Regular Season,Saturday,6:00pm,New Mexico Lobos,Colorado State Rams,,,yes,no,1080,60,23,0,0,0,5,8,52,8,0,0,0,1
+8,Regular Season,Saturday,3:30pm,Vanderbilt Commodores,Duke Blue Devils,,,no,no,930,106,24,0,0,0,5,8,24,8,0,0,0,0
+8,Regular Season,Saturday,3:30pm,Arkansas State Indians,Florida Atlantic Owls,,,yes,no,930,7,229,0,0,0,5,8,23,8,0,0,0,1
+8,Regular Season,Saturday,3:30pm,Florida Gators,Georgia Bulldogs,,,yes,no,930,27,30,0,0,0,5,8,22,8,0,0,0,1
+8,Regular Season,Saturday,3:30pm,Miami Hurricanes,Georgia Tech Yellow Jackets,,,yes,no,930,49,31,0,0,0,5,8,38,8,0,0,0,1
+8,Regular Season,Saturday,6:00pm,Idaho Vandals,Hawaii Warriors,,,yes,no,1080,34,32,0,0,0,5,8,51,8,0,0,0,1
+8,Regular Season,Saturday,12:30pm,UCF Golden Knights,Houston Cougars,,,yes,no,750,18,33,0,0,0,5,8,17,8,0,0,0,1
+8,Regular Season,Saturday,3:30pm,Michigan State Spartans,Indiana Hoosiers,,,yes,no,930,52,36,0,0,0,5,8,37,8,0,0,0,1
+8,Regular Season,Saturday,12:30pm,Northern Illinois Huskies,Iowa Hawkeyes,,,no,no,750,66,37,0,0,0,5,8,16,8,0,0,0,0
+8,Regular Season,Saturday,3:30pm,Colorado Buffs,Kansas Jayhawks,,,yes,no,930,22,39,0,0,0,5,8,36,8,0,0,0,1
+8,Regular Season,Saturday,12:30pm,Iowa State Cyclones,Kansas State Wildcats,,,yes,no,750,38,40,0,0,0,5,8,15,8,0,0,0,1
+8,Regular Season,Saturday,3:30pm,Ohio Bobcats,Kent State Golden Flashes,,,yes,no,930,69,41,0,0,0,5,8,35,8,0,0,0,1
+8,Regular Season,Saturday,6:00pm,Memphis Tigers,Marshall Thundering Herd,,,yes,no,1080,48,46,0,0,0,5,8,50,8,0,0,0,1
+8,Regular Season,Saturday,12:30pm,Florida State Seminoles,Maryland Terrapins,,,yes,no,750,28,47,0,0,0,5,8,14,8,0,0,0,1
+8,Regular Season,Saturday,6:00pm,Ball State Cardinals,Miami University RedHawks,,,yes,no,1080,10,50,0,0,0,5,8,49,8,0,0,0,1
+8,Regular Season,Saturday,3:30pm,Northwestern Wildcats,Michigan Wolverines,,,yes,no,930,67,51,0,0,0,5,8,34,8,0,0,0,1
+8,Regular Season,Saturday,3:30pm,Kentucky Wildcats,Mississippi State Bulldogs,,,yes,no,930,42,55,0,0,0,5,8,33,8,0,0,0,1
+8,Regular Season,Saturday,12:30pm,Oklahoma Sooners,Missouri Tigers,,,yes,no,750,71,56,0,0,0,5,8,13,8,0,0,0,1
+8,Regular Season,Saturday,6:00pm,New Mexico State Aggies,Nevada Wolf Pack,,,yes,no,1080,61,59,0,0,0,5,8,48,8,0,0,0,1
+8,Regular Season,Saturday,12:30pm,Wake Forest Demon Deacons,North Carolina Tar Heels,,,yes,no,750,109,62,0,0,0,5,8,12,8,0,0,0,1
+8,Regular Season,Saturday,3:30pm,Minnesota Golden Gophers,Ohio State Buckeyes,,,yes,no,930,54,70,0,0,0,5,8,32,8,0,0,0,1
+8,Regular Season,Saturday,6:00pm,Nebraska Cornhuskers,Oklahoma State Cowboys,,,yes,no,1080,58,72,0,0,0,5,8,47,8,0,0,0,1
+8,Regular Season,Saturday,12:30pm,Auburn Tigers,Ole Miss Rebels,,,yes,no,750,9,73,0,0,0,5,8,11,8,0,0,0,1
+8,Regular Season,Saturday,3:30pm,Portland State Vikings,Oregon Ducks,,,no,no,930,202,74,0,0,0,5,8,31,8,0,0,0,0
+8,Regular Season,Saturday,3:30pm,USC Trojans,Oregon State Beavers,,,yes,no,930,102,75,0,0,0,5,8,30,8,0,0,0,1
+8,Regular Season,Saturday,12:30pm,Penn State Nittany Lions,Purdue Boilermakers,,,yes,no,750,76,78,0,0,0,5,8,10,8,0,0,0,1
+8,Regular Season,Saturday,12:30pm,Connecticut Huskies,Rutgers Scarlet Knights,,,yes,no,750,100,80,0,0,0,5,8,9,8,0,0,0,1
+8,Regular Season,Saturday,12:30pm,1AA West,San Diego State Aztecs,,,no,no,750,161,81,0,0,0,5,8,8,8,0,0,0,0
+8,Regular Season,Saturday,6:00pm,Louisiana Tech Bulldogs,San Jose State Spartans,,,yes,no,1080,43,82,0,0,0,5,8,46,8,0,0,0,1
+8,Regular Season,Saturday,3:30pm,Tennessee Volunteers,South Carolina Gamecocks,,,yes,no,930,91,84,0,0,0,5,8,29,8,0,0,0,1
+8,Regular Season,Saturday,6:00pm,ECU Pirates,Southern Miss Golden Eagles,,,yes,no,1080,25,85,0,0,0,5,8,45,8,0,0,0,1
+8,Regular Season,Saturday,6:00pm,Wyoming Cowboys,TCU Horned Frogs,,,yes,no,1080,115,89,0,0,0,5,8,44,8,0,0,0,1
+8,Regular Season,Saturday,3:30pm,Bowling Green Falcons,Temple Owls,,,no,no,930,14,90,0,0,0,5,8,28,8,0,0,0,0
+8,Regular Season,Saturday,12:30pm,Texas Longhorns,Texas Tech Red Raiders,,,yes,no,750,92,94,0,0,0,5,8,7,8,0,0,0,1
+8,Regular Season,Saturday,12:30pm,Akron Zips,Toledo Rockets,,,yes,no,750,2,95,0,0,0,5,8,6,8,0,0,0,1
+8,Regular Season,Saturday,3:30pm,North Texas Mean Green,Troy Trojans,,,yes,no,930,64,143,0,0,0,5,8,27,8,0,0,0,1
+8,Regular Season,Saturday,3:30pm,Army Black Knights,Tulane Green Wave,,,no,no,930,8,96,0,0,0,5,8,26,8,0,0,0,0
+8,Regular Season,Friday,6:00pm,UTEP Miners,Tulsa Golden Hurricane,,,yes,no,1080,105,97,0,0,0,4,8,1,8,0,0,0,1
+8,Regular Season,Saturday,3:30pm,Washington State Cougars,UCLA Bruins,,,yes,no,930,111,99,0,0,0,5,8,25,8,0,0,0,1
+8,Regular Season,Saturday,12:30pm,Mid Tenn State Blue Raiders,UL Lafayette Ragin' Cajuns,,,yes,no,750,53,86,0,0,0,5,8,5,8,0,0,0,1
+8,Regular Season,Saturday,12:30pm,UNLV Rebels,Utah Utes,,,yes,no,750,101,103,0,0,0,5,8,4,8,0,0,0,1
+8,Regular Season,Saturday,6:00pm,NC State Wolfpack,Virginia Cavaliers,,,yes,no,1080,63,107,0,0,0,5,8,43,8,0,0,0,1
+8,Regular Season,Thursday,3:30pm,Clemson Tigers,Virginia Tech Hokies,,,yes,no,930,21,108,0,0,0,3,8,0,8,0,0,0,1
+8,Regular Season,Saturday,12:30pm,Arizona State Sun Devils,Washington Huskies,,,yes,yes,750,5,110,0,0,0,5,8,3,8,0,1,1,1
+8,Regular Season,Saturday,12:30pm,Eastern Michigan Eagles,Western Michigan Broncos,,,yes,no,750,26,113,0,0,0,5,8,2,8,0,0,0,1
+8,Regular Season,Saturday,6:00pm,Illinois Fighting Illini,Wisconsin Badgers,,,yes,no,1080,35,114,0,0,0,5,8,42,8,0,0,0,1
+9,Regular Season,Saturday,3:30pm,Bowling Green Falcons,Akron Zips,,,yes,no,930,14,2,0,0,0,5,9,41,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,Mississippi State Bulldogs,Alabama Crimson Tide,,,yes,no,750,55,3,0,0,0,5,9,16,9,0,0,0,1
+9,Regular Season,Saturday,6:00pm,Arkansas State Indians,Auburn Tigers,,,no,no,1080,7,9,0,0,0,5,9,54,9,0,0,0,0
+9,Regular Season,Wednesday,6:00pm,Fresno State Bulldogs,Boise State Broncos,,,yes,no,1080,29,12,0,0,0,2,9,1,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,Kent State Golden Flashes,Buffalo Bulls,,,yes,no,750,41,15,0,0,0,5,9,19,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,UCLA Bruins,Cal Golden Bears,,,yes,no,750,99,17,0,0,0,5,9,18,9,0,0,0,1
+9,Regular Season,Saturday,3:30pm,Maryland Terrapins,Clemson Tigers,,,yes,no,930,47,21,0,0,0,5,9,40,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,Kansas State Wildcats,Colorado Buffs,,,yes,no,750,40,22,0,0,0,5,9,17,9,0,0,0,1
+9,Regular Season,Saturday,3:30pm,BYU Cougars,Colorado State Rams,,,yes,no,930,16,23,0,0,0,5,9,28,9,0,0,0,1
+9,Regular Season,Saturday,6:00pm,Navy Midshipmen,Duke Blue Devils,,,no,no,1080,57,24,0,0,0,5,9,53,9,0,0,0,0
+9,Regular Season,Saturday,3:30pm,Ohio Bobcats,Eastern Michigan Eagles,,,yes,no,930,69,26,0,0,0,5,9,27,9,0,0,0,1
+9,Regular Season,Saturday,6:00pm,Virginia Cavaliers,Florida State Seminoles,,,yes,no,1080,107,28,0,0,0,5,9,52,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,Tulsa Golden Hurricane,Houston Cougars,,,yes,no,750,97,33,0,0,0,5,9,22,9,0,0,0,1
+9,Regular Season,Saturday,3:30pm,Nevada Wolf Pack,Idaho Vandals,,,yes,no,930,59,34,0,0,0,5,9,26,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,Ohio State Buckeyes,Illinois Fighting Illini,,,yes,no,750,70,35,0,0,0,5,9,21,9,0,0,0,1
+9,Regular Season,Saturday,6:00pm,Northwestern Wildcats,Iowa Hawkeyes,,,yes,no,1080,67,37,0,0,0,5,9,51,9,0,0,0,1
+9,Regular Season,Saturday,3:30pm,Kansas Jayhawks,Iowa State Cyclones,,,yes,no,930,39,38,0,0,0,5,9,25,9,0,0,0,1
+9,Regular Season,Saturday,3:30pm,Georgia Bulldogs,Kentucky Wildcats,,,yes,no,930,30,42,0,0,0,5,9,24,9,0,0,0,1
+9,Regular Season,Thursday,6:00pm,West Virginia Mountaineers,Louisville Cardinals,,,yes,no,1080,112,44,0,0,0,3,9,2,9,0,0,0,1
+9,Regular Season,Saturday,3:30pm,Tulane Green Wave,Marshall Thundering Herd,,,yes,no,930,96,46,0,0,0,5,9,23,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,Southern Miss Golden Eagles,Memphis Tigers,,,yes,no,750,85,48,0,0,0,5,9,20,9,0,0,0,1
+9,Regular Season,Saturday,6:00pm,Virginia Tech Hokies,Miami Hurricanes,,,yes,no,1080,108,49,0,0,0,5,9,50,9,0,0,0,1
+9,Regular Season,Saturday,6:00pm,Ball State Cardinals,Michigan Wolverines,,,no,no,1080,10,51,0,0,0,5,9,49,9,0,0,0,0
+9,Regular Season,Saturday,6:00pm,Purdue Boilermakers,Michigan State Spartans,,,yes,no,1080,78,52,0,0,0,5,9,48,9,0,0,0,1
+9,Regular Season,Saturday,6:00pm,Florida Atlantic Owls,Mid Tenn State Blue Raiders,,,yes,no,1080,229,53,0,0,0,5,9,47,9,0,0,0,1
+9,Regular Season,Saturday,6:00pm,Indiana Hoosiers,Minnesota Golden Gophers,,,yes,no,1080,36,54,0,0,0,5,9,46,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,Georgia Tech Yellow Jackets,NC State Wolfpack,,,yes,no,750,31,63,0,0,0,5,9,15,9,0,0,0,1
+9,Regular Season,Saturday,3:30pm,Missouri Tigers,Nebraska Cornhuskers,,,yes,no,930,56,58,0,0,0,5,9,39,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,San Jose State Spartans,New Mexico State Aggies,,,yes,no,750,82,61,0,0,0,5,9,14,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,Louisiana Tech Bulldogs,North Texas Mean Green,,,no,no,750,43,64,0,0,0,5,9,13,9,0,0,0,0
+9,Regular Season,Saturday,3:30pm,North Carolina Tar Heels,Notre Dame Fighting Irish,,,no,no,930,62,68,0,0,0,5,9,38,9,0,0,0,0
+9,Regular Season,Saturday,6:00pm,Northwestern St Demons,Ole Miss Rebels,,,no,no,1080,214,73,0,0,0,5,9,45,9,0,0,0,0
+9,Regular Season,Saturday,3:30pm,Washington Huskies,Oregon Ducks,,,yes,yes,930,110,74,0,0,0,5,9,37,9,0,1,1,1
+9,Regular Season,Saturday,12:30pm,Arizona State Sun Devils,Oregon State Beavers,,,yes,no,750,5,75,0,0,0,5,9,12,9,0,0,0,1
+9,Regular Season,Tuesday,6:00pm,UAB Blazers,SMU Mustangs,,,yes,no,1080,98,83,0,0,0,1,9,0,9,0,0,0,1
+9,Regular Season,Saturday,3:30pm,Arkansas Razorbacks,South Carolina Gamecocks,,,yes,no,930,6,84,0,0,0,5,9,36,9,0,0,0,1
+9,Regular Season,Saturday,3:30pm,USC Trojans,Stanford Cardinal,,,yes,no,930,102,87,0,0,0,5,9,35,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,Central Michigan Chippewas,Temple Owls,,,no,no,750,19,90,0,0,0,5,9,11,9,0,0,0,0
+9,Regular Season,Saturday,12:30pm,LSU Tigers,Tennessee Volunteers,,,yes,no,750,45,91,0,0,0,5,9,10,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,Oklahoma State Cowboys,Texas Longhorns,,,yes,no,750,72,92,0,0,0,5,9,9,9,0,0,0,1
+9,Regular Season,Saturday,3:30pm,Oklahoma Sooners,Texas A&M Aggies,,,yes,no,930,71,93,0,0,0,5,9,34,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,Baylor Bears,Texas Tech Red Raiders,,,yes,no,750,11,94,0,0,0,5,9,8,9,0,0,0,1
+9,Regular Season,Saturday,3:30pm,UL Lafayette Ragin' Cajuns,Troy Trojans,,,yes,no,930,86,143,0,0,0,5,9,33,9,0,0,0,1
+9,Regular Season,Saturday,3:30pm,ECU Pirates,UCF Golden Knights,,,yes,no,930,25,18,0,0,0,5,9,32,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,TCU Horned Frogs,UNLV Rebels,,,yes,no,750,89,101,0,0,0,5,9,7,9,0,0,0,1
+9,Regular Season,Saturday,6:00pm,Pittsburgh Panthers,USF Bulls,,,yes,no,1080,77,144,0,0,0,5,9,44,9,0,0,0,1
+9,Regular Season,Saturday,3:30pm,Hawaii Warriors,Utah State Aggies,,,yes,no,930,32,104,0,0,0,5,9,31,9,0,0,0,1
+9,Regular Season,Saturday,3:30pm,Rice Owls,UTEP Miners,,,yes,no,930,79,105,0,0,0,5,9,30,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,Florida Gators,Vanderbilt Commodores,,,yes,no,750,27,106,0,0,0,5,9,6,9,0,0,0,1
+9,Regular Season,Saturday,6:00pm,Boston College Eagles,Wake Forest Demon Deacons,,,yes,no,1080,13,109,0,0,0,5,9,43,9,0,0,0,1
+9,Regular Season,Saturday,3:30pm,Arizona Wildcats,Washington State Cougars,,,yes,no,930,4,111,0,0,0,5,9,29,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,Miami University RedHawks,Western Michigan Broncos,,,yes,no,750,50,113,0,0,0,5,9,5,9,0,0,0,1
+9,Regular Season,Saturday,6:00pm,Penn State Nittany Lions,Wisconsin Badgers,,,yes,no,1080,76,114,0,0,0,5,9,42,9,0,0,0,1
+9,Regular Season,Saturday,12:30pm,San Diego State Aztecs,Wyoming Cowboys,,,yes,no,750,81,115,0,0,0,5,9,4,9,0,0,0,1
+10,Regular Season,Saturday,3:30pm,Notre Dame Fighting Irish,Air Force Falcons,,,no,no,930,68,1,0,0,0,5,10,25,10,0,0,0,0
+10,Regular Season,Thursday,6:00pm,Buffalo Bulls,Akron Zips,,,yes,no,1080,15,2,0,0,0,3,10,3,10,0,0,0,1
+10,Regular Season,Saturday,3:30pm,Cal Golden Bears,Arizona Wildcats,,,yes,no,930,17,4,0,0,0,5,10,42,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,Washington State Cougars,Arizona State Sun Devils,,,yes,no,750,111,5,0,0,0,5,10,24,10,0,0,0,1
+10,Regular Season,Saturday,6:00pm,Tennessee Volunteers,Arkansas Razorbacks,,,yes,no,1080,91,6,0,0,0,5,10,53,10,0,0,0,1
+10,Regular Season,Saturday,6:00pm,Mid Tenn State Blue Raiders,Arkansas State Indians,,,yes,no,1080,53,7,0,0,0,5,10,52,10,0,0,0,1
+10,Regular Season,Saturday,3:30pm,Georgia Bulldogs,Auburn Tigers,,,yes,no,930,30,9,0,0,0,5,10,41,10,0,0,0,1
+10,Regular Season,Saturday,3:30pm,Duke Blue Devils,Boston College Eagles,,,yes,no,930,24,13,0,0,0,5,10,40,10,0,0,0,1
+10,Regular Season,Thursday,6:00pm,Wyoming Cowboys,BYU Cougars,,,yes,no,1080,115,16,0,0,0,3,10,2,10,0,0,0,1
+10,Regular Season,Friday,6:00pm,Western Michigan Broncos,Central Michigan Chippewas,,,yes,no,1080,113,19,0,0,0,4,10,5,10,0,0,0,1
+10,Regular Season,Saturday,3:30pm,NC State Wolfpack,Clemson Tigers,,,yes,no,930,63,21,0,0,0,5,10,39,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,Iowa State Cyclones,Colorado Buffs,,,yes,no,750,38,22,0,0,0,5,10,23,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,Navy Midshipmen,Eastern Michigan Eagles,,,no,no,750,57,26,0,0,0,5,10,22,10,0,0,0,0
+10,Regular Season,Saturday,3:30pm,Marshall Thundering Herd,ECU Pirates,,,yes,no,930,46,25,0,0,0,5,10,38,10,0,0,0,1
+10,Regular Season,Saturday,3:30pm,Troy Trojans,Florida Atlantic Owls,,,yes,no,930,143,229,0,0,0,5,10,37,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,UL Monroe Warhawks,FIU Golden Panthers,,,yes,no,750,65,230,0,0,0,5,10,21,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,South Carolina Gamecocks,Florida Gators,,,yes,no,750,84,27,0,0,0,5,10,20,10,0,0,0,1
+10,Regular Season,Saturday,3:30pm,Wake Forest Demon Deacons,Florida State Seminoles,,,yes,no,930,109,28,0,0,0,5,10,36,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,New Mexico State Aggies,Fresno State Bulldogs,,,yes,no,750,61,29,0,0,0,5,10,19,10,0,0,0,1
+10,Regular Season,Saturday,6:00pm,Louisiana Tech Bulldogs,Hawaii Warriors,,,yes,no,1080,43,32,0,0,0,5,10,51,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,Purdue Boilermakers,Illinois Fighting Illini,,,yes,no,750,78,35,0,0,0,5,10,18,10,0,0,0,1
+10,Regular Season,Saturday,3:30pm,Michigan Wolverines,Indiana Hoosiers,,,yes,no,930,51,36,0,0,0,5,10,35,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,Wisconsin Badgers,Iowa Hawkeyes,,,yes,no,750,114,37,0,0,0,5,10,17,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,Texas Longhorns,Kansas State Wildcats,,,yes,no,750,92,40,0,0,0,5,10,16,10,0,0,0,1
+10,Regular Season,Saturday,6:00pm,Vanderbilt Commodores,Kentucky Wildcats,,,yes,no,1080,106,42,0,0,0,5,10,50,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,Alabama Crimson Tide,LSU Tigers,,,yes,no,750,3,45,0,0,0,5,10,15,10,0,0,0,1
+10,Regular Season,Saturday,3:30pm,Miami Hurricanes,Maryland Terrapins,,,yes,no,930,49,47,0,0,0,5,10,34,10,0,0,0,1
+10,Regular Season,Saturday,3:30pm,UCF Golden Knights,Memphis Tigers,,,yes,no,930,18,48,0,0,0,5,10,33,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,Minnesota Golden Gophers,Michigan State Spartans,,,yes,no,750,54,52,0,0,0,5,10,14,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,Utah State Aggies,Nevada Wolf Pack,,,yes,no,750,104,59,0,0,0,5,10,13,10,0,0,0,1
+10,Regular Season,Saturday,3:30pm,TCU Horned Frogs,New Mexico Lobos,,,yes,no,930,89,60,0,0,0,5,10,32,10,0,0,0,1
+10,Regular Season,Saturday,6:00pm,Georgia Tech Yellow Jackets,North Carolina Tar Heels,,,yes,no,1080,31,62,0,0,0,5,10,49,10,0,0,0,1
+10,Regular Season,Tuesday,6:00pm,Toledo Rockets,Northern Illinois Huskies,,,yes,no,1080,95,66,0,0,0,1,10,0,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,Ohio State Buckeyes,Northwestern Wildcats,,,yes,no,750,70,67,0,0,0,5,10,12,10,0,0,0,1
+10,Regular Season,Saturday,6:00pm,Texas Tech Red Raiders,Oklahoma Sooners,,,yes,no,1080,94,71,0,0,0,5,10,48,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,Baylor Bears,Oklahoma State Cowboys,,,yes,no,750,11,72,0,0,0,5,10,11,10,0,0,0,1
+10,Regular Season,Saturday,3:30pm,Temple Owls,Penn State Nittany Lions,,,no,no,930,90,76,0,0,0,5,10,31,10,0,0,0,0
+10,Regular Season,Thursday,6:00pm,Louisville Cardinals,Rutgers Scarlet Knights,,,yes,no,1080,44,80,0,0,0,3,10,1,10,0,0,0,1
+10,Regular Season,Saturday,3:30pm,UNLV Rebels,San Diego State Aztecs,,,yes,no,930,101,81,0,0,0,5,10,30,10,0,0,0,1
+10,Regular Season,Saturday,6:00pm,Boise State Broncos,San Jose State Spartans,,,yes,no,1080,12,82,0,0,0,5,10,47,10,0,0,0,1
+10,Regular Season,Saturday,3:30pm,Houston Cougars,SMU Mustangs,,,yes,no,930,33,83,0,0,0,5,10,29,10,0,0,0,1
+10,Regular Season,Saturday,3:30pm,Nebraska Cornhuskers,Texas A&M Aggies,,,yes,no,930,58,93,0,0,0,5,10,28,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,Southern Miss Golden Eagles,Tulane Green Wave,,,yes,no,750,85,96,0,0,0,5,10,10,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,Rice Owls,Tulsa Golden Hurricane,,,yes,no,750,79,97,0,0,0,5,10,9,10,0,0,0,1
+10,Regular Season,Friday,6:00pm,UTEP Miners,UAB Blazers,,,yes,no,1080,105,98,0,0,0,4,10,4,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,Oregon State Beavers,UCLA Bruins,,,yes,no,750,75,99,0,0,0,5,10,8,10,0,0,0,1
+10,Regular Season,Saturday,6:00pm,Pittsburgh Panthers,Connecticut Huskies,,,yes,no,1080,77,100,0,0,0,5,10,46,10,0,0,0,1
+10,Regular Season,Saturday,6:00pm,North Texas Mean Green,UL Lafayette Ragin' Cajuns,,,yes,no,1080,64,86,0,0,0,5,10,45,10,0,0,0,1
+10,Regular Season,Saturday,6:00pm,Oregon Ducks,USC Trojans,,,yes,no,1080,74,102,0,0,0,5,10,44,10,0,0,0,1
+10,Regular Season,Saturday,12:30pm,Syracuse Orange,USF Bulls,,,yes,no,750,88,144,0,0,0,5,10,7,10,0,0,0,1
+10,Regular Season,Saturday,6:00pm,Colorado State Rams,Utah Utes,,,yes,no,1080,23,103,0,0,0,5,10,43,10,0,0,0,1
+10,Regular Season,Saturday,3:30pm,Kent State Golden Flashes,Virginia Tech Hokies,,,no,no,930,41,108,0,0,0,5,10,27,10,0,0,0,0
+10,Regular Season,Saturday,3:30pm,Stanford Cardinal,Washington Huskies,,,yes,yes,930,87,110,0,0,0,5,10,26,10,0,1,1,1
+10,Regular Season,Saturday,12:30pm,Cincinnati Bearcats,West Virginia Mountaineers,,,yes,no,750,20,112,0,0,0,5,10,6,10,0,0,0,1
+11,Regular Season,Saturday,12:30pm,Utah Utes,Air Force Falcons,,,yes,no,750,103,1,0,0,0,5,11,24,11,0,0,0,1
+11,Regular Season,Saturday,6:00pm,Auburn Tigers,Alabama Crimson Tide,,,yes,no,1080,9,3,0,0,0,5,11,55,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,UCLA Bruins,Arizona State Sun Devils,,,yes,no,930,99,5,0,0,0,5,11,25,11,0,0,0,1
+11,Regular Season,Saturday,12:30pm,Oklahoma Sooners,Baylor Bears,,,yes,no,750,71,11,0,0,0,5,11,23,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Utah State Aggies,Boise State Broncos,,,yes,no,930,104,12,0,0,0,5,11,43,11,0,0,0,1
+11,Regular Season,Saturday,12:30pm,Maryland Terrapins,Boston College Eagles,,,yes,no,750,47,13,0,0,0,5,11,22,11,0,0,0,1
+11,Regular Season,Wednesday,6:00pm,Miami University RedHawks,Bowling Green Falcons,,,yes,no,1080,50,14,0,0,0,2,11,1,11,0,0,0,1
+11,Regular Season,Saturday,6:00pm,New Mexico Lobos,BYU Cougars,,,yes,no,1080,60,16,0,0,0,5,11,54,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Rutgers Scarlet Knights,Cincinnati Bearcats,,,yes,no,930,80,20,0,0,0,5,11,42,11,0,0,0,1
+11,Regular Season,Saturday,12:30pm,UL Lafayette Ragin' Cajuns,FIU Golden Panthers,,,yes,no,750,86,230,0,0,0,5,11,21,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Western Carolina Catamounts,Florida Gators,,,no,no,930,195,27,0,0,0,5,11,41,11,0,0,0,0
+11,Regular Season,Saturday,12:30pm,Western Michigan Broncos,Florida State Seminoles,,,no,no,750,113,28,0,0,0,5,11,20,11,0,0,0,0
+11,Regular Season,Saturday,6:00pm,Idaho Vandals,Fresno State Bulldogs,,,yes,no,1080,34,29,0,0,0,5,11,53,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Duke Blue Devils,Georgia Tech Yellow Jackets,,,yes,no,930,24,31,0,0,0,5,11,40,11,0,0,0,1
+11,Regular Season,Saturday,6:00pm,San Jose State Spartans,Hawaii Warriors,,,yes,no,1080,82,32,0,0,0,5,11,52,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Missouri Tigers,Iowa State Cyclones,,,yes,no,930,56,38,0,0,0,5,11,39,11,0,0,0,1
+11,Regular Season,Saturday,12:30pm,Kansas State Wildcats,Kansas Jayhawks,,,yes,no,750,40,39,0,0,0,5,11,19,11,0,0,0,1
+11,Regular Season,Saturday,12:30pm,Eastern Michigan Eagles,Kent State Golden Flashes,,,yes,no,750,26,41,0,0,0,5,11,18,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,UL Monroe Warhawks,Kentucky Wildcats,,,no,no,930,65,42,0,0,0,5,11,38,11,0,0,0,0
+11,Regular Season,Saturday,6:00pm,Nevada Wolf Pack,Louisiana Tech Bulldogs,,,yes,no,1080,59,43,0,0,0,5,11,51,11,0,0,0,1
+11,Regular Season,Saturday,6:00pm,USF Bulls,Louisville Cardinals,,,yes,no,1080,144,44,0,0,0,5,11,50,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Ole Miss Rebels,LSU Tigers,,,yes,no,930,73,45,0,0,0,5,11,37,11,0,0,0,1
+11,Regular Season,Saturday,12:30pm,UTEP Miners,Marshall Thundering Herd,,,yes,no,750,105,46,0,0,0,5,11,17,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Houston Cougars,Memphis Tigers,,,yes,no,930,33,48,0,0,0,5,11,36,11,0,0,0,1
+11,Regular Season,Saturday,12:30pm,Iowa Hawkeyes,Minnesota Golden Gophers,,,yes,no,750,37,54,0,0,0,5,11,16,11,0,0,0,1
+11,Regular Season,Saturday,12:30pm,Arkansas Razorbacks,Mississippi State Bulldogs,,,yes,no,750,6,55,0,0,0,5,11,15,11,0,0,0,1
+11,Regular Season,Saturday,12:30pm,Temple Owls,Navy Midshipmen,,,no,no,750,90,57,0,0,0,5,11,14,11,0,0,0,0
+11,Regular Season,Saturday,12:30pm,NC State Wolfpack,North Carolina Tar Heels,,,yes,no,750,63,62,0,0,0,5,11,13,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Florida Atlantic Owls,North Texas Mean Green,,,yes,no,930,229,64,0,0,0,5,11,35,11,0,0,0,1
+11,Regular Season,Friday,6:00pm,Central Michigan Chippewas,Northern Illinois Huskies,,,yes,no,1080,19,66,0,0,0,4,11,4,11,0,0,0,1
+11,Regular Season,Saturday,12:30pm,Illinois Fighting Illini,Northwestern Wildcats,,,yes,no,750,35,67,0,0,0,5,11,12,11,0,0,0,1
+11,Regular Season,Saturday,12:30pm,Army Black Knights,Notre Dame Fighting Irish,,,no,no,750,8,68,0,0,0,5,11,11,11,0,0,0,0
+11,Regular Season,Thursday,6:00pm,Akron Zips,Ohio Bobcats,,,yes,no,1080,2,69,0,0,0,3,11,3,11,0,0,0,1
+11,Regular Season,Saturday,12:30pm,Michigan Wolverines,Ohio State Buckeyes,,,yes,no,750,51,70,0,0,0,5,11,10,11,0,0,0,1
+11,Regular Season,Saturday,6:00pm,Arizona Wildcats,Oregon Ducks,,,yes,no,1080,4,74,0,0,0,5,11,49,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Michigan State Spartans,Penn State Nittany Lions,,,yes,no,930,52,76,0,0,0,5,11,34,11,0,0,0,1
+11,Regular Season,Thursday,6:00pm,West Virginia Mountaineers,Pittsburgh Panthers,,,yes,no,1080,112,77,0,0,0,3,11,2,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Indiana Hoosiers,Purdue Boilermakers,,,yes,no,930,36,78,0,0,0,5,11,33,11,0,0,0,1
+11,Regular Season,Saturday,12:30pm,ECU Pirates,Rice Owls,,,yes,no,750,25,79,0,0,0,5,11,9,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Tulsa Golden Hurricane,SMU Mustangs,,,yes,no,930,97,83,0,0,0,5,11,32,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Mid Tenn State Blue Raiders,South Carolina Gamecocks,,,no,no,930,53,84,0,0,0,5,11,31,11,0,0,0,0
+11,Regular Season,Saturday,12:30pm,UAB Blazers,Southern Miss Golden Eagles,,,yes,no,750,98,85,0,0,0,5,11,8,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Oregon State Beavers,Stanford Cardinal,,,yes,no,930,75,87,0,0,0,5,11,30,11,0,0,0,1
+11,Regular Season,Saturday,12:30pm,Connecticut Huskies,Syracuse Orange,,,yes,no,750,100,88,0,0,0,5,11,7,11,0,0,0,1
+11,Regular Season,Saturday,6:00pm,San Diego State Aztecs,TCU Horned Frogs,,,yes,no,1080,81,89,0,0,0,5,11,48,11,0,0,0,1
+11,Regular Season,Saturday,6:00pm,Oklahoma State Cowboys,Texas Tech Red Raiders,,,yes,no,1080,72,94,0,0,0,5,11,47,11,0,0,0,1
+11,Regular Season,Tuesday,6:00pm,Ball State Cardinals,Toledo Rockets,,,yes,no,1080,10,95,0,0,0,1,11,0,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Arkansas State Indians,Troy Trojans,,,yes,no,930,7,143,0,0,0,5,11,29,11,0,0,0,1
+11,Regular Season,Saturday,12:30pm,UCF Golden Knights,Tulane Green Wave,,,yes,no,750,18,96,0,0,0,5,11,6,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Wyoming Cowboys,UNLV Rebels,,,yes,no,930,115,101,0,0,0,5,11,28,11,0,0,0,1
+11,Regular Season,Saturday,6:00pm,Cal Golden Bears,USC Trojans,,,yes,no,1080,17,102,0,0,0,5,11,46,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Tennessee Volunteers,Vanderbilt Commodores,,,yes,no,930,91,106,0,0,0,5,11,27,11,0,0,0,1
+11,Regular Season,Saturday,3:30pm,Miami Hurricanes,Virginia Cavaliers,,,yes,no,930,49,107,0,0,0,5,11,26,11,0,0,0,1
+11,Regular Season,Saturday,12:30pm,Virginia Tech Hokies,Wake Forest Demon Deacons,,,yes,no,750,108,109,0,0,0,5,11,5,11,0,0,0,1
+11,Regular Season,Saturday,6:00pm,Washington Huskies,Washington State Cougars,,,yes,yes,1080,110,111,0,0,0,5,11,45,11,0,1,1,1
+11,Regular Season,Saturday,6:00pm,Buffalo Bulls,Wisconsin Badgers,,,no,no,1080,15,114,0,0,0,5,11,44,11,0,0,0,0
+12,Regular Season,Friday,6:00pm,Western Michigan Broncos,Akron Zips,,,yes,no,1080,113,2,0,0,0,4,12,10,12,0,0,0,1
+12,Regular Season,Friday,12:30pm,Arizona State Sun Devils,Arizona Wildcats,,,yes,no,750,5,4,0,0,0,4,12,3,12,0,0,0,1
+12,Regular Season,Friday,3:30pm,LSU Tigers,Arkansas Razorbacks,,,yes,no,930,45,6,0,0,0,4,12,7,12,0,0,0,1
+12,Regular Season,Friday,6:00pm,Kent State Golden Flashes,Ball State Cardinals,,,yes,no,1080,41,10,0,0,0,4,12,9,12,0,0,0,1
+12,Regular Season,Friday,6:00pm,Central Michigan Chippewas,Buffalo Bulls,,,yes,no,1080,19,15,0,0,0,4,12,8,12,0,0,0,1
+12,Regular Season,Saturday,12:30pm,TCU Horned Frogs,Colorado State Rams,,,yes,no,750,89,23,0,0,0,5,12,13,12,0,0,0,1
+12,Regular Season,Saturday,6:00pm,North Carolina Tar Heels,Duke Blue Devils,,,yes,no,1080,62,24,0,0,0,5,12,44,12,0,0,0,1
+12,Regular Season,Friday,6:00pm,Northern Illinois Huskies,Eastern Michigan Eagles,,,yes,no,1080,66,26,0,0,0,4,12,12,12,0,0,0,1
+12,Regular Season,Saturday,6:00pm,FIU Golden Panthers,Florida Atlantic Owls,,,yes,no,1080,230,229,0,0,0,5,12,43,12,0,0,0,1
+12,Regular Season,Saturday,6:00pm,Purdue Boilermakers,Hawaii Warriors,,,no,no,1080,78,32,0,0,0,5,12,42,12,0,0,0,0
+12,Regular Season,Saturday,3:30pm,San Jose State Spartans,Idaho Vandals,,,yes,no,930,82,34,0,0,0,5,12,35,12,0,0,0,1
+12,Regular Season,Friday,12:30pm,Fresno State Bulldogs,Louisiana Tech Bulldogs,,,yes,no,750,29,43,0,0,0,4,12,2,12,0,0,0,1
+12,Regular Season,Saturday,3:30pm,Wake Forest Demon Deacons,Maryland Terrapins,,,yes,no,930,109,47,0,0,0,5,12,34,12,0,0,0,1
+12,Regular Season,Thursday,6:00pm,Boston College Eagles,Miami Hurricanes,,,yes,no,1080,13,49,0,0,0,3,12,1,12,0,0,0,1
+12,Regular Season,Friday,6:00pm,Ohio Bobcats,Miami University RedHawks,,,yes,no,1080,69,50,0,0,0,4,12,11,12,0,0,0,1
+12,Regular Season,Saturday,6:00pm,Troy Trojans,Mid Tenn State Blue Raiders,,,yes,no,1080,143,53,0,0,0,5,12,41,12,0,0,0,1
+12,Regular Season,Saturday,3:30pm,Kansas Jayhawks,Missouri Tigers,,,yes,no,930,39,56,0,0,0,5,12,33,12,0,0,0,1
+12,Regular Season,Saturday,6:00pm,ECU Pirates,NC State Wolfpack,,,no,no,1080,25,63,0,0,0,5,12,40,12,0,0,0,0
+12,Regular Season,Friday,3:30pm,Colorado Buffs,Nebraska Cornhuskers,,,yes,no,930,22,58,0,0,0,4,12,6,12,0,0,0,1
+12,Regular Season,Saturday,3:30pm,Boise State Broncos,Nevada Wolf Pack,,,yes,no,930,12,59,0,0,0,5,12,32,12,0,0,0,1
+12,Regular Season,Saturday,3:30pm,San Diego State Aztecs,New Mexico Lobos,,,yes,no,930,81,60,0,0,0,5,12,31,12,0,0,0,1
+12,Regular Season,Saturday,3:30pm,Oklahoma Sooners,Oklahoma State Cowboys,,,yes,no,930,71,72,0,0,0,5,12,30,12,0,0,0,1
+12,Regular Season,Saturday,6:00pm,Mississippi State Bulldogs,Ole Miss Rebels,,,yes,no,1080,55,73,0,0,0,5,12,39,12,0,0,0,1
+12,Regular Season,Saturday,12:30pm,Oregon Ducks,Oregon State Beavers,,,yes,no,750,74,75,0,0,0,5,12,24,12,0,0,0,1
+12,Regular Season,Saturday,3:30pm,Louisville Cardinals,Pittsburgh Panthers,,,yes,no,930,44,77,0,0,0,5,12,29,12,0,0,0,1
+12,Regular Season,Saturday,3:30pm,SMU Mustangs,Rice Owls,,,yes,no,930,83,79,0,0,0,5,12,28,12,0,0,0,1
+12,Regular Season,Saturday,12:30pm,Syracuse Orange,Rutgers Scarlet Knights,,,yes,no,750,88,80,0,0,0,5,12,23,12,0,0,0,1
+12,Regular Season,Saturday,12:30pm,Marshall Thundering Herd,Southern Miss Golden Eagles,,,yes,no,750,46,85,0,0,0,5,12,22,12,0,0,0,1
+12,Regular Season,Saturday,12:30pm,Kentucky Wildcats,Tennessee Volunteers,,,yes,no,750,42,91,0,0,0,5,12,21,12,0,0,0,1
+12,Regular Season,Friday,3:30pm,Texas A&M Aggies,Texas Longhorns,,,yes,no,930,93,92,0,0,0,4,12,5,12,0,0,0,1
+12,Regular Season,Tuesday,6:00pm,Bowling Green Falcons,Toledo Rockets,,,yes,no,1080,14,95,0,0,0,1,12,0,12,0,0,0,1
+12,Regular Season,Saturday,6:00pm,Tulane Green Wave,Tulsa Golden Hurricane,,,yes,no,1080,96,97,0,0,0,5,12,38,12,0,0,0,1
+12,Regular Season,Saturday,6:00pm,UAB Blazers,UCF Golden Knights,,,yes,no,1080,98,18,0,0,0,5,12,37,12,0,0,0,1
+12,Regular Season,Saturday,3:30pm,Cincinnati Bearcats,Connecticut Huskies,,,yes,no,930,20,100,0,0,0,5,12,27,12,0,0,0,1
+12,Regular Season,Saturday,12:30pm,Arkansas State Indians,UL Lafayette Ragin' Cajuns,,,yes,no,750,7,86,0,0,0,5,12,20,12,0,0,0,1
+12,Regular Season,Saturday,3:30pm,North Texas Mean Green,UL Monroe Warhawks,,,yes,no,930,64,65,0,0,0,5,12,26,12,0,0,0,1
+12,Regular Season,Friday,3:30pm,Air Force Falcons,UNLV Rebels,,,yes,no,930,1,101,0,0,0,4,12,4,12,0,0,0,1
+12,Regular Season,Saturday,12:30pm,BYU Cougars,Utah Utes,,,yes,no,750,16,103,0,0,0,5,12,19,12,0,0,0,1
+12,Regular Season,Saturday,12:30pm,New Mexico State Aggies,Utah State Aggies,,,yes,no,750,61,104,0,0,0,5,12,18,12,0,0,0,1
+12,Regular Season,Saturday,12:30pm,Memphis Tigers,UTEP Miners,,,yes,no,750,48,105,0,0,0,5,12,17,12,0,0,0,1
+12,Regular Season,Saturday,12:30pm,Virginia Cavaliers,Virginia Tech Hokies,,,yes,no,750,107,108,0,0,0,5,12,16,12,0,0,0,1
+12,Regular Season,Saturday,3:30pm,USF Bulls,West Virginia Mountaineers,,,yes,no,930,144,112,0,0,0,5,12,25,12,0,0,0,1
+13,Regular Season,Saturday,3:30pm,Stanford Cardinal,Cal Golden Bears,,,yes,no,930,87,17,0,0,0,5,13,5,13,0,0,0,1
+13,Regular Season,Saturday,6:00pm,Troy Trojans,FIU Golden Panthers,,,yes,no,1080,143,230,0,0,0,5,13,11,13,0,0,0,1
+13,Regular Season,Saturday,3:30pm,Oregon State Beavers,Hawaii Warriors,,,no,no,930,75,32,0,0,0,5,13,9,13,0,0,0,0
+13,Regular Season,Saturday,6:00pm,Connecticut Huskies,Louisville Cardinals,,,yes,no,1080,100,44,0,0,0,5,13,10,13,0,0,0,1
+13,Regular Season,Saturday,12:30pm,Louisiana Tech Bulldogs,New Mexico State Aggies,,,yes,no,750,43,61,0,0,0,5,13,3,13,0,0,0,1
+13,Regular Season,Saturday,12:30pm,Colorado State Rams,San Diego State Aztecs,,,yes,no,750,23,81,0,0,0,5,13,2,13,0,0,0,1
+13,Regular Season,Saturday,3:30pm,Fresno State Bulldogs,San Jose State Spartans,,,yes,no,930,29,82,0,0,0,5,13,8,13,0,0,0,1
+13,Regular Season,Saturday,12:30pm,Air Force Falcons,TCU Horned Frogs,,,yes,no,750,1,89,0,0,0,5,13,1,13,0,0,0,1
+13,Regular Season,Saturday,3:30pm,USC Trojans,UCLA Bruins,,,yes,no,930,102,99,0,0,0,5,13,7,13,0,0,0,1
+13,Regular Season,Saturday,3:30pm,UL Monroe Warhawks,UL Lafayette Ragin' Cajuns,,,yes,no,930,65,86,0,0,0,5,13,6,13,0,0,0,1
+13,Regular Season,Saturday,12:30pm,Rutgers Scarlet Knights,West Virginia Mountaineers,,,yes,no,750,80,112,0,0,0,5,13,0,13,0,0,0,1
+0,Regular Season,Saturday,6:00pm,Hawaii Warriors,Alabama Crimson Tide,14-44,Alabama Crimson Tide,no,no,1080,32,3,2,14,44,5,0,67,0,0,0,0,0
+0,Regular Season,Saturday,6:00pm,BYU Cougars,Arizona Wildcats,31-28,BYU Cougars,no,no,1080,16,4,1,31,28,5,0,68,0,0,0,0,0
+0,Regular Season,Thursday,6:00pm,Northern Arizona Lumberjacks,Arizona State Sun Devils,10-55,Arizona State Sun Devils,no,no,1080,201,5,2,10,55,3,0,12,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,USC Trojans,Arkansas Razorbacks,51-3,USC Trojans,no,no,930,102,6,1,51,3,5,0,54,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Army Black Knights,Arkansas State Indians,10-13,Arkansas State Indians,no,no,750,8,7,2,10,13,5,0,16,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,Washington State Cougars,Auburn Tigers,18-17,Washington State Cougars,no,no,930,111,9,1,18,17,5,0,53,0,0,0,0,0
+0,Regular Season,Thursday,6:00pm,Eastern Michigan Eagles,Ball State Cardinals,31-35,Ball State Cardinals,yes,no,1080,26,10,2,31,35,3,0,11,0,0,0,0,1
+0,Regular Season,Saturday,12:30pm,TCU Horned Frogs,Baylor Bears,53-7,TCU Horned Frogs,no,no,750,89,11,1,53,7,5,0,15,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,Sacramento State Hornets,Boise State Broncos,10-49,Boise State Broncos,no,no,930,203,12,2,10,49,5,0,52,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Wisconsin Badgers,Bowling Green Falcons,59-0,Wisconsin Badgers,no,no,750,114,14,1,59,0,5,0,24,0,0,0,0,0
+0,Regular Season,Thursday,6:00pm,Temple Owls,Buffalo Bulls,23-20,Temple Owls,no,no,1080,90,15,1,23,20,3,0,10,0,0,0,0,0
+0,Regular Season,Thursday,6:00pm,Boston College Eagles,Central Michigan Chippewas,13-10,Boston College Eagles,no,no,1080,13,19,1,13,10,3,0,9,0,0,0,0,0
+0,Regular Season,Saturday,6:00pm,Eastern Kentucky Colonels,Cincinnati Bearcats,27-10,Eastern Kentucky Colonels,no,no,1080,221,20,1,27,10,5,0,66,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,Florida Atlantic Owls,Clemson Tigers,24-52,Clemson Tigers,no,no,930,229,21,2,24,52,5,0,51,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Montana State Bobcats,Colorado Buffs,0-63,Colorado Buffs,no,no,750,200,22,2,0,63,5,0,23,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,Weber State Wildcats,Colorado State Rams,14-38,Colorado State Rams,no,no,930,204,23,2,14,38,5,0,50,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Richmond Spiders,Duke Blue Devils,14-49,Duke Blue Devils,no,no,750,185,24,2,14,49,5,0,22,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Southern Miss Golden Eagles,Florida Gators,21-47,Florida Gators,no,no,750,85,27,2,21,47,5,0,21,0,0,0,0,0
+0,Regular Season,Friday,6:00pm,Nevada Wolf Pack,Fresno State Bulldogs,16-17,Fresno State Bulldogs,yes,no,1080,59,29,2,16,17,4,0,13,0,0,0,0,1
+0,Regular Season,Saturday,6:00pm,Western Kentucky Hilltoppers,Georgia Bulldogs,3-59,Georgia Bulldogs,no,no,1080,211,30,2,3,59,5,0,65,0,0,0,0,0
+0,Regular Season,Saturday,6:00pm,Notre Dame Fighting Irish,Georgia Tech Yellow Jackets,49-7,Notre Dame Fighting Irish,no,no,1080,68,31,1,49,7,5,0,64,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Eastern Illinois Panthers,Illinois Fighting Illini,36-24,Eastern Illinois Panthers,no,no,750,219,35,1,36,24,5,0,20,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Western Michigan Broncos,Indiana Hoosiers,33-10,Western Michigan Broncos,no,no,750,113,36,1,33,10,5,0,19,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,Montana Grizzlies,Iowa Hawkeyes,3-59,Iowa Hawkeyes,no,no,930,199,37,2,3,59,5,0,49,0,0,0,0,0
+0,Regular Season,Thursday,12:30pm,Toledo Rockets,Iowa State Cyclones,24-59,Iowa State Cyclones,no,no,750,95,38,2,24,59,3,0,0,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,Northwestern St Demons,Kansas Jayhawks,24-49,Kansas Jayhawks,no,no,930,214,39,2,24,49,5,0,48,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Illinois State Redbirds,Kansas State Wildcats,20-45,Kansas State Wildcats,no,no,750,205,40,2,20,45,5,0,18,0,0,0,0,0
+0,Regular Season,Thursday,6:00pm,Minnesota Golden Gophers,Kent State Golden Flashes,27-13,Minnesota Golden Gophers,no,no,1080,54,41,1,27,13,3,0,8,0,0,0,0,0
+0,Regular Season,Saturday,6:00pm,UL Lafayette Ragin' Cajuns,LSU Tigers,13-49,LSU Tigers,no,no,1080,86,45,2,13,49,5,0,63,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,William and Mary Tribe,Maryland Terrapins,3-13,Maryland Terrapins,no,no,930,187,47,2,3,13,5,0,47,0,0,0,0,0
+0,Regular Season,Sunday,6:00pm,Florida State Seminoles,Miami Hurricanes,,,yes,no,1080,28,49,0,0,0,6,0,70,0,0,0,0,1
+0,Regular Season,Thursday,6:00pm,Northwestern Wildcats,Miami University RedHawks,43-36,Northwestern Wildcats,no,no,1080,67,50,1,43,36,3,0,7,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Vanderbilt Commodores,Michigan Wolverines,13-31,Michigan Wolverines,no,no,750,106,51,2,13,31,5,0,34,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,Idaho Vandals,Michigan State Spartans,13-45,Michigan State Spartans,no,no,930,34,52,2,13,45,5,0,46,0,0,0,0,0
+0,Regular Season,Thursday,6:00pm,FIU Golden Panthers,Mid Tenn State Blue Raiders,21-14,FIU Golden Panthers,yes,no,1080,230,53,1,21,14,3,0,6,0,0,0,0,1
+0,Regular Season,Thursday,6:00pm,South Carolina Gamecocks,Mississippi State Bulldogs,38-14,South Carolina Gamecocks,yes,no,1080,84,55,1,38,14,3,0,5,0,0,0,0,1
+0,Regular Season,Saturday,3:30pm,Murray State Racers,Missouri Tigers,7-54,Missouri Tigers,no,no,930,220,56,2,7,54,5,0,45,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,ECU Pirates,Navy Midshipmen,17-50,Navy Midshipmen,no,no,930,25,57,2,17,50,5,0,44,0,0,0,0,0
+0,Regular Season,Saturday,6:00pm,Appalachian State Mountaineers,NC State Wolfpack,21-45,NC State Wolfpack,no,no,1080,188,63,2,21,45,5,0,62,0,0,0,0,0
+0,Regular Season,Saturday,6:00pm,Louisiana Tech Bulldogs,Nebraska Cornhuskers,14-63,Nebraska Cornhuskers,no,no,1080,43,58,2,14,63,5,0,61,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Portland State Vikings,New Mexico Lobos,10-42,New Mexico Lobos,no,no,750,202,60,2,10,42,5,0,33,0,0,0,0,0
+0,Regular Season,Thursday,6:00pm,Southeastern Lions,New Mexico State Aggies,16-45,New Mexico State Aggies,no,no,1080,231,61,2,16,45,3,0,4,0,0,0,0,0
+0,Regular Season,Saturday,6:00pm,Rutgers Scarlet Knights,North Carolina Tar Heels,10-38,North Carolina Tar Heels,no,no,1080,80,62,2,10,38,5,0,60,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,Tennessee-Martin Skyhawks,Ohio Bobcats,15-27,Ohio Bobcats,no,no,930,227,69,2,15,27,5,0,43,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Northern Illinois Huskies,Ohio State Buckeyes,34-42,Ohio State Buckeyes,no,no,750,66,70,2,34,42,5,0,32,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,UAB Blazers,Oklahoma Sooners,3-31,Oklahoma Sooners,no,no,750,98,71,2,3,31,5,0,31,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,Missouri State Bears,Oklahoma State Cowboys,0-47,Oklahoma State Cowboys,no,no,930,209,72,2,0,47,5,0,42,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Memphis Tigers,Ole Miss Rebels,24-13,Memphis Tigers,no,no,750,48,73,1,24,13,5,0,30,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,Stanford Cardinal,Oregon Ducks,3-46,Oregon Ducks,yes,no,930,87,74,2,3,46,5,0,41,0,0,0,0,1
+0,Regular Season,Saturday,12:30pm,Akron Zips,Penn State Nittany Lions,21-28,Penn State Nittany Lions,no,no,750,2,76,2,21,28,5,0,29,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Virginia Cavaliers,Pittsburgh Panthers,24-27,Pittsburgh Panthers,no,no,750,107,77,2,24,27,5,0,28,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Houston Cougars,Rice Owls,28-21,Houston Cougars,yes,no,750,33,79,1,28,21,5,0,27,0,0,0,0,1
+0,Regular Season,Thursday,6:00pm,UTEP Miners,San Diego State Aztecs,41-0,UTEP Miners,no,no,1080,105,81,1,41,0,3,0,3,0,0,0,0,0
+0,Regular Season,Saturday,6:00pm,Cal Golden Bears,Tennessee Volunteers,21-28,Tennessee Volunteers,no,no,1080,17,91,2,21,28,5,0,59,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,North Texas Mean Green,Texas Longhorns,3-42,Texas Longhorns,no,no,930,64,92,2,3,42,5,0,40,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,The Citadel Bulldogs,Texas A&M Aggies,0-34,Texas A&M Aggies,no,no,930,189,93,2,0,34,5,0,39,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,SMU Mustangs,Texas Tech Red Raiders,23-41,Texas Tech Red Raiders,no,no,930,83,94,2,23,41,5,0,38,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Alabama State Hornets,Troy Trojans,7-45,Troy Trojans,no,no,750,117,143,2,7,45,5,0,26,0,0,0,0,0
+0,Regular Season,Thursday,6:00pm,Stephen F. Austin Lumberjacks,Tulsa Golden Hurricane,17-56,Tulsa Golden Hurricane,no,no,1080,216,97,2,17,56,3,0,2,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,Villanova Wildcats,UCF Golden Knights,7-38,UCF Golden Knights,no,no,930,186,18,2,7,38,5,0,37,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Utah Utes,UCLA Bruins,16-15,Utah Utes,no,no,750,103,99,1,16,15,5,0,25,0,0,0,0,0
+0,Regular Season,Thursday,6:00pm,Rhode Island Rams,Connecticut Huskies,10-59,Connecticut Huskies,no,no,1080,184,100,2,10,59,3,0,1,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,Alcorn State Braves,UL Monroe Warhawks,13-43,UL Monroe Warhawks,no,no,930,118,65,2,13,43,5,0,36,0,0,0,0,0
+0,Regular Season,Saturday,6:00pm,Idaho State Bengals,UNLV Rebels,7-38,UNLV Rebels,no,no,1080,198,101,2,7,38,5,0,58,0,0,0,0,0
+0,Regular Season,Saturday,6:00pm,McNeese State Cowboys,USF Bulls,10-35,USF Bulls,no,no,1080,213,144,2,10,35,5,0,57,0,0,0,0,0
+0,Regular Season,Saturday,3:30pm,Northeastern Huskies,Virginia Tech Hokies,0-49,Virginia Tech Hokies,no,no,930,183,108,2,0,49,5,0,35,0,0,0,0,0
+0,Regular Season,Saturday,12:30pm,Syracuse Orange,Wake Forest Demon Deacons,14-42,Wake Forest Demon Deacons,no,no,750,88,109,2,14,42,5,0,14,0,0,0,0,0
+0,Regular Season,Saturday,6:00pm,E Washington Eagles,Washington Huskies,,,no,yes,1080,197,110,0,0,0,5,0,56,0,0,1,1,0
+0,Regular Season,Saturday,6:00pm,Utah State Aggies,Wyoming Cowboys,23-21,Utah State Aggies,no,no,1080,104,115,1,23,21,5,0,55,0,0,0,0,0
+1,Regular Season,Saturday,6:00pm,Vanderbilt Commodores,Alabama Crimson Tide,,,yes,no,1080,106,3,0,0,0,5,1,62,1,0,0,0,1
+1,Regular Season,Saturday,3:30pm,Nevada Wolf Pack,Arizona State Sun Devils,,,no,no,930,59,5,0,0,0,5,1,43,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Utah State Aggies,Arkansas Razorbacks,,,no,no,750,104,6,0,0,0,5,1,12,1,0,0,0,0
+1,Regular Season,Saturday,3:30pm,Oklahoma State Cowboys,Arkansas State Indians,,,no,no,930,72,7,0,0,0,5,1,42,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Kent State Golden Flashes,Army Black Knights,,,no,no,750,41,8,0,0,0,5,1,11,1,0,0,0,0
+1,Regular Season,Saturday,6:00pm,Indiana Hoosiers,Ball State Cardinals,,,no,no,1080,36,10,0,0,0,5,1,61,1,0,0,0,0
+1,Regular Season,Saturday,6:00pm,Northwestern St Demons,Baylor Bears,,,no,no,1080,214,11,0,0,0,5,1,60,1,0,0,0,0
+1,Regular Season,Thursday,6:00pm,Oregon State Beavers,Boise State Broncos,,,no,no,1080,75,12,0,0,0,3,1,0,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Clemson Tigers,Boston College Eagles,,,yes,no,750,21,13,0,0,0,5,1,10,1,0,0,0,1
+1,Regular Season,Saturday,12:30pm,Buffalo Bulls,Bowling Green Falcons,,,yes,no,750,15,14,0,0,0,5,1,9,1,0,0,0,1
+1,Regular Season,Saturday,3:30pm,Tulsa Golden Hurricane,BYU Cougars,,,no,no,930,97,16,0,0,0,5,1,41,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Minnesota Golden Gophers,Cal Golden Bears,,,no,no,750,54,17,0,0,0,5,1,8,1,0,0,0,0
+1,Regular Season,Friday,3:30pm,Pittsburgh Panthers,Cincinnati Bearcats,,,yes,no,930,77,20,0,0,0,4,1,1,1,0,0,0,1
+1,Regular Season,Saturday,3:30pm,UCF Golden Knights,Florida Gators,,,no,no,930,18,27,0,0,0,5,1,40,1,0,0,0,0
+1,Regular Season,Saturday,6:00pm,Troy Trojans,Florida State Seminoles,,,no,no,1080,143,28,0,0,0,5,1,59,1,0,0,0,0
+1,Regular Season,Saturday,3:30pm,Oregon Ducks,Fresno State Bulldogs,,,no,no,930,74,29,0,0,0,5,1,39,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Samford Bulldogs,Georgia Tech Yellow Jackets,,,no,no,750,226,31,0,0,0,5,1,7,1,0,0,0,0
+1,Regular Season,Saturday,6:00pm,Tulane Green Wave,Houston Cougars,,,yes,no,1080,96,33,0,0,0,5,1,58,1,0,0,0,1
+1,Regular Season,Saturday,6:00pm,UNLV Rebels,Iowa State Cyclones,,,no,no,1080,101,38,0,0,0,5,1,57,1,0,0,0,0
+1,Regular Season,Saturday,6:00pm,UL Monroe Warhawks,Kansas Jayhawks,,,no,no,1080,65,39,0,0,0,5,1,56,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Florida Atlantic Owls,Kansas State Wildcats,,,no,no,750,229,40,0,0,0,5,1,6,1,0,0,0,0
+1,Regular Season,Saturday,3:30pm,Texas State Bobcats,Kentucky Wildcats,,,no,no,930,218,42,0,0,0,5,1,38,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Arizona Wildcats,LSU Tigers,,,no,no,750,4,45,0,0,0,5,1,5,1,0,0,0,0
+1,Regular Season,Saturday,3:30pm,Hofstra Pride,Marshall Thundering Herd,,,no,no,930,178,46,0,0,0,5,1,37,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Mid Tenn State Blue Raiders,Maryland Terrapins,,,no,no,750,53,47,0,0,0,5,1,4,1,0,0,0,0
+1,Regular Season,Saturday,3:30pm,Chattanooga Mocs,Memphis Tigers,,,no,no,930,194,48,0,0,0,5,1,36,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Florida A&M Rattlers,Miami Hurricanes,,,no,no,750,126,49,0,0,0,5,1,23,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Central Michigan Chippewas,Michigan Wolverines,,,no,no,750,19,51,0,0,0,5,1,22,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Eastern Michigan Eagles,Michigan State Spartans,,,no,no,750,26,52,0,0,0,5,1,21,1,0,0,0,0
+1,Regular Season,Saturday,3:30pm,Auburn Tigers,Mississippi State Bulldogs,,,yes,no,930,9,55,0,0,0,5,1,35,1,0,0,0,1
+1,Regular Season,Saturday,6:00pm,Ole Miss Rebels,Missouri Tigers,,,no,no,1080,73,56,0,0,0,5,1,53,1,0,0,0,0
+1,Regular Season,Saturday,3:30pm,UMass Minutemen,Navy Midshipmen,,,no,no,930,181,57,0,0,0,5,1,34,1,0,0,0,0
+1,Regular Season,Saturday,3:30pm,Akron Zips,NC State Wolfpack,,,no,no,930,2,63,0,0,0,5,1,33,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Nicholls Colonels,Nebraska Cornhuskers,,,no,no,750,215,58,0,0,0,5,1,20,1,0,0,0,0
+1,Regular Season,Saturday,6:00pm,Virginia Tech Hokies,North Carolina Tar Heels,,,yes,no,1080,108,62,0,0,0,5,1,52,1,0,0,0,1
+1,Regular Season,Saturday,3:30pm,SMU Mustangs,North Texas Mean Green,,,no,no,930,83,64,0,0,0,5,1,32,1,0,0,0,0
+1,Regular Season,Saturday,3:30pm,Ohio Bobcats,Northern Illinois Huskies,,,yes,no,930,69,66,0,0,0,5,1,31,1,0,0,0,1
+1,Regular Season,Saturday,3:30pm,New Hampshire Wildcats,Northwestern Wildcats,,,no,no,930,182,67,0,0,0,5,1,30,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Penn State Nittany Lions,Notre Dame Fighting Irish,,,no,no,750,76,68,0,0,0,5,1,19,1,0,0,0,0
+1,Regular Season,Saturday,6:00pm,Oklahoma Sooners,Washington Huskies,,,no,yes,1080,71,110,0,0,0,5,1,51,1,0,1,1,0
+1,Regular Season,Saturday,6:00pm,Miami University RedHawks,Purdue Boilermakers,,,no,no,1080,50,78,0,0,0,5,1,50,1,0,0,0,0
+1,Regular Season,Saturday,3:30pm,Illinois Fighting Illini,Rutgers Scarlet Knights,,,no,no,930,35,80,0,0,0,5,1,29,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Stanford Cardinal,San Jose State Spartans,,,no,no,750,87,82,0,0,0,5,1,18,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Georgia Bulldogs,South Carolina Gamecocks,,,yes,no,750,30,84,0,0,0,5,1,17,1,0,0,0,1
+1,Regular Season,Saturday,3:30pm,Southeastern Lions,Southern Miss Golden Eagles,,,no,no,930,231,85,0,0,0,5,1,28,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Iowa Hawkeyes,Syracuse Orange,,,no,no,750,37,88,0,0,0,5,1,16,1,0,0,0,0
+1,Regular Season,Saturday,6:00pm,1AA West,TCU Horned Frogs,,,no,no,1080,161,89,0,0,0,5,1,49,1,0,0,0,0
+1,Regular Season,Saturday,6:00pm,Louisville Cardinals,Temple Owls,,,no,no,1080,44,90,0,0,0,5,1,48,1,0,0,0,0
+1,Regular Season,Saturday,3:30pm,Air Force Falcons,Tennessee Volunteers,,,no,no,930,1,91,0,0,0,5,1,27,1,0,0,0,0
+1,Regular Season,Saturday,6:00pm,Ohio State Buckeyes,Texas Longhorns,,,no,no,1080,70,92,0,0,0,5,1,47,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,UL Lafayette Ragin' Cajuns,Texas A&M Aggies,,,no,no,750,86,93,0,0,0,5,1,15,1,0,0,0,0
+1,Regular Season,Saturday,3:30pm,ECU Pirates,UAB Blazers,,,yes,no,930,25,98,0,0,0,5,1,26,1,0,0,0,1
+1,Regular Season,Saturday,3:30pm,Rice Owls,UCLA Bruins,,,no,no,930,79,99,0,0,0,5,1,25,1,0,0,0,0
+1,Regular Season,Saturday,6:00pm,FIU Golden Panthers,USF Bulls,,,no,no,1080,230,144,0,0,0,5,1,46,1,0,0,0,0
+1,Regular Season,Saturday,3:30pm,Northern Arizona Lumberjacks,Utah Utes,,,no,no,930,201,103,0,0,0,5,1,24,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Texas Tech Red Raiders,UTEP Miners,,,no,no,750,94,105,0,0,0,5,1,14,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Wyoming Cowboys,Virginia Cavaliers,,,no,no,750,115,107,0,0,0,5,1,13,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Duke Blue Devils,Wake Forest Demon Deacons,,,yes,no,750,24,109,0,0,0,5,1,3,1,0,0,0,1
+1,Regular Season,Saturday,6:00pm,E Washington Eagles,West Virginia Mountaineers,,,no,no,1080,197,112,0,0,0,5,1,45,1,0,0,0,0
+1,Regular Season,Saturday,12:30pm,Toledo Rockets,Western Michigan Broncos,,,yes,no,750,95,113,0,0,0,5,1,2,1,0,0,0,1
+1,Regular Season,Saturday,6:00pm,Western Illinois Leathernecks,Wisconsin Badgers,,,no,no,1080,210,114,0,0,0,5,1,44,1,0,0,0,0
+2,Regular Season,Saturday,3:30pm,UL Monroe Warhawks,Alabama Crimson Tide,,,no,no,930,65,3,0,0,0,5,2,26,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Stephen F. Austin Lumberjacks,Arizona Wildcats,,,no,no,750,216,4,0,0,0,5,2,17,2,0,0,0,0
+2,Regular Season,Saturday,3:30pm,LSU Tigers,Auburn Tigers,,,yes,no,930,45,9,0,0,0,5,2,41,2,0,0,0,1
+2,Regular Season,Saturday,12:30pm,BYU Cougars,Boston College Eagles,,,no,no,750,16,13,0,0,0,5,2,16,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Portland State Vikings,Cal Golden Bears,,,no,no,750,202,17,0,0,0,5,2,15,2,0,0,0,0
+2,Regular Season,Saturday,6:00pm,Akron Zips,Central Michigan Chippewas,,,yes,no,1080,2,19,0,0,0,5,2,55,2,0,0,0,1
+2,Regular Season,Saturday,3:30pm,Arizona State Sun Devils,Colorado Buffs,,,no,no,930,5,22,0,0,0,5,2,40,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Memphis Tigers,ECU Pirates,,,yes,no,750,48,25,0,0,0,5,2,14,2,0,0,0,1
+2,Regular Season,Saturday,3:30pm,Bowling Green Falcons,FIU Golden Panthers,,,no,no,930,14,230,0,0,0,5,2,39,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Clemson Tigers,Florida State Seminoles,,,yes,no,750,21,28,0,0,0,5,2,13,2,0,0,0,1
+2,Regular Season,Saturday,3:30pm,UAB Blazers,Georgia Bulldogs,,,no,no,930,98,30,0,0,0,5,2,38,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Troy Trojans,Georgia Tech Yellow Jackets,,,no,no,750,143,31,0,0,0,5,2,12,2,0,0,0,0
+2,Regular Season,Saturday,3:30pm,UNLV Rebels,Hawaii Warriors,,,no,no,930,101,32,0,0,0,5,2,37,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Grambling State Tigers,Houston Cougars,,,no,no,750,127,33,0,0,0,5,2,11,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Idaho State Bengals,Idaho Vandals,,,no,no,750,198,34,0,0,0,5,2,10,2,0,0,0,0
+2,Regular Season,Saturday,6:00pm,Syracuse Orange,Illinois Fighting Illini,,,no,no,1080,88,35,0,0,0,5,2,54,2,0,0,0,0
+2,Regular Season,Saturday,6:00pm,Southern Illinois Salukis,Indiana Hoosiers,,,no,no,1080,208,36,0,0,0,5,2,53,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Marshall Thundering Herd,Kansas State Wildcats,,,no,no,750,46,40,0,0,0,5,2,9,2,0,0,0,0
+2,Regular Season,Saturday,6:00pm,Ole Miss Rebels,Kentucky Wildcats,,,yes,no,1080,73,42,0,0,0,5,2,52,2,0,0,0,1
+2,Regular Season,Saturday,3:30pm,Miami Hurricanes,Louisville Cardinals,,,no,no,930,49,44,0,0,0,5,2,36,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Kent State Golden Flashes,Miami University RedHawks,,,yes,no,750,41,50,0,0,0,5,2,8,2,0,0,0,1
+2,Regular Season,Thursday,12:30pm,Tennessee Tech Golden Eagles,Mid Tenn State Blue Raiders,,,no,no,750,224,53,0,0,0,3,2,0,2,0,0,0,0
+2,Regular Season,Saturday,6:00pm,Temple Owls,Minnesota Golden Gophers,,,no,no,1080,90,54,0,0,0,5,2,51,2,0,0,0,0
+2,Regular Season,Saturday,6:00pm,Tulane Green Wave,Mississippi State Bulldogs,,,no,no,1080,96,55,0,0,0,5,2,50,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Colorado State Rams,Nevada Wolf Pack,,,no,no,750,23,59,0,0,0,5,2,7,2,0,0,0,0
+2,Regular Season,Saturday,3:30pm,Missouri Tigers,New Mexico Lobos,,,no,no,930,56,60,0,0,0,5,2,35,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Texas Southern Tigers,New Mexico State Aggies,,,no,no,750,141,61,0,0,0,5,2,6,2,0,0,0,0
+2,Regular Season,Saturday,3:30pm,Furman Paladins,North Carolina Tar Heels,,,no,no,930,192,62,0,0,0,5,2,34,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Buffalo Bulls,Northern Illinois Huskies,,,yes,no,750,15,66,0,0,0,5,2,5,2,0,0,0,1
+2,Regular Season,Saturday,6:00pm,Eastern Michigan Eagles,Northwestern Wildcats,,,no,no,1080,26,67,0,0,0,5,2,49,2,0,0,0,0
+2,Regular Season,Saturday,3:30pm,Cincinnati Bearcats,Ohio State Buckeyes,,,no,no,930,20,70,0,0,0,5,2,33,2,0,0,0,0
+2,Regular Season,Saturday,3:30pm,Florida Atlantic Owls,Oklahoma State Cowboys,,,no,no,930,229,72,0,0,0,5,2,32,2,0,0,0,0
+2,Regular Season,Saturday,6:00pm,Oklahoma Sooners,Oregon Ducks,,,no,no,1080,71,74,0,0,0,5,2,48,2,0,0,0,0
+2,Regular Season,Saturday,3:30pm,Youngstown State Penguins,Penn State Nittany Lions,,,no,no,930,212,76,0,0,0,5,2,31,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Michigan State Spartans,Pittsburgh Panthers,,,no,no,750,52,77,0,0,0,5,2,4,2,0,0,0,0
+2,Regular Season,Saturday,6:00pm,Ball State Cardinals,Purdue Boilermakers,,,no,no,1080,10,78,0,0,0,5,2,47,2,0,0,0,0
+2,Regular Season,Saturday,12:30pm,Texas Longhorns,Rice Owls,,,no,no,750,92,79,0,0,0,5,2,3,2,0,0,0,0
+2,Regular Season,Saturday,3:30pm,Ohio Bobcats,Rutgers Scarlet Knights,,,no,no,930,69,80,0,0,0,5,2,30,2,0,0,0,0
+5,Regular Season,Saturday,3:30pm,Hofstra Pride,Florida Atlantic Owls,,,no,no,930,178,229,0,0,0,5,5,26,5,0,0,0,0
+15,Conference Championship,Saturday,1:00pm,TBD,TBD,,,no,no,780,511,511,0,0,0,5,15,3,15,0,0,0,0
+15,Conference Championship,Saturday,5:00pm,TBD,TBD,,,no,no,1020,511,511,0,0,0,5,15,4,15,0,0,0,0
+15,Conference Championship,Saturday,5:00pm,TBD,TBD,,,no,no,1020,511,511,0,0,0,5,15,1,15,0,0,0,0
+15,Conference Championship,Saturday,8:00pm,TBD,TBD,,,no,no,1200,511,511,0,0,0,5,15,0,15,0,0,0,0
+15,Conference Championship,Saturday,8:00pm,TBD,TBD,,,no,no,1200,511,511,0,0,0,5,15,2,15,0,0,0,0
+18,Bowl (early),Tuesday,10:00pm,TBD,TBD,,,no,no,1320,511,511,0,0,0,1,30,0,18,0,0,0,0
+18,Bowl (early),Wednesday,8:00pm,TBD,TBD,,,no,no,1200,511,511,0,0,0,2,30,1,18,0,0,0,0
+18,Bowl (early),Thursday,9:30pm,TBD,TBD,,,no,no,1290,511,511,0,0,0,3,30,2,18,0,0,0,0
+18,Bowl (early),Friday,8:00pm,TBD,TBD,,,no,no,1200,511,511,0,0,0,4,30,3,18,0,0,0,0
+18,Bowl (early),Saturday,6:30pm,TBD,TBD,,,no,no,1110,511,511,0,0,0,5,30,4,18,0,0,0,0
+18,Bowl (early),Sunday,2:00pm,TBD,TBD,,,no,no,840,511,511,0,0,0,6,30,5,18,0,0,0,0
+19,Bowl (main),Tuesday,5:30pm,TBD,TBD,,,no,no,1050,511,511,0,0,0,1,31,0,19,0,0,0,0
+19,Bowl (main),Wednesday,7:30pm,TBD,TBD,,,no,no,1170,511,511,0,0,0,2,31,1,19,0,0,0,0
+19,Bowl (main),Wednesday,8:00pm,TBD,TBD,,,no,no,1200,511,511,0,0,0,2,31,2,19,0,0,0,0
+19,Bowl (main),Thursday,2:00pm,TBD,TBD,,,no,no,840,511,511,0,0,0,3,31,3,19,0,0,0,0
+19,Bowl (main),Thursday,8:00pm,TBD,TBD,,,no,no,1200,511,511,0,0,0,3,31,4,19,0,0,0,0
+19,Bowl (main),Friday,12:00pm,TBD,TBD,,,no,no,720,511,511,0,0,0,4,31,5,19,0,0,0,0
+19,Bowl (main),Friday,2:00pm,TBD,TBD,,,no,no,840,511,511,0,0,0,4,31,6,19,0,0,0,0
+19,Bowl (main),Friday,7:30pm,TBD,TBD,,,no,no,1170,511,511,0,0,0,4,31,7,19,0,0,0,0
+19,Bowl (main),Friday,8:00pm,TBD,TBD,,,no,no,1200,511,511,0,0,0,4,31,8,19,0,0,0,0
+19,Bowl (main),Saturday,1:00pm,TBD,TBD,,,no,no,780,511,511,0,0,0,5,31,9,19,0,0,0,0
+19,Bowl (main),Saturday,3:30pm,TBD,TBD,,,no,no,930,511,511,0,0,0,5,31,10,19,0,0,0,0
+19,Bowl (main),Saturday,3:30pm,TBD,TBD,,,no,no,930,511,511,0,0,0,5,31,11,19,0,0,0,0
+19,Bowl (main),Saturday,7:30pm,TBD,TBD,,,no,no,1170,511,511,0,0,0,5,31,12,19,0,0,0,0
+19,Bowl (main),Saturday,9:30pm,TBD,TBD,,,no,no,1290,511,511,0,0,0,5,31,13,19,0,0,0,0
+20,Bowl (New Year),Monday,11:00am,TBD,TBD,,,no,no,660,511,511,0,0,0,0,32,0,20,0,0,0,0
+20,Bowl (New Year),Monday,11:00am,TBD,TBD,,,no,no,660,511,511,0,0,0,0,32,1,20,0,0,0,0
+20,Bowl (New Year),Monday,12:30pm,TBD,TBD,,,no,no,750,511,511,0,0,0,0,32,2,20,0,0,0,0
+20,Bowl (New Year),Monday,1:00pm,TBD,TBD,,,no,no,780,511,511,0,0,0,0,32,3,20,0,0,0,0
+20,Bowl (New Year),Monday,5:00pm,TBD,TBD,,,no,no,1020,511,511,0,0,0,0,32,4,20,0,0,0,0
+20,Bowl (New Year),Monday,8:00pm,TBD,TBD,,,no,no,1200,511,511,0,0,0,0,32,5,20,0,0,0,0
+20,Bowl (New Year),Monday,8:00pm,TBD,TBD,,,no,no,1200,511,511,0,0,0,0,32,6,20,0,0,0,0
+20,Bowl (New Year),Monday,8:30pm,TBD,TBD,,,no,no,1230,511,511,0,0,0,0,32,7,20,0,0,0,0
+21,National Championship,Monday,5:00pm,TBD,TBD,,,no,no,1020,511,511,0,0,0,0,40,0,21,0,0,0,0

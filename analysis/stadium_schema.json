@@ -1,0 +1,344 @@
+{
+  "table": "STAD",
+  "offset": 1495000,
+  "recordLenBytes": 156,
+  "records": 238,
+  "fields": [
+    {
+      "name": "STfc",
+      "bitOffset": 0,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "STlc",
+      "bitOffset": 16,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "Stlc",
+      "bitOffset": 32,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "STrf",
+      "bitOffset": 48,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "STri",
+      "bitOffset": 64,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "STcl",
+      "bitOffset": 80,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "STll",
+      "bitOffset": 96,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "STrl",
+      "bitOffset": 112,
+      "bits": 16,
+      "type": 2
+    },
+    {
+      "name": "STRr",
+      "bitOffset": 128,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "stcr",
+      "bitOffset": 144,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "STlr",
+      "bitOffset": 160,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "STrr",
+      "bitOffset": 176,
+      "bits": 16,
+      "type": 2
+    },
+    {
+      "name": "STS1",
+      "bitOffset": 192,
+      "bits": 8,
+      "type": 2
+    },
+    {
+      "name": "STS2",
+      "bitOffset": 200,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "TDNA",
+      "bitOffset": 208,
+      "bits": 176,
+      "type": 0
+    },
+    {
+      "name": "SSTA",
+      "bitOffset": 384,
+      "bits": 120,
+      "type": 3
+    },
+    {
+      "name": "SGID",
+      "bitOffset": 504,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "STID",
+      "bitOffset": 512,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "SORD",
+      "bitOffset": 520,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "SNAM",
+      "bitOffset": 528,
+      "bits": 240,
+      "type": 3
+    },
+    {
+      "name": "STNN",
+      "bitOffset": 768,
+      "bits": 144,
+      "type": 3
+    },
+    {
+      "name": "STDR",
+      "bitOffset": 912,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "SRES",
+      "bitOffset": 920,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "SCIT",
+      "bitOffset": 928,
+      "bits": 168,
+      "type": 3
+    },
+    {
+      "name": "STwp",
+      "bitOffset": 1096,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "STts",
+      "bitOffset": 1104,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "STjt",
+      "bitOffset": 1112,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "STfw",
+      "bitOffset": 1120,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "STCA",
+      "bitOffset": 1128,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "STFA",
+      "bitOffset": 1129,
+      "bits": 3,
+      "type": 0
+    },
+    {
+      "name": "SFBB",
+      "bitOffset": 1132,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "SCRE",
+      "bitOffset": 1133,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "SFWE",
+      "bitOffset": 1134,
+      "bits": 2,
+      "type": 3
+    },
+    {
+      "name": "MPTH",
+      "bitOffset": 1136,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "SORI",
+      "bitOffset": 1137,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "SFTI",
+      "bitOffset": 1138,
+      "bits": 2,
+      "type": 0
+    },
+    {
+      "name": "STFN",
+      "bitOffset": 1140,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "STGN",
+      "bitOffset": 1145,
+      "bits": 2,
+      "type": 0
+    },
+    {
+      "name": "SCAP",
+      "bitOffset": 1147,
+      "bits": 17,
+      "type": 3
+    },
+    {
+      "name": "SWFP",
+      "bitOffset": 1164,
+      "bits": 7,
+      "type": 3
+    },
+    {
+      "name": "SWRP",
+      "bitOffset": 1171,
+      "bits": 7,
+      "type": 3
+    },
+    {
+      "name": "SWSP",
+      "bitOffset": 1178,
+      "bits": 7,
+      "type": 3
+    },
+    {
+      "name": "SWWP",
+      "bitOffset": 1185,
+      "bits": 7,
+      "type": 3
+    },
+    {
+      "name": "STYP",
+      "bitOffset": 1192,
+      "bits": 1,
+      "type": 2
+    },
+    {
+      "name": "STHS",
+      "bitOffset": 1193,
+      "bits": 1,
+      "type": 0
+    },
+    {
+      "name": "SIOT",
+      "bitOffset": 1194,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "SGPT",
+      "bitOffset": 1195,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "SBST",
+      "bitOffset": 1196,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "SMLX",
+      "bitOffset": 1197,
+      "bits": 9,
+      "type": 3
+    },
+    {
+      "name": "SMLY",
+      "bitOffset": 1206,
+      "bits": 9,
+      "type": 3
+    },
+    {
+      "name": "SFTY",
+      "bitOffset": 1215,
+      "bits": 3,
+      "type": 3
+    },
+    {
+      "name": "SFbb",
+      "bitOffset": 1218,
+      "bits": 3,
+      "type": 3
+    },
+    {
+      "name": "SUTf",
+      "bitOffset": 1221,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "SSft",
+      "bitOffset": 1222,
+      "bits": 2,
+      "type": 2
+    },
+    {
+      "name": "STxt",
+      "bitOffset": 1224,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "STtv",
+      "bitOffset": 1225,
+      "bits": 4,
+      "type": 2
+    }
+  ]
+}

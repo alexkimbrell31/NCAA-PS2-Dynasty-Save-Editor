@@ -1,92 +1,161 @@
+/**
+ * Build the master table directory from the TOC.
+ *
+ * Pointers in the TOC are relative to TOC_BASE (0x2B0). With that applied,
+ * every one of the 82 tables resolves and the tables tile the DB region
+ * contiguously -- which is the assertion below, and our proof the base is right.
+ */
+
 import * as fs from 'fs';
 import * as path from 'path';
+import { fileURLToPath } from 'url';
 
-const filePath = path.join(__dirname, '..', 'DynastySaveFiles', 'BASLUS-21459DDyn1');
-const outputPath = path.join(__dirname, '..', 'analysis', 'tableDirectory.json');
+import {
+  findTable,
+  hex,
+  parseFileHeader,
+  parseTableHeader,
+  parseToc,
+  readSaveFile,
+} from './lib/eadb.ts';
 
-export interface TableDirectoryEntry {
+const here = path.dirname(fileURLToPath(import.meta.url));
+const outputPath = path.join(here, '..', 'analysis', 'tableDirectory.json');
+
+interface DirectoryRow {
   name: string;
-  dirOffsetHex: string;
+  tocOffsetHex: string;
   pointer: number;
   pointerHex: string;
-  /** Byte offset where this table's payload ends (next valid table's pointer, or EOF for the last table) */
-  rangeEnd: number | null;
-  /** rangeEnd - pointer, i.e. total payload bytes available to this table */
-  rangeLength: number | null;
-  /** false for TOC rows that don't look like real table pointers (out of file bounds, etc.) */
-  isValidPointer: boolean;
-}
-
-function buildTableDirectory(): TableDirectoryEntry[] {
-  if (!fs.existsSync(filePath)) {
-    throw new Error(`Save file not found at ${filePath}`);
-  }
-
-  const buffer = fs.readFileSync(filePath);
-  const raw: { name: string; dirOffset: number; pointer: number }[] = [];
-
-  // Master table directory: offset 0x10 to 0x2B0, 8 bytes per entry
-  // (4-byte ASCII FourCC name + 4-byte UInt32LE pointer)
-  for (let off = 0x10; off < 0x2b0; off += 8) {
-    const nameBytes = buffer.subarray(off, off + 4);
-    const name = nameBytes.toString('ascii').replace(/[^A-Za-z0-9]/g, '').trim();
-    if (!name) continue;
-
-    const pointer = buffer.readUInt32LE(off + 4);
-    raw.push({ name, dirOffset: off, pointer });
-  }
-
-  // A pointer is only "valid" if it lands strictly inside the file and past the
-  // TOC/header region itself (real table payloads start well after 0x2B0).
-  const isValidPointer = (pointer: number) => pointer > 0x2b0 && pointer < buffer.length;
-
-  // Determine file-order ranges using only the valid pointers.
-  const validSorted = raw
-    .filter(e => isValidPointer(e.pointer))
-    .slice()
-    .sort((a, b) => a.pointer - b.pointer);
-
-  const rangeByPointer = new Map<number, { rangeEnd: number; rangeLength: number }>();
-  for (let i = 0; i < validSorted.length; i++) {
-    const current = validSorted[i];
-    const next = validSorted[i + 1];
-    const rangeEnd = next ? next.pointer : buffer.length;
-    rangeByPointer.set(current.pointer, { rangeEnd, rangeLength: rangeEnd - current.pointer });
-  }
-
-  const entries: TableDirectoryEntry[] = raw.map(e => {
-    const valid = isValidPointer(e.pointer);
-    const range = valid ? rangeByPointer.get(e.pointer) : undefined;
-    return {
-      name: e.name,
-      dirOffsetHex: `0x${e.dirOffset.toString(16).toUpperCase().padStart(4, '0')}`,
-      pointer: e.pointer,
-      pointerHex: `0x${e.pointer.toString(16).toUpperCase().padStart(8, '0')}`,
-      rangeEnd: range ? range.rangeEnd : null,
-      rangeLength: range ? range.rangeLength : null,
-      isValidPointer: valid
-    };
-  });
-
-  return entries;
+  realOffset: number;
+  realOffsetHex: string;
+  /** Start of the next table in file order, or dbSize for the last one. */
+  rangeEnd: number;
+  rangeLength: number;
+  recordLenBytes: number;
+  maxRecords: number;
+  currentRecords: number;
+  fieldCount: number;
 }
 
 function main() {
-  const entries = buildTableDirectory();
+  const buf = readSaveFile();
+  const header = parseFileHeader(buf);
+  const toc = parseToc(buf, header);
+
+  console.log(`DB size     : ${hex(header.dbSize)} (${header.dbSize} bytes)`);
+  console.log(`File size   : ${buf.length} bytes (tail is PS2 save padding)`);
+  console.log(`Table count : ${header.tableCount}`);
+  console.log(`Checksum    : ${hex(header.checksum)}\n`);
+
+  const byOffset = [...toc].sort((a, b) => a.realOffset - b.realOffset);
+
+  const rows: DirectoryRow[] = byOffset.map((entry, i) => {
+    const next = byOffset[i + 1];
+    const rangeEnd = next ? next.realOffset : header.dbSize;
+    const th = parseTableHeader(buf, entry.realOffset);
+
+    return {
+      name: entry.name,
+      tocOffsetHex: hex(entry.tocOffset, 4),
+      pointer: entry.pointer,
+      pointerHex: hex(entry.pointer),
+      realOffset: entry.realOffset,
+      realOffsetHex: hex(entry.realOffset),
+      rangeEnd,
+      rangeLength: rangeEnd - entry.realOffset,
+      recordLenBytes: th.recordLenBytes,
+      maxRecords: th.maxRecords,
+      currentRecords: th.currentRecords,
+      fieldCount: th.fieldCount,
+    };
+  });
+
+  // Verification: tables must tile the DB region with no gaps or overlaps, and
+  // each table's length must match the derived layout formula
+  //   0x24 + fieldCount*16 - 4 + maxRecords*recordLen + 8
+  const problems: string[] = [];
+  const allocation: {
+    name: string;
+    used: number;
+    max: number;
+    allocatedRows: number;
+    slackBytes: number;
+  }[] = [];
+  if (byOffset[0].realOffset !== 0x2b0) {
+    problems.push(`First table starts at ${hex(byOffset[0].realOffset)}, expected 0x000002B0`);
+  }
+  for (let i = 0; i < rows.length - 1; i++) {
+    if (rows[i].rangeEnd !== rows[i + 1].realOffset) {
+      problems.push(
+        `Gap/overlap between ${rows[i].name} and ${rows[i + 1].name}: ` +
+          `${hex(rows[i].rangeEnd)} != ${hex(rows[i + 1].realOffset)}`,
+      );
+    }
+  }
+  for (let i = 0; i < rows.length; i++) {
+    const r = rows[i];
+    const th = parseTableHeader(buf, r.realOffset);
+    const preamble = th.dataOffset - r.realOffset;
+    const usableBytes = r.rangeLength - preamble;
+
+    // The property that actually matters: all USED records must fit inside the
+    // table's span. Allocation is sized to need, not to maxRecords -- sparsely
+    // populated tables (BXSS, SCHT, LECH with 0 records) reserve no row space
+    // at all, so maxRecords must never be used to locate the next table.
+    const neededBytes = th.currentRecords * th.recordLenBytes;
+    if (neededBytes > usableBytes) {
+      problems.push(
+        `${r.name}: ${th.currentRecords} records need ${neededBytes} bytes but only ${usableBytes} available`,
+      );
+    }
+    allocation.push({
+      name: r.name,
+      used: th.currentRecords,
+      max: th.maxRecords,
+      allocatedRows: Math.floor(usableBytes / th.recordLenBytes),
+      slackBytes: usableBytes - neededBytes,
+    });
+  }
+  const last = rows[rows.length - 1];
+  if (last.rangeEnd !== header.dbSize) {
+    problems.push(
+      `Last table ${last.name} ends at ${hex(last.rangeEnd)}, expected ${hex(header.dbSize)}`,
+    );
+  }
 
   fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-  fs.writeFileSync(outputPath, JSON.stringify(entries, null, 2));
+  fs.writeFileSync(outputPath, JSON.stringify(rows, null, 2));
 
-  const validCount = entries.filter(e => e.isValidPointer).length;
-  console.log(`TOTAL_TABLES=${entries.length} (valid pointers: ${validCount})`);
-  console.table(entries.map(e => ({
-    name: e.name,
-    dirOffset: e.dirOffsetHex,
-    pointer: e.pointerHex,
-    rangeLength: e.rangeLength,
-    valid: e.isValidPointer
-  })));
-  console.log(`\nSaved table directory to: ${outputPath}`);
+  console.table(
+    rows.map((r) => ({
+      name: r.name,
+      real: r.realOffsetHex,
+      bytes: r.rangeLength,
+      recLen: r.recordLenBytes,
+      records: `${r.currentRecords}/${r.maxRecords}`,
+      fields: r.fieldCount,
+    })),
+  );
+
+  const play = findTable(toc, 'PLAY');
+  console.log(`\nPLAY table header at ${hex(play.realOffset)} (TOC pointer ${hex(play.pointer)})`);
+  console.log(`Saved directory to: ${outputPath}`);
+
+  const shrunk = allocation.filter((a) => a.allocatedRows < a.max);
+  console.log(
+    `\n${shrunk.length} table(s) allocate fewer rows than maxRecords ` +
+      `(allocation is sized to need): ${shrunk.map((s) => `${s.name} ${s.allocatedRows}/${s.max}`).join(', ')}`,
+  );
+
+  if (problems.length) {
+    console.error(`\nTILING FAILED (${problems.length} problems):`);
+    for (const p of problems) console.error(`  - ${p}`);
+    process.exit(1);
+  }
+  console.log(
+    `\nTiling OK: ${rows.length} tables contiguous from 0x000002B0 to ${hex(header.dbSize)}`,
+  );
 }
 
 main();

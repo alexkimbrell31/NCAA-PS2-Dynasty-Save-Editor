@@ -1,0 +1,792 @@
+{
+  "table": "TEAM",
+  "offset": 865400,
+  "recordLenBytes": 184,
+  "records": 203,
+  "fields": [
+    {
+      "name": "TCPA",
+      "bitOffset": 0,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TDPA",
+      "bitOffset": 16,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TSPA",
+      "bitOffset": 32,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TFFB",
+      "bitOffset": 48,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TFOB",
+      "bitOffset": 64,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "LGID",
+      "bitOffset": 80,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TFRD",
+      "bitOffset": 96,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TCPF",
+      "bitOffset": 112,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TDPF",
+      "bitOffset": 128,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TSPF",
+      "bitOffset": 144,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TFFG",
+      "bitOffset": 160,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TFOG",
+      "bitOffset": 176,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TMCP",
+      "bitOffset": 192,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TFOR",
+      "bitOffset": 208,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TCPT",
+      "bitOffset": 224,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TMPT",
+      "bitOffset": 240,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TL35",
+      "bitOffset": 256,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TDNA",
+      "bitOffset": 264,
+      "bits": 176,
+      "type": 0,
+      "isString": true
+    },
+    {
+      "name": "TMNA",
+      "bitOffset": 440,
+      "bits": 144,
+      "type": 0,
+      "isString": true
+    },
+    {
+      "name": "TSNA",
+      "bitOffset": 584,
+      "bits": 56,
+      "type": 3,
+      "isString": true
+    },
+    {
+      "name": "TRDB",
+      "bitOffset": 640,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TRLB",
+      "bitOffset": 648,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TDPB",
+      "bitOffset": 656,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TOPB",
+      "bitOffset": 664,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TRQB",
+      "bitOffset": 672,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TRRB",
+      "bitOffset": 680,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "SGPC",
+      "bitOffset": 688,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TWPC",
+      "bitOffset": 696,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "SGSC",
+      "bitOffset": 704,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "SGID",
+      "bitOffset": 712,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "MSID",
+      "bitOffset": 720,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TRDE",
+      "bitOffset": 728,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TROF",
+      "bitOffset": 736,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TSWI",
+      "bitOffset": 744,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TBRK",
+      "bitOffset": 752,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TCRK",
+      "bitOffset": 760,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TMRK",
+      "bitOffset": 768,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TNCL",
+      "bitOffset": 776,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TRDL",
+      "bitOffset": 784,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TROL",
+      "bitOffset": 792,
+      "bits": 8,
+      "type": 1,
+      "isString": false
+    },
+    {
+      "name": "JJNM",
+      "bitOffset": 800,
+      "bits": 104,
+      "type": 3,
+      "isString": true
+    },
+    {
+      "name": "TSLO",
+      "bitOffset": 904,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "INPO",
+      "bitOffset": 912,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "NCDP",
+      "bitOffset": 920,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TPIP",
+      "bitOffset": 928,
+      "bits": 56,
+      "type": 3,
+      "isString": true
+    },
+    {
+      "name": "TMPP",
+      "bitOffset": 984,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TCWP",
+      "bitOffset": 992,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TDWP",
+      "bitOffset": 1000,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TBPR",
+      "bitOffset": 1008,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TCPR",
+      "bitOffset": 1016,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TDPR",
+      "bitOffset": 1024,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TOPR",
+      "bitOffset": 1032,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TDRR",
+      "bitOffset": 1040,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TORR",
+      "bitOffset": 1048,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TWRR",
+      "bitOffset": 1056,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TOVR",
+      "bitOffset": 1064,
+      "bits": 8,
+      "type": 2,
+      "isString": false
+    },
+    {
+      "name": "TSCS",
+      "bitOffset": 1072,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TSDS",
+      "bitOffset": 1080,
+      "bits": 8,
+      "type": 2,
+      "isString": false
+    },
+    {
+      "name": "TMPS",
+      "bitOffset": 1088,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TRST",
+      "bitOffset": 1096,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TROV",
+      "bitOffset": 1104,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TNCW",
+      "bitOffset": 1112,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TSLW",
+      "bitOffset": 1120,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "tsal",
+      "bitOffset": 1128,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "tsbl",
+      "bitOffset": 1136,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "tscl",
+      "bitOffset": 1144,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "tsdl",
+      "bitOffset": 1152,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "tshl",
+      "bitOffset": 1160,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "tscs",
+      "bitOffset": 1168,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "tsns",
+      "bitOffset": 1176,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "tsaw",
+      "bitOffset": 1184,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "tsbw",
+      "bitOffset": 1192,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "tscw",
+      "bitOffset": 1200,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "tsdw",
+      "bitOffset": 1208,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "tshw",
+      "bitOffset": 1216,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TSI1",
+      "bitOffset": 1224,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TEZ1",
+      "bitOffset": 1231,
+      "bits": 9,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TSI2",
+      "bitOffset": 1240,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TEZ2",
+      "bitOffset": 1247,
+      "bits": 9,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TMAA",
+      "bitOffset": 1256,
+      "bits": 17,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TMIA",
+      "bitOffset": 1273,
+      "bits": 7,
+      "type": 0,
+      "isString": false
+    },
+    {
+      "name": "TMGC",
+      "bitOffset": 1280,
+      "bits": 1,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CGID",
+      "bitOffset": 1281,
+      "bits": 5,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "DGID",
+      "bitOffset": 1286,
+      "bits": 4,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TGID",
+      "bitOffset": 1290,
+      "bits": 9,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TOID",
+      "bitOffset": 1299,
+      "bits": 9,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TPID",
+      "bitOffset": 1308,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TORD",
+      "bitOffset": 1315,
+      "bits": 9,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TCHE",
+      "bitOffset": 1324,
+      "bits": 1,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TMFL",
+      "bitOffset": 1325,
+      "bits": 9,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TLGL",
+      "bitOffset": 1334,
+      "bits": 9,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TCHL",
+      "bitOffset": 1343,
+      "bits": 10,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TPIO",
+      "bitOffset": 1353,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "DCAP",
+      "bitOffset": 1360,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "OCAP",
+      "bitOffset": 1367,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TCFP",
+      "bitOffset": 1374,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TMFP",
+      "bitOffset": 1381,
+      "bits": 7,
+      "type": 1,
+      "isString": false
+    },
+    {
+      "name": "TCRP",
+      "bitOffset": 1388,
+      "bits": 9,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TTYP",
+      "bitOffset": 1397,
+      "bits": 3,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TMAR",
+      "bitOffset": 1400,
+      "bits": 4,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TMPR",
+      "bitOffset": 1404,
+      "bits": 3,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "SDUR",
+      "bitOffset": 1407,
+      "bits": 3,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TCHS",
+      "bitOffset": 1410,
+      "bits": 10,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TVIS",
+      "bitOffset": 1420,
+      "bits": 1,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "THPS",
+      "bitOffset": 1421,
+      "bits": 1,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TPRS",
+      "bitOffset": 1422,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "SNCT",
+      "bitOffset": 1429,
+      "bits": 3,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TCHT",
+      "bitOffset": 1432,
+      "bits": 10,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TENV",
+      "bitOffset": 1442,
+      "bits": 2,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TMRV",
+      "bitOffset": 1444,
+      "bits": 9,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TCHW",
+      "bitOffset": 1453,
+      "bits": 10,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "tmsg",
+      "bitOffset": 1463,
+      "bits": 1,
+      "type": 3,
+      "isString": false
+    }
+  ]
+}

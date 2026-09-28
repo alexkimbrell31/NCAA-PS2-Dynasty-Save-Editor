@@ -1,0 +1,596 @@
+{
+  "table": "COCH",
+  "offset": 2904,
+  "recordLenBytes": 108,
+  "records": 213,
+  "fields": [
+    {
+      "name": "USid",
+      "bitOffset": 0,
+      "bits": 32,
+      "type": 2,
+      "isString": false
+    },
+    {
+      "name": "CCID",
+      "bitOffset": 32,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CLTF",
+      "bitOffset": 48,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCWI",
+      "bitOffset": 64,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CSWI",
+      "bitOffset": 80,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CTTL",
+      "bitOffset": 96,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CRVL",
+      "bitOffset": 112,
+      "bits": 16,
+      "type": 0,
+      "isString": false
+    },
+    {
+      "name": "CTWN",
+      "bitOffset": 128,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCLO",
+      "bitOffset": 144,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CSLO",
+      "bitOffset": 160,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CLTR",
+      "bitOffset": 176,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCLS",
+      "bitOffset": 192,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CSLS",
+      "bitOffset": 208,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CTLS",
+      "bitOffset": 224,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCWS",
+      "bitOffset": 240,
+      "bits": 16,
+      "type": 2,
+      "isString": false
+    },
+    {
+      "name": "CSWS",
+      "bitOffset": 256,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CWST",
+      "bitOffset": 272,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CTTW",
+      "bitOffset": 288,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CRVW",
+      "bitOffset": 304,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CFEX",
+      "bitOffset": 320,
+      "bits": 16,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CDTA",
+      "bitOffset": 336,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "COTA",
+      "bitOffset": 344,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CDID",
+      "bitOffset": 352,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CPID",
+      "bitOffset": 360,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CPRE",
+      "bitOffset": 368,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "C25L",
+      "bitOffset": 376,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCOL",
+      "bitOffset": 384,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCRL",
+      "bitOffset": 392,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CLFN",
+      "bitOffset": 400,
+      "bits": 80,
+      "type": 0,
+      "isString": true
+    },
+    {
+      "name": "CLLN",
+      "bitOffset": 480,
+      "bits": 104,
+      "type": 3,
+      "isString": true
+    },
+    {
+      "name": "CCWN",
+      "bitOffset": 584,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCPO",
+      "bitOffset": 592,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CDTR",
+      "bitOffset": 600,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "COTR",
+      "bitOffset": 608,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CDTS",
+      "bitOffset": 616,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "COTS",
+      "bitOffset": 624,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CRWS",
+      "bitOffset": 632,
+      "bits": 8,
+      "type": 2,
+      "isString": false
+    },
+    {
+      "name": "COCT",
+      "bitOffset": 640,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "C25W",
+      "bitOffset": 648,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCRW",
+      "bitOffset": 656,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "COTY",
+      "bitOffset": 664,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CThg",
+      "bitOffset": 672,
+      "bits": 8,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CT05",
+      "bitOffset": 680,
+      "bits": 2,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CT15",
+      "bitOffset": 682,
+      "bits": 2,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CT25",
+      "bitOffset": 684,
+      "bits": 2,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCBB",
+      "bitOffset": 686,
+      "bits": 4,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CDPC",
+      "bitOffset": 690,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CRPC",
+      "bitOffset": 697,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CTPC",
+      "bitOffset": 704,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CFRC",
+      "bitOffset": 711,
+      "bits": 1,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CFUC",
+      "bitOffset": 712,
+      "bits": 1,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CYCD",
+      "bitOffset": 713,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "TGID",
+      "bitOffset": 720,
+      "bits": 9,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "PTID",
+      "bitOffset": 729,
+      "bits": 9,
+      "type": 2,
+      "isString": false
+    },
+    {
+      "name": "CCTF",
+      "bitOffset": 738,
+      "bits": 1,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "COCI",
+      "bitOffset": 739,
+      "bits": 9,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CSKI",
+      "bitOffset": 748,
+      "bits": 3,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CBLL",
+      "bitOffset": 751,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CNTL",
+      "bitOffset": 758,
+      "bits": 6,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CRTL",
+      "bitOffset": 764,
+      "bits": 6,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCRN",
+      "bitOffset": 770,
+      "bits": 1,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCJO",
+      "bitOffset": 771,
+      "bits": 1,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CTOP",
+      "bitOffset": 772,
+      "bits": 3,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCTP",
+      "bitOffset": 775,
+      "bits": 1,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CHAR",
+      "bitOffset": 776,
+      "bits": 3,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCYR",
+      "bitOffset": 779,
+      "bits": 4,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CTYR",
+      "bitOffset": 783,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CSAS",
+      "bitOffset": 790,
+      "bits": 1,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "COFS",
+      "bitOffset": 791,
+      "bits": 3,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCCT",
+      "bitOffset": 794,
+      "bits": 4,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "COHT",
+      "bitOffset": 798,
+      "bits": 3,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCNT",
+      "bitOffset": 801,
+      "bits": 4,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CDST",
+      "bitOffset": 805,
+      "bits": 4,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "COST",
+      "bitOffset": 809,
+      "bits": 4,
+      "type": 2,
+      "isString": false
+    },
+    {
+      "name": "CBLW",
+      "bitOffset": 813,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCSW",
+      "bitOffset": 820,
+      "bits": 4,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCTW",
+      "bitOffset": 824,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CNTW",
+      "bitOffset": 831,
+      "bits": 7,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CRTW",
+      "bitOffset": 838,
+      "bits": 6,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CNVW",
+      "bitOffset": 844,
+      "bits": 6,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCEX",
+      "bitOffset": 850,
+      "bits": 3,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CCFY",
+      "bitOffset": 853,
+      "bits": 6,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CBSZ",
+      "bitOffset": 859,
+      "bits": 2,
+      "type": 3,
+      "isString": false
+    },
+    {
+      "name": "CTgw",
+      "bitOffset": 861,
+      "bits": 1,
+      "type": 3,
+      "isString": false
+    }
+  ]
+}

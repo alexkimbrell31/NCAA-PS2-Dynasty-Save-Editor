@@ -1,0 +1,92 @@
+{
+  "table": "SCHD",
+  "offset": 848612,
+  "recordLenBytes": 16,
+  "records": 785,
+  "fields": [
+    {
+      "name": "GTOD",
+      "bitOffset": 0,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "GATG",
+      "bitOffset": 16,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "GHTG",
+      "bitOffset": 32,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "GSTA",
+      "bitOffset": 48,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "GASC",
+      "bitOffset": 56,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "GHSC",
+      "bitOffset": 64,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "GDAT",
+      "bitOffset": 72,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "SEWT",
+      "bitOffset": 80,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "SGNM",
+      "bitOffset": 88,
+      "bits": 7,
+      "type": 3
+    },
+    {
+      "name": "SEWN",
+      "bitOffset": 95,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "GFOT",
+      "bitOffset": 100,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "GFFU",
+      "bitOffset": 101,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "GFHU",
+      "bitOffset": 102,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "GMFX",
+      "bitOffset": 103,
+      "bits": 1,
+      "type": 3
+    }
+  ]
+}

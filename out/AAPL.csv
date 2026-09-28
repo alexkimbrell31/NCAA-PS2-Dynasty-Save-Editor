@@ -1,0 +1,651 @@
+squad,tier,slot,player,position,year,overall,school,returner,PGID,CGID,TTYP,SEYR,PPOS,ARET
+ACC,1st team,QB,Emmanuel McGuire,QB,SR,88,Georgia Tech,,2209,0,0,0,0,0
+ACC,1st team,HB,Mike Hall,HB,SR,91,Miami,,3448,0,0,0,1,0
+C-USA,1st team,LG,Nate Garcia,LG,SR,86,Southern Miss,,5973,4,0,0,6,0
+C-USA,1st team,LOLB,Brian Edwards,LOLB,SR,89,Tulsa,,6812,4,0,0,13,0
+C-USA,1st team,LT,Jason Mark,LT,JR,82,Southern Miss,,5979,4,0,0,5,0
+C-USA,1st team,MLB,Chad Rix,MLB,JR,84,Tulsa,,6816,4,0,0,14,0
+C-USA,1st team,P,Tyrone White,P,SR,96,Rice,,5564,4,0,0,20,0
+C-USA,1st team,QB,Chris Campbell,QB,SR,90,Houston,,2343,4,0,0,0,0
+C-USA,1st team,RE,Roy Roach,RE,SO,86,Houston,,2347,4,0,0,11,0
+C-USA,1st team,RG,James Heckel,RG,SR,86,Southern Miss,,5990,4,0,0,8,0
+C-USA,1st team,ROLB,Clarence Barrow,ROLB,SR,91,Houston,,2351,4,0,0,15,0
+C-USA,1st team,RT,Jason Tanner,RT,SR,85,Tulsa,,6828,4,0,0,9,0
+C-USA,1st team,SS,Kyle Lupo,SS,JR,90,Houston,,2356,4,0,0,18,0
+C-USA,1st team,TE,Aaron Heath,TE,SO,88,Southern Miss,,6001,4,0,0,4,0
+C-USA,1st team,WR,Matt Brooks,WR,SR,90,Houston,yes,2361,4,0,0,3,1
+C-USA,1st team,WR,Paul Scott,WR,SR,88,UTEP,,7397,4,0,0,3,0
+C-USA,2nd team,C,Bobby Peoples,C,SR,88,Houston,,2310,4,1,0,7,0
+C-USA,2nd team,CB,Eric Williams,CB,SR,86,Southern Miss,,5953,4,1,0,16,0
+C-USA,2nd team,CB,Zach Townsend,CB,SR,84,Houston,,2312,4,1,0,16,0
+C-USA,2nd team,DT,Dustin Hughes,DT,JR,84,Southern Miss,,5958,4,1,0,12,0
+C-USA,2nd team,DT,Marion Whitaker,DT,JR,82,Southern Miss,,5957,4,1,0,12,0
+C-USA,2nd team,FB,Pat Lambert,FB,SO,87,UTEP,,7361,4,1,0,2,0
+C-USA,2nd team,FS,Ryan Samuel,FS,SO,88,UCF,,1277,4,1,0,17,0
+C-USA,1st team,HB,Marvin Bass,HB,JR,88,Marshall,,3240,4,0,0,1,0
+C-USA,2nd team,HB,Anthony Powell,HB,JR,90,UTEP,,7364,4,1,0,1,0
+C-USA,2nd team,K,Darius Brown,K,SR,86,Marshall,,3241,4,1,0,19,0
+C-USA,2nd team,LE,Jesse King,LE,SR,85,UTEP,,7368,4,1,0,10,0
+C-USA,2nd team,LG,Danny Newell,LG,SR,84,UAB,,6885,4,1,0,6,0
+C-USA,2nd team,LT,Craig Townsend,LT,JR,84,Houston,,2335,4,1,0,5,0
+C-USA,2nd team,MLB,Roosevelt Carty,MLB,SR,85,UTEP,,7377,4,1,0,14,0
+C-USA,2nd team,P,Roy Booker,P,SR,93,ECU,,1784,4,1,0,20,0
+C-USA,2nd team,QB,Bo Thomas,QB,SR,89,UTEP,,7381,4,1,0,0,0
+C-USA,2nd team,RE,Ryan Johnson,RE,SR,85,SMU,,5854,4,1,0,11,0
+C-USA,2nd team,RG,James Smith,RG,SR,82,Tulane,,6759,4,1,0,8,0
+C-USA,2nd team,ROLB,Dedrick Lewis,ROLB,JR,87,Memphis,,3395,4,1,0,15,0
+C-USA,2nd team,RT,Will Whitlock,RT,SO,82,UTEP,,7390,4,1,0,9,0
+C-USA,2nd team,TE,David Williams,TE,SR,84,Houston,,2358,4,1,0,4,0
+C-USA,2nd team,WR,Jay Miles,WR,SR,87,ECU,,1803,4,1,0,3,0
+C-USA,2nd team,WR,Eddie Darlington,WR,SR,90,UCF,,1312,4,1,0,3,0
+C-USA,2nd team,LOLB,Keith Spurlock,LOLB,SR,85,UCF,,1287,4,1,0,13,0
+C-USA,2nd team,SS,Andrew Williams,SS,SR,86,Tulsa,,6831,4,1,0,18,0
+1A Independents,1st team,C,Jonathan Fields,C,SR,89,Notre Dame,,4761,5,0,0,7,0
+1A Independents,2nd team,CB,Terrell Lewis,CB,SR,84,Notre Dame,,4763,5,1,0,16,0
+1A Independents,1st team,CB,Andrew Hudson,CB,SR,89,Notre Dame,,4762,5,0,0,16,0
+1A Independents,1st team,DT,Travis Swan,DT,SR,90,Notre Dame,,4768,5,0,0,12,0
+1A Independents,2nd team,DT,R.J. Hughes,DT,SR,84,Navy,,4000,5,1,0,12,0
+1A Independents,1st team,FB,James Scott,FB,JR,92,Navy,,4004,5,0,0,2,0
+1A Independents,1st team,FS,Allan Heinz,FS,SR,88,Navy,,4005,5,0,0,17,0
+1A Independents,1st team,HB,Austin Andriano,HB,JR,92,Notre Dame,,4776,5,0,0,1,0
+1A Independents,2nd team,HB,Chad Mullins,HB,JR,85,Navy,,4009,5,1,0,1,0
+1A Independents,1st team,K,David Johnson,K,JR,85,Navy,,4013,5,0,0,19,0
+1A Independents,2nd team,LE,Matt Harris,LE,SR,80,Navy,,4014,5,1,0,10,0
+1A Independents,1st team,LG,Luke Lindsey,LG,SR,85,Notre Dame,,4784,5,0,0,6,0
+1A Independents,1st team,LOLB,Carl Reid,LOLB,SR,87,Navy,,4020,5,0,0,13,0
+1A Independents,2nd team,LT,Anthony Buckles,LT,SR,82,Navy,,4022,5,1,0,5,0
+1A Independents,1st team,MLB,Korey Thompson,MLB,SR,89,Navy,,4024,5,0,0,14,0
+1A Independents,1st team,P,Justin Jones,P,JR,84,Army,,598,5,0,0,20,0
+1A Independents,1st team,QB,Alan James,QB,SR,97,Notre Dame,,4798,5,0,0,0,0
+1A Independents,2nd team,RE,Grady Martin,RE,SR,82,Navy,,4031,5,1,0,11,0
+1A Independents,1st team,RG,Cornelius Martin,RG,SR,87,Notre Dame,,4805,5,0,0,8,0
+1A Independents,1st team,ROLB,Chad Thomas,ROLB,SR,86,Navy,,4037,5,0,0,15,0
+1A Independents,1st team,RT,Corey Carter,RT,SR,80,Notre Dame,,4808,5,0,0,9,0
+1A Independents,1st team,TE,Ben Stukes,TE,SR,85,Notre Dame,,4814,5,0,0,4,0
+1A Independents,1st team,WR,Brandon Blanks,WR,SR,95,Notre Dame,,4821,5,0,0,3,0
+1A Independents,1st team,WR,Pat Babcock,WR,SR,89,Notre Dame,,4817,5,0,0,3,0
+1A Independents,2nd team,C,Marcus Zeigler,C,SR,84,Navy,,3990,5,1,0,7,0
+1A Independents,1st team,CB,Sean Massey,CB,SR,86,Navy,yes,3993,5,0,0,16,1
+1A Independents,2nd team,CB,Andrew Holland,CB,SR,84,Navy,,3995,5,1,0,16,0
+1A Independents,1st team,DT,Aaron Jones,DT,SR,88,Notre Dame,,4769,5,0,0,12,0
+1A Independents,2nd team,DT,Damion Johnson,DT,SR,72,Temple,,6309,5,1,0,12,0
+1A Independents,2nd team,FB,Chauncey Coker,FB,JR,84,Army,,573,5,1,0,2,0
+1A Independents,2nd team,FS,Alex Carpenter,FS,SR,84,Notre Dame,,4774,5,1,0,17,0
+1A Independents,1st team,HB,Zach Jones,HB,SR,86,Temple,,6316,5,0,0,1,0
+1A Independents,2nd team,HB,Brandon Doyle,HB,SR,87,Navy,,4007,5,1,0,1,0
+1A Independents,2nd team,K,Andrew Turner,K,SR,82,Army,,583,5,1,0,19,0
+1A Independents,1st team,LE,Josh Wilson,LE,SR,92,Notre Dame,,4782,5,0,0,10,0
+1A Independents,2nd team,LG,Jonathan Wallace,LG,SR,84,Navy,,4016,5,1,0,6,0
+1A Independents,2nd team,LOLB,Vincent Carey,LOLB,JR,85,Notre Dame,,4786,5,1,0,13,0
+1A Independents,1st team,LT,Chris Griffin,LT,SR,90,Notre Dame,,4790,5,0,0,5,0
+1A Independents,2nd team,MLB,Mike Motte,MLB,SO,78,Notre Dame,,4794,5,1,0,14,0
+1A Independents,2nd team,P,Adam Albin,P,JR,78,Navy,,4027,5,1,0,20,0
+1A Independents,2nd team,QB,Todd Miller,QB,JR,82,Army,,599,5,1,0,0,0
+1A Independents,1st team,RE,Edmond Sullivan,RE,SR,85,Notre Dame,,4801,5,0,0,11,0
+1A Independents,2nd team,RG,Adam Trott,RG,JR,82,Navy,,4035,5,1,0,8,0
+1A Independents,2nd team,ROLB,Jonathan Carlton,ROLB,SR,85,Notre Dame,,4807,5,1,0,15,0
+1A Independents,2nd team,RT,Nathan Higgins,RT,SR,85,Temple,,6345,5,1,0,9,0
+1A Independents,2nd team,TE,Clint Andrews,TE,SO,80,Navy,,4043,5,1,0,4,0
+1A Independents,2nd team,WR,John Parks,WR,SR,86,Navy,yes,4045,5,1,0,3,1
+1A Independents,2nd team,WR,Marcus Robinson,WR,JR,80,Army,,617,5,1,0,3,0
+1A Independents,1st team,SS,Johnnie Wood,SS,SR,95,Notre Dame,,4810,5,0,0,18,0
+1A Independents,2nd team,SS,Andrew Webb,SS,SO,78,Navy,,4041,5,1,0,18,0
+MAC,1st team,C,Trent McCowan,C,JR,88,Bowling Green,,981,7,0,0,7,0
+MAC,1st team,CB,Josh Tate,CB,SR,87,Northern Illinois,,4622,7,0,0,16,0
+MAC,2nd team,CB,Derrick Wilson,CB,JR,82,Eastern Michigan,,1825,7,1,0,16,0
+MAC,1st team,DT,Brandon Hobbs,DT,SO,86,Western Michigan,,7921,7,0,0,12,0
+MAC,1st team,DT,Darrin Smith,DT,SR,86,Ohio,,4837,7,0,0,12,0
+MAC,1st team,FB,Jeremy Mason,FB,JR,87,Toledo,,6660,7,0,0,2,0
+MAC,1st team,FS,Kelvin Flowers,FS,SR,84,Northern Illinois,,4634,7,0,0,17,0
+MAC,1st team,HB,Jake Curtis,HB,SR,94,Northern Illinois,,4637,7,0,0,1,0
+MAC,1st team,HB,Clarence Gray,HB,JR,87,Ohio,,4847,7,0,0,1,0
+MAC,1st team,K,Rashaun Harvey,K,SR,96,Eastern Michigan,,1840,7,0,0,19,0
+MAC,1st team,LE,Wesley Green,LE,SR,94,Central Michigan,,1352,7,0,0,10,0
+MAC,1st team,LG,Daniel Montgomery,LG,SR,87,Western Michigan,,7934,7,0,0,6,0
+MAC,1st team,LOLB,Kyle Barbour,LOLB,SR,88,Western Michigan,,7937,7,0,0,13,0
+MAC,1st team,LT,Ryan Brown,LT,SR,94,Northern Illinois,,4650,7,0,0,5,0
+MAC,1st team,MLB,Stephen Newton,MLB,SR,89,Ohio,,4861,7,0,0,14,0
+MAC,1st team,P,David Parker,P,JR,87,Western Michigan,,7944,7,0,0,20,0
+MAC,1st team,QB,Ryan Allen,QB,SR,88,Akron,,175,7,0,0,0,0
+MAC,1st team,RE,David Newman,RE,SR,88,Eastern Michigan,,1857,7,0,0,11,0
+MAC,1st team,RG,Brandon Jones,RG,SR,82,Northern Illinois,,4662,7,0,0,8,0
+MAC,1st team,ROLB,Terry Manning,ROLB,SR,92,Western Michigan,,7955,7,0,0,15,0
+MAC,1st team,RT,Terrance Roberts,RT,SR,82,Eastern Michigan,,1865,7,0,0,9,0
+MAC,1st team,SS,Matt Anderson,SS,SR,90,Ball State,,752,7,0,0,18,0
+MAC,1st team,TE,Jerry Mitchell,TE,JR,85,Eastern Michigan,,1868,7,0,0,4,0
+MAC,1st team,WR,Barrett McFarland,WR,SR,91,Eastern Michigan,,1870,7,0,0,3,0
+MAC,2nd team,WR,Cedric Leonard,WR,SR,86,Central Michigan,,1381,7,1,0,3,0
+MAC,2nd team,C,Chris Richardson,C,JR,86,Western Michigan,,7910,7,1,0,7,0
+MAC,2nd team,CB,Jason Roberts,CB,SR,84,Akron,,142,7,1,0,16,0
+MAC,1st team,CB,E.J. Jordan,CB,SR,87,Kent State,yes,2873,7,0,0,16,1
+MAC,2nd team,DT,Kevin Williams,DT,JR,84,Northern Illinois,,4630,7,1,0,12,0
+MAC,2nd team,DT,Terrence Morales,DT,JR,82,Central Michigan,,1338,7,1,0,12,0
+MAC,2nd team,FB,Robert Yates,FB,SR,88,Ball State,,712,7,1,0,2,0
+MAC,2nd team,FS,Ben Hunter,FS,JR,84,Ohio,,4844,7,1,0,17,0
+MAC,2nd team,HB,Darryl Smith,HB,SO,86,Central Michigan,yes,1346,7,1,0,1,1
+MAC,2nd team,HB,Jon Brashers,HB,JR,84,Western Michigan,,7925,7,1,0,1,0
+MAC,2nd team,K,Bobby Larsen,K,SR,84,Western Michigan,,7929,7,1,0,19,0
+MAC,2nd team,LE,Ed Bonds,LE,SR,87,Northern Illinois,,4643,7,1,0,10,0
+MAC,2nd team,LG,Isaac Young,LG,JR,80,Eastern Michigan,,1843,7,1,0,6,0
+MAC,2nd team,LOLB,Jeremy Coe,LOLB,JR,85,Akron,,166,7,1,0,13,0
+MAC,2nd team,LT,John Davis,LT,JR,88,Toledo,,6676,7,1,0,5,0
+MAC,2nd team,MLB,Sean McGuire,MLB,JR,85,Central Michigan,,1361,7,1,0,14,0
+MAC,2nd team,P,Keith Satele,P,JR,84,Buffalo,,1083,7,1,0,20,0
+MAC,2nd team,QB,Carlos Singletary,QB,SR,86,Northern Illinois,,4656,7,1,0,0,0
+MAC,2nd team,RE,Derek Kerr,RE,SR,87,Bowling Green,,1017,7,1,0,11,0
+MAC,2nd team,RG,Will Williams,RG,SR,84,Kent State,,2910,7,1,0,8,0
+MAC,2nd team,ROLB,Henry Reddick,ROLB,SR,88,Toledo,,6692,7,1,0,15,0
+MAC,2nd team,RT,Harvey Broussard,RT,SR,80,Toledo,,6695,7,1,0,9,0
+MAC,2nd team,SS,Mike Clifford,SS,JR,87,Western Michigan,,7959,7,1,0,18,0
+MAC,2nd team,TE,Mark Manning,TE,SR,84,Northern Illinois,,4672,7,1,0,4,0
+MAC,1st team,WR,Shedrick Manning,WR,SR,90,Miami University,,3556,7,0,0,3,0
+MAC,2nd team,WR,David Casey,WR,SR,87,Toledo,,6702,7,1,0,3,0
+Mountain West,1st team,C,Willie Harrington,C,JR,82,Colorado State,,1611,9,0,0,7,0
+Mountain West,1st team,CB,Brian Davis,CB,SR,93,Utah,,7212,9,0,0,16,0
+Mountain West,1st team,CB,Dennis Weaver,CB,JR,90,UNLV,,7073,9,0,0,16,0
+Mountain West,1st team,DT,Lee Tidwell,DT,SR,89,UNLV,,7079,9,0,0,12,0
+Mountain West,1st team,DT,Kyle Baker,DT,SR,87,Utah,,7220,9,0,0,12,0
+Mountain West,2nd team,FB,Kevin Robinson,FB,SO,82,Utah,,7225,9,1,0,2,0
+Mountain West,1st team,FS,Antoine Lee,FS,JR,86,UNLV,,7084,9,0,0,17,0
+Mountain West,1st team,HB,Cameron Johnson,HB,JR,90,San Diego State,,5686,9,0,0,1,0
+Mountain West,1st team,HB,Lee Brown,HB,SR,91,TCU,,6247,9,0,0,1,0
+Mountain West,1st team,K,Aaron Brown,K,JR,91,UNLV,,7091,9,0,0,19,0
+Mountain West,1st team,LE,Jason Jackson,LE,JR,86,San Diego State,,5691,9,0,0,10,0
+Mountain West,1st team,LG,Trent Rossner,LG,SR,85,Utah,,7236,9,0,0,6,0
+Mountain West,1st team,LOLB,Devin Reddick,LOLB,JR,82,New Mexico,,4223,9,0,0,13,0
+Mountain West,1st team,LT,Richie Hadley,LT,SR,91,Utah,,7240,9,0,0,5,0
+Mountain West,1st team,MLB,Kelvin Lumpkin,MLB,SR,85,BYU,,1150,9,0,0,14,0
+Mountain West,1st team,P,Dwight Evans,P,JR,90,Colorado State,,1644,9,0,0,20,0
+Mountain West,1st team,QB,Jamaal Bolden,QB,SR,89,BYU,,1154,9,0,0,0,0
+Mountain West,1st team,RE,Shane Carter,RE,JR,92,TCU,,6268,9,0,0,11,0
+Mountain West,1st team,RG,Steve Medlock,RG,SR,88,Colorado State,,1650,9,0,0,8,0
+Mountain West,1st team,ROLB,Thomas Rivera,ROLB,SR,90,New Mexico,,4240,9,0,0,15,0
+Mountain West,1st team,RT,Phil Larson,RT,SR,92,New Mexico,,4243,9,0,0,9,0
+Mountain West,1st team,SS,Kevin McGrew,SS,SR,92,Colorado State,,1658,9,0,0,18,0
+Mountain West,1st team,TE,Ahmad Montoya,TE,SR,92,BYU,,1174,9,0,0,4,0
+Mountain West,1st team,WR,Kevin Brown,WR,JR,86,New Mexico,,4254,9,0,0,3,0
+Mountain West,1st team,WR,Mario Lambert,WR,JR,84,San Diego State,yes,5730,9,0,0,3,1
+Mountain West,2nd team,C,Will Green,C,JR,82,New Mexico,,4200,9,1,0,7,0
+Mountain West,2nd team,CB,Julian Davis,CB,SR,87,Colorado State,,1614,9,1,0,16,0
+Mountain West,2nd team,CB,Zach Morris,CB,SR,88,San Diego State,,5673,9,1,0,16,0
+Mountain West,2nd team,DT,Eric Brown,DT,SR,84,San Diego State,,5677,9,1,0,12,0
+Mountain West,2nd team,DT,Travis Sullivan,DT,SR,86,Utah,,7219,9,1,0,12,0
+Mountain West,1st team,FB,Scott Pollard,FB,SR,88,Colorado State,,1623,9,0,0,2,0
+Mountain West,2nd team,FS,Michael Mitchell,FS,JR,84,San Diego State,,5685,9,1,0,17,0
+Mountain West,2nd team,HB,David Faga,HB,SR,90,BYU,,1135,9,1,0,1,0
+Mountain West,2nd team,HB,Zach Hill,HB,JR,88,Colorado State,,1628,9,1,0,1,0
+Mountain West,2nd team,K,Mike Williamson,K,SR,90,New Mexico,,4217,9,1,0,19,0
+Mountain West,2nd team,LE,Derrick McCarty,LE,JR,84,TCU,,6251,9,1,0,10,0
+Mountain West,2nd team,LG,Gary Nicholson,LG,JR,84,San Diego State,,5693,9,1,0,6,0
+Mountain West,2nd team,LOLB,John Bolden,LOLB,SR,84,Colorado State,,1638,9,1,0,13,0
+Mountain West,2nd team,LT,Jeremy Johnson,LT,SR,86,Wyoming,,8075,9,1,0,5,0
+Mountain West,2nd team,MLB,Wade Graves,MLB,JR,84,UNLV,,7101,9,1,0,14,0
+Mountain West,2nd team,P,Dominique Williams,P,JR,84,San Diego State,,5703,9,1,0,20,0
+Mountain West,2nd team,QB,Tim Stith,QB,JR,89,Utah,,7248,9,1,0,0,0
+Mountain West,2nd team,RE,Orlando Bates,RE,JR,86,Utah,,7251,9,1,0,11,0
+Mountain West,2nd team,RG,Ryan Harper,RG,SR,87,San Diego State,,5710,9,1,0,8,0
+Mountain West,2nd team,ROLB,Nate Crooks,ROLB,JR,87,Utah,,7256,9,1,0,15,0
+Mountain West,2nd team,RT,Tim Rhodes,RT,SR,92,TCU,,6275,9,1,0,9,0
+Mountain West,2nd team,SS,Demetrius Corbett,SS,SR,89,San Diego State,,5718,9,1,0,18,0
+Mountain West,2nd team,TE,Chris Banks,TE,JR,85,Colorado State,,1661,9,1,0,4,0
+Mountain West,2nd team,WR,Joe Rucker,WR,SR,85,Utah,yes,7271,9,1,0,3,1
+Mountain West,2nd team,WR,Pat Nakfoor,WR,JR,82,Colorado State,,1665,9,1,0,3,0
+SEC,1st team,C,Wesley Fowler,C,SR,88,South Carolina,,5880,11,0,0,7,0
+SEC,1st team,CB,Randy Malloy,CB,SR,92,Alabama,yes,212,11,0,0,16,1
+SEC,1st team,CB,D.J. Bell,CB,SR,90,South Carolina,,5883,11,0,0,16,0
+SEC,1st team,DT,Jon Hodge,DT,SR,93,Tennessee,,6377,11,0,0,12,0
+SEC,1st team,DT,Ralph Huffman,DT,SR,93,Florida,,1899,11,0,0,12,0
+SEC,1st team,FB,Brian Lacey,FB,JR,94,Arkansas,,437,11,0,0,2,0
+SEC,1st team,FS,Matthew Powell,FS,SR,98,LSU,,3164,11,0,0,17,0
+SEC,1st team,HB,Trey Weber,HB,SR,93,Auburn,,650,11,0,0,1,0
+SEC,1st team,HB,Craig Swaggert,HB,SR,92,Alabama,,229,11,0,0,1,0
+SEC,1st team,K,Johnny Bryant,K,JR,92,Georgia,,2122,11,0,0,19,0
+SEC,1st team,LE,Sam Poppinga,LE,JR,92,Auburn,,654,11,0,0,10,0
+SEC,1st team,LG,Cory Brady,LG,SR,90,Auburn,,658,11,0,0,6,0
+SEC,1st team,LOLB,Jeff Ward,LOLB,SR,97,Ole Miss,,5137,11,0,0,13,0
+SEC,2nd team,LT,Landon Ewing,LT,SO,84,Ole Miss,,5141,11,1,0,5,0
+SEC,2nd team,MLB,Shaun Barber,MLB,SR,88,Mississippi State,,3883,11,1,0,14,0
+SEC,1st team,P,Jake Foster,P,SR,95,Georgia,,2136,11,0,0,20,0
+SEC,1st team,QB,Andy Patton,QB,SR,93,Florida,,1927,11,0,0,0,0
+ACC,1st team,HB,Ernest Todd,HB,SR,88,Florida State,,1979,0,0,0,1,0
+Big 12,2nd team,HB,Shawn Causey,HB,SR,88,Iowa State,,2677,2,1,0,1,0
+Big 12,2nd team,HB,Marquis Vincent,HB,SO,89,Texas,,6458,2,1,0,1,0
+SEC,1st team,RE,John Ashley,RE,SR,91,Georgia,,2143,11,0,0,11,0
+SEC,1st team,RG,Glenn Smith,RG,SR,90,Auburn,,674,11,0,0,8,0
+SEC,1st team,ROLB,Rashad Kucera,ROLB,SR,94,Alabama,,260,11,0,0,15,0
+SEC,1st team,RT,Carlos Warren,RT,SR,90,Georgia,,2151,11,0,0,9,0
+SEC,1st team,SS,Julian Porter,SS,SR,91,Tennessee,,6421,11,0,0,18,0
+SEC,2nd team,TE,Michael Davenport,TE,SR,86,Georgia,,2157,11,1,0,4,0
+SEC,1st team,WR,Damian Scott,WR,SO,93,South Carolina,,5939,11,0,0,3,0
+SEC,1st team,WR,David Culberson,WR,SR,89,LSU,,3208,11,0,0,3,0
+SEC,2nd team,C,Keith Bell,C,SR,84,Georgia,,2101,11,1,0,7,0
+SEC,2nd team,CB,Dominique Stephens,CB,SO,88,Mississippi State,,3852,11,1,0,16,0
+SEC,2nd team,CB,Ross Davis,CB,SR,89,Auburn,,633,11,1,0,16,0
+SEC,2nd team,DT,Andre Marquardt,DT,JR,89,South Carolina,,5886,11,1,0,12,0
+SEC,2nd team,DT,Chris Thurman,DT,SR,90,Alabama,,218,11,1,0,12,0
+SEC,2nd team,FB,Jason Benson,FB,SR,91,Alabama,,225,11,1,0,2,0
+SEC,2nd team,FS,Maurice Brown,FS,SR,89,Mississippi State,,3868,11,1,0,17,0
+SEC,2nd team,HB,Tyler Davis,HB,SO,92,Arkansas,yes,442,11,1,0,1,1
+SEC,2nd team,HB,Todd Schultz,HB,JR,90,Kentucky,,2957,11,1,0,1,0
+SEC,2nd team,K,Clint Thompson,K,SR,90,Tennessee,,6394,11,1,0,19,0
+SEC,2nd team,LE,A.J. Smith,LE,JR,92,Alabama,,235,11,1,0,10,0
+SEC,2nd team,LG,Jake Means,LG,SR,88,Tennessee,,6399,11,1,0,6,0
+SEC,2nd team,LOLB,Jabari Dennis,LOLB,JR,85,LSU,,3179,11,1,0,13,0
+SEC,1st team,LT,J.J. Gordon,LT,SR,93,Tennessee,,6403,11,0,0,5,0
+SEC,1st team,MLB,O.J. Ramirez,MLB,JR,94,Florida,,1925,11,0,0,14,0
+SEC,2nd team,P,Michael Cowan,P,SR,95,Auburn,,666,11,1,0,20,0
+SEC,2nd team,QB,Ricky McIntire,QB,JR,88,Auburn,,669,11,1,0,0,0
+SEC,2nd team,RE,Ira Green,RE,JR,88,Auburn,,672,11,1,0,11,0
+SEC,2nd team,RG,Kevin Blanchard,RG,SR,89,Mississippi State,,3892,11,1,0,8,0
+SEC,2nd team,ROLB,Shaun Murphy,ROLB,SR,92,Arkansas,,467,11,1,0,15,0
+SEC,2nd team,RT,Antonio Butler,RT,SR,90,Alabama,,263,11,1,0,9,0
+SEC,2nd team,SS,Michael Turner,SS,SR,90,Florida,,1937,11,1,0,18,0
+SEC,1st team,TE,James Battle,TE,JR,87,Mississippi State,,3905,11,0,0,4,0
+SEC,2nd team,WR,William Hawthorne,WR,JR,87,Arkansas,,481,11,1,0,3,0
+SEC,2nd team,WR,Michael Wallace,WR,JR,88,Tennessee,,6426,11,1,0,3,0
+Sun Belt,1st team,C,Adam Joseph,C,SR,87,Arkansas State,,490,13,0,0,7,0
+Sun Belt,1st team,CB,Matt Ewing,CB,JR,84,Arkansas State,,493,13,0,0,16,0
+Sun Belt,2nd team,CB,Cedric Cook,CB,JR,84,Mid Tenn State,yes,3712,13,1,0,16,1
+Sun Belt,1st team,DT,Dylan Jackson,DT,JR,80,Arkansas State,,498,13,0,0,12,0
+Sun Belt,2nd team,DT,Mark Miller,DT,JR,76,UL Lafayette,,6029,13,1,0,12,0
+Sun Belt,1st team,FB,Cody Smith,FB,SR,90,Florida Atlantic,,16042,13,0,0,2,0
+Sun Belt,1st team,FS,Joe Matthews,FS,JR,89,Arkansas State,,505,13,0,0,17,0
+Sun Belt,2nd team,HB,Zach King,HB,SO,84,Florida Atlantic,,16046,13,1,0,1,0
+Sun Belt,1st team,HB,Aaron Davis,HB,JR,91,North Texas,,4497,13,0,0,1,0
+Sun Belt,1st team,K,Lonnie Cook,K,JR,76,UL Monroe,,4570,13,0,0,19,0
+Sun Belt,1st team,LE,Alan Marquardt,LE,SR,91,FIU,,16121,13,0,0,10,0
+Sun Belt,1st team,LG,Trevor Turner,LG,JR,78,Mid Tenn State,,3737,13,0,0,6,0
+Sun Belt,1st team,LOLB,Casey Brown,LOLB,SR,80,FIU,,16126,13,0,0,13,0
+Sun Belt,1st team,LT,Jeff Haynes,LT,SR,82,Florida Atlantic,,16058,13,0,0,5,0
+Sun Belt,1st team,MLB,Kevin Morales,MLB,SR,86,FIU,,16131,13,0,0,14,0
+Sun Belt,1st team,P,Billy Cox,P,SR,89,Mid Tenn State,,3746,13,0,0,20,0
+Sun Belt,1st team,QB,Tremayne Livingston,QB,SR,86,UL Lafayette,,6052,13,0,0,0,0
+Sun Belt,1st team,RE,Brian Smith,RE,JR,85,Mid Tenn State,,3750,13,0,0,11,0
+Sun Belt,1st team,RG,Dwayne Woods,RG,SR,93,North Texas,,4520,13,0,0,8,0
+Sun Belt,1st team,ROLB,Jesse Coleman,ROLB,SR,82,Mid Tenn State,,3755,13,0,0,15,0
+Sun Belt,1st team,RT,Kevin Gray,RT,SR,89,Mid Tenn State,,3758,13,0,0,9,0
+Sun Belt,1st team,SS,Drew Elliott,SS,JR,90,Arkansas State,,539,13,0,0,18,0
+Sun Belt,1st team,TE,Josh Henderson,TE,SR,86,FIU,,16147,13,0,0,4,0
+Sun Belt,1st team,WR,Brandon Barnes,WR,SR,88,North Texas,,4532,13,0,0,3,0
+Sun Belt,1st team,WR,Mike Dukes,WR,SR,84,Troy,yes,10065,13,0,0,3,1
+Sun Belt,2nd team,C,Mark James,C,SR,82,Mid Tenn State,,3710,13,1,0,7,0
+Sun Belt,1st team,CB,Adam Cole,CB,JR,87,UL Monroe,,4552,13,0,0,16,0
+Sun Belt,2nd team,CB,Cam Leonard,CB,JR,78,Troy,,10015,13,1,0,16,0
+Sun Belt,1st team,DT,Tyler Hall,DT,SO,84,Florida Atlantic,,16037,13,0,0,12,0
+Sun Belt,2nd team,DT,Elton James,DT,SO,74,Mid Tenn State,,3719,13,1,0,12,0
+Sun Belt,2nd team,FB,Kevin George,FB,SO,82,UL Lafayette,,6031,13,1,0,2,0
+Sun Belt,2nd team,FS,Tim Freeman,FS,JR,87,Florida Atlantic,,16044,13,1,0,17,0
+Sun Belt,2nd team,HB,Andrew Hall,HB,SO,85,UL Lafayette,,6037,13,1,0,1,0
+Sun Belt,1st team,HB,Charles Fernandez,HB,SR,86,Mid Tenn State,,3726,13,0,0,1,0
+Sun Belt,2nd team,K,Jay Reed,K,SO,76,UL Lafayette,,6039,13,1,0,19,0
+Sun Belt,2nd team,LE,Josh Johnson,LE,SO,82,Troy,,10032,13,1,0,10,0
+Sun Belt,2nd team,LG,Scott Wright,LG,SO,76,Troy,,10034,13,1,0,6,0
+Sun Belt,2nd team,LOLB,Warren McDougal,LOLB,SR,78,UL Monroe,,4575,13,1,0,13,0
+Sun Belt,2nd team,LT,Mike Nunez,LT,JR,78,North Texas,,4507,13,1,0,5,0
+Sun Belt,2nd team,MLB,Blake Hamilton,MLB,JR,78,North Texas,,4512,13,1,0,14,0
+Sun Belt,2nd team,P,Kyle Sanders,P,JR,80,Florida Atlantic,,16063,13,1,0,20,0
+Sun Belt,2nd team,QB,Bo Cronin,QB,SR,82,FIU,,16134,13,1,0,0,0
+Sun Belt,2nd team,RE,Bryan Singletary,RE,JR,82,Arkansas State,,528,13,1,0,11,0
+Sun Belt,2nd team,RG,Sam Martin,RG,SR,84,Troy,,10051,13,1,0,8,0
+Sun Belt,2nd team,ROLB,Ikaika Utley,ROLB,SO,76,FIU,,16141,13,1,0,15,0
+Sun Belt,2nd team,RT,Jason Dawson,RT,SR,87,UL Lafayette,,6062,13,1,0,9,0
+Sun Belt,2nd team,SS,Lamar Rogers,SS,SR,86,Troy,,10057,13,1,0,18,0
+Sun Belt,2nd team,TE,Isaac Grant,TE,SR,78,North Texas,,4529,13,1,0,4,0
+Sun Belt,2nd team,WR,Marcus Walton,WR,SR,82,FIU,,16150,13,1,0,3,0
+Sun Belt,2nd team,WR,Joe Edwards,WR,JR,82,Arkansas State,,544,13,1,0,3,0
+WAC,1st team,C,Aaron Miller,C,SR,92,Fresno State,,2030,14,0,0,7,0
+WAC,1st team,CB,Blake Brown,CB,SR,90,Nevada,yes,4134,14,0,0,16,1
+WAC,1st team,CB,Ken McCall,CB,SR,88,Boise State,,843,14,0,0,16,0
+WAC,1st team,DT,Derrick Barber,DT,SR,87,Boise State,,851,14,0,0,12,0
+WAC,1st team,DT,Tom Davis,DT,SR,84,Boise State,,850,14,0,0,12,0
+WAC,1st team,FB,Bobby Durfee,FB,SR,92,Boise State,,855,14,0,0,2,0
+WAC,1st team,FS,Ernest Wilson,FS,SR,93,Boise State,,857,14,0,0,17,0
+WAC,1st team,HB,Drew Koch,HB,SR,88,Fresno State,,2048,14,0,0,1,0
+WAC,1st team,HB,Erick Ross,HB,SR,86,Nevada,,4145,14,0,0,1,0
+WAC,1st team,K,Matt Ward,K,SR,93,Idaho,,2396,14,0,0,19,0
+WAC,1st team,LE,Cedric Harris,LE,SR,86,Hawaii,,2259,14,0,0,10,0
+WAC,1st team,LG,Marcus Joseph,LG,SR,89,Nevada,,4153,14,0,0,6,0
+WAC,1st team,LOLB,Brandon Mangiero,LOLB,JR,85,Nevada,,4155,14,0,0,13,0
+WAC,1st team,LT,Lance Marcus,LT,SR,88,Hawaii,,2266,14,0,0,5,0
+WAC,1st team,MLB,Keith Charles,MLB,SR,92,Boise State,,874,14,0,0,14,0
+WAC,1st team,P,Danny Scott,P,SR,96,Boise State,,876,14,0,0,20,0
+WAC,1st team,QB,Robby Vinson,QB,SR,91,Nevada,,4164,14,0,0,0,0
+WAC,1st team,RE,Joseph Huffman,RE,SR,88,Hawaii,,2279,14,0,0,11,0
+WAC,1st team,RG,Tommy Huggins,RG,JR,82,Boise State,,883,14,0,0,8,0
+WAC,1st team,ROLB,Derrick Holt,ROLB,SR,90,Boise State,,885,14,0,0,15,0
+WAC,1st team,RT,Blake Todd,RT,SR,84,Hawaii,,2285,14,0,0,9,0
+WAC,1st team,SS,Fred Cobbs,SS,SR,90,New Mexico State,,4314,14,0,0,18,0
+WAC,1st team,TE,Paul Moore,TE,SR,90,Boise State,,892,14,0,0,4,0
+WAC,1st team,WR,Josh Mixon,WR,SR,89,Fresno State,,2085,14,0,0,3,0
+WAC,1st team,WR,Brian Scott,WR,SO,87,Hawaii,,2302,14,0,0,3,0
+WAC,2nd team,C,Chris Nance,C,SR,92,Hawaii,,2240,14,1,0,7,0
+WAC,2nd team,CB,Zach Rogers,CB,SR,87,Fresno State,,2034,14,1,0,16,0
+WAC,2nd team,CB,Drew McCoy,CB,SO,86,Boise State,,844,14,1,0,16,0
+WAC,2nd team,DT,Thomas Williams,DT,JR,82,Hawaii,,2246,14,1,0,12,0
+WAC,2nd team,DT,Marlon Lee,DT,JR,82,Fresno State,,2038,14,1,0,12,0
+WAC,2nd team,FB,Darryl James,FB,SR,87,New Mexico State,,4281,14,1,0,2,0
+WAC,2nd team,FS,Antoine Howell,FS,SR,91,Utah State,,7293,14,1,0,17,0
+WAC,2nd team,HB,Jeff Foster,HB,JR,84,New Mexico State,,4287,14,1,0,1,0
+WAC,2nd team,HB,David Willis,HB,JR,84,Idaho,yes,2392,14,1,0,1,1
+WAC,2nd team,K,Edward Lee,K,JR,84,Fresno State,,2053,14,1,0,19,0
+WAC,2nd team,LE,Tony Walker,LE,JR,84,Boise State,,865,14,1,0,10,0
+WAC,2nd team,LG,Eric Blanchard,LG,JR,87,Boise State,,866,14,1,0,6,0
+WAC,2nd team,LOLB,Will Novak,LOLB,SR,82,New Mexico State,,4295,14,1,0,13,0
+WAC,2nd team,LT,David Edwards,LT,SO,84,Boise State,,871,14,1,0,5,0
+WAC,2nd team,MLB,Jevon Todd,MLB,SR,82,Fresno State,,2063,14,1,0,14,0
+WAC,2nd team,P,Mark James,P,SR,80,Hawaii,,2273,14,1,0,20,0
+WAC,2nd team,QB,Rick Cole,QB,JR,86,Hawaii,,2274,14,1,0,0,0
+WAC,2nd team,RE,Corey White,RE,SR,87,Boise State,,881,14,1,0,11,0
+WAC,2nd team,RG,Tye Carroll,RG,JR,80,Fresno State,,2073,14,1,0,8,0
+WAC,2nd team,ROLB,Sean Russell,ROLB,JR,86,Fresno State,,2074,14,1,0,15,0
+WAC,2nd team,RT,Bill Jones,RT,SR,82,Boise State,,888,14,1,0,9,0
+WAC,2nd team,SS,John Montgomery,SS,SR,87,Nevada,,4177,14,1,0,18,0
+WAC,2nd team,TE,Jeff Carter,TE,SR,88,Nevada,,4180,14,1,0,4,0
+WAC,2nd team,WR,Antonio Neal,WR,SR,87,Nevada,,4188,14,1,0,3,0
+WAC,2nd team,WR,Clay Jordan,WR,SR,86,Boise State,,896,14,1,0,3,0
+Pac-10,2nd team,C,Patrick Kucera,C,SR,91,Oregon,,5180,10,1,0,7,0
+Pac-10,1st team,CB,John Perry,CB,SR,95,Cal,yes,1192,10,0,0,16,1
+Pac-10,1st team,CB,Andy Carroll,CB,JR,95,Arizona,,285,10,0,0,16,0
+Pac-10,1st team,DT,Tony Williams,DT,SR,94,Cal,,1197,10,0,0,12,0
+Pac-10,1st team,DT,Victor Harris,DT,JR,92,USC,,7148,10,0,0,12,0
+Pac-10,2nd team,FB,Steve Wilkerson,FB,SR,89,USC,,7153,10,1,0,2,0
+Pac-10,1st team,FS,Cameron Siegel,FS,SR,90,Oregon,,5194,10,0,0,17,0
+Pac-10,1st team,HB,Mike Gilmore,HB,JR,94,Cal,,1207,10,0,0,1,0
+Pac-10,1st team,HB,B.J. White,HB,JR,91,Oregon State,,5266,10,0,0,1,0
+Pac-10,1st team,K,Adrian Nakfoor,K,JR,93,Oregon State,,5270,10,0,0,19,0
+Pac-10,1st team,LE,Lorenzo Brown,LE,JR,92,USC,,7167,10,0,0,10,0
+Pac-10,1st team,LG,Michael Alston,LG,SR,86,Cal,,1214,10,0,0,6,0
+Pac-10,1st team,LOLB,Derrick Douglas,LOLB,SR,91,USC,,7172,10,0,0,13,0
+Pac-10,1st team,LT,Charles Scott,LT,JR,93,USC,,7175,10,0,0,5,0
+Pac-10,1st team,MLB,Fred Wiggins,MLB,SR,92,USC,,7176,10,0,0,14,0
+Pac-10,1st team,P,Ken Fellows,P,SR,92,Washington,,7737,10,0,0,20,0
+Pac-10,1st team,QB,Sean Ryan,QB,SR,92,Arizona State,,389,10,0,0,0,0
+Pac-10,1st team,RE,Billy McKinney,RE,SR,91,Washington State,,7807,10,0,0,11,0
+Pac-10,1st team,RG,J.B. Lucas,RG,JR,87,UCLA,,6979,10,0,0,8,0
+Pac-10,1st team,ROLB,Thomas Wright,ROLB,JR,88,USC,,7189,10,0,0,15,0
+Pac-10,1st team,RT,Mike Rhodes,RT,SR,89,Arizona State,,400,10,0,0,9,0
+Pac-10,1st team,SS,Carl Covington,SS,SR,89,Oregon State,,5296,10,0,0,18,0
+Pac-10,1st team,TE,Luke Clemens,TE,JR,93,Arizona State,,406,10,0,0,4,0
+Pac-10,1st team,WR,Richmond Weddle,WR,JR,95,USC,,7201,10,0,0,3,0
+Pac-10,1st team,WR,Cory Gates,WR,SR,94,Washington State,,7825,10,0,0,3,0
+Pac-10,1st team,C,Caleb Smith,C,SR,92,USC,,7140,10,0,0,7,0
+Pac-10,2nd team,CB,Mike Reynolds,CB,SR,90,Cal,,1193,10,1,0,16,0
+Pac-10,2nd team,CB,Daniel Wilcher,CB,JR,89,USC,,7144,10,1,0,16,0
+Pac-10,2nd team,DT,Aaron Gray,DT,SR,90,Oregon State,,5261,10,1,0,12,0
+Pac-10,2nd team,DT,Clayton McPhearson,DT,JR,90,UCLA,,6943,10,1,0,12,0
+Pac-10,1st team,FB,Charles Justice,FB,JR,88,UCLA,,6944,10,0,0,2,0
+Pac-10,2nd team,FS,Brad Taylor,FS,SR,87,Washington,,7718,10,1,0,17,0
+Pac-10,2nd team,HB,Bobby Lawrence,HB,JR,86,UCLA,,6949,10,1,0,1,0
+Pac-10,2nd team,HB,Brandon Miranda,HB,JR,89,Cal,yes,1208,10,1,0,1,1
+Pac-10,2nd team,K,Robert McDowell,K,SR,93,UCLA,,6954,10,1,0,19,0
+Pac-10,2nd team,LE,R.J. Rix,LE,SR,90,UCLA,,6955,10,1,0,10,0
+Pac-10,2nd team,LG,Carlos Dodd,LG,SO,87,USC,,7170,10,1,0,6,0
+Pac-10,2nd team,LOLB,Jonathan Talley,LOLB,SR,87,Washington State,,7795,10,1,0,13,0
+Pac-10,2nd team,LT,Eric Hood,LT,SR,85,Oregon State,,5278,10,1,0,5,0
+Pac-10,2nd team,MLB,Pierre Booker,MLB,SR,90,Arizona State,,385,10,1,0,14,0
+Pac-10,2nd team,P,Mark Timbers,P,SO,84,UCLA,,6969,10,1,0,20,0
+Pac-10,2nd team,QB,Kyle Rice,QB,SO,89,Arizona,,318,10,1,0,0,0
+Pac-10,2nd team,RE,Justin Gray,RE,JR,89,Cal,,1232,10,1,0,11,0
+Pac-10,2nd team,RG,Gavin Weber,RG,SR,84,Arizona State,,395,10,1,0,8,0
+Pac-10,2nd team,ROLB,John McDonald,ROLB,JR,86,Arizona State,,398,10,1,0,15,0
+Pac-10,2nd team,RT,Steven Williams,RT,SR,86,USC,,7192,10,1,0,9,0
+Pac-10,2nd team,SS,Brian Harrison,SS,SR,91,Arizona State,,405,10,1,0,18,0
+Pac-10,2nd team,TE,Eric Smith,TE,SR,93,Oregon State,,5300,10,1,0,4,0
+Pac-10,2nd team,WR,Derek Brown,WR,SR,93,USC,,7202,10,1,0,3,0
+Pac-10,2nd team,WR,Antwan House,WR,SR,90,Oregon,,5238,10,1,0,3,0
+Historic,1st team,QB,Alan James,QB,SR,97,Notre Dame,,4798,15,0,0,0,0
+Historic,1st team,HB,Nick Moore,HB,JR,98,Oklahoma,,4989,15,0,0,1,0
+Historic,1st team,HB,Mike Gilmore,HB,JR,94,Cal,,1207,15,0,0,1,0
+Historic,1st team,WR,Seth Harris,WR,JR,98,Georgia Tech,,2230,15,0,0,3,0
+Historic,1st team,WR,Richmond Weddle,WR,JR,95,USC,,7201,15,0,0,3,0
+Historic,1st team,TE,Luke Clemens,TE,JR,93,Arizona State,,406,15,0,0,4,0
+Historic,1st team,LT,John Roth,LT,SR,97,Wisconsin,,8011,15,0,0,5,0
+Historic,1st team,LG,Curtis Koester,LG,SR,93,Texas,,6468,15,0,0,6,0
+Historic,1st team,RT,Bruce Bates,RT,SR,96,Texas,,6493,15,0,0,9,0
+Historic,1st team,RG,Tim Rodgers,RG,SR,92,Texas Tech,,6623,15,0,0,8,0
+Historic,1st team,C,Eddie Lilly,C,SR,94,West Virginia,,7840,15,0,0,7,0
+Historic,1st team,K,Aaron Smith,K,SR,99,Colorado,,1561,15,0,0,19,0
+Historic,1st team,LE,Wesley Green,LE,SR,94,Central Michigan,,1352,15,0,0,10,0
+Historic,2nd team,LE,Lorenzo Brown,LE,JR,92,USC,,7167,15,1,0,10,0
+Historic,1st team,DT,Jon Hodge,DT,SR,93,Tennessee,,6377,15,0,0,12,0
+Historic,1st team,DT,Harvey Swoopes,DT,SR,93,Ohio State,,4907,15,0,0,12,0
+Historic,1st team,ROLB,Ernest Richardson,ROLB,SR,95,Oklahoma,,5017,15,0,0,15,0
+Historic,1st team,LOLB,Jeff Ward,LOLB,SR,97,Ole Miss,,5137,15,0,0,13,0
+Historic,1st team,MLB,O.J. Ramirez,MLB,JR,94,Florida,,1925,15,0,0,14,0
+Historic,1st team,SS,Ben Stukes,TE,SR,85,Notre Dame,,4814,15,0,0,18,0
+Historic,1st team,CB,Andy Carroll,CB,JR,95,Arizona,,285,15,0,0,16,0
+Historic,1st team,FS,Matthew Powell,FS,SR,98,LSU,,3164,15,0,0,17,0
+Historic,1st team,CB,John Perry,CB,SR,95,Cal,,1192,15,0,0,16,0
+Historic,1st team,P,Brandon Smith,P,SR,96,Baylor,,802,15,0,0,20,0
+Historic,2nd team,QB,Shelton Williams,QB,SR,95,Ohio State,,4936,15,1,0,0,0
+Historic,2nd team,HB,Keith Rodgers,HB,SR,94,Louisville,,3099,15,1,0,1,0
+Historic,2nd team,HB,Trey Weber,HB,SR,93,Auburn,,650,15,1,0,1,0
+Historic,2nd team,WR,Brandon Blanks,WR,SR,95,Notre Dame,,4821,15,1,0,3,0
+Historic,2nd team,WR,Jordan Smith,WR,JR,93,Ohio State,yes,4954,15,1,0,3,1
+Historic,2nd team,TE,Josh Richardson,TE,SR,93,Minnesota,,3835,15,1,0,4,0
+Historic,2nd team,C,Aaron Miller,C,SR,92,Fresno State,,2030,15,1,0,7,0
+Historic,2nd team,LT,Joe James,LT,SR,95,Penn State,,5349,15,1,0,5,0
+Historic,2nd team,LG,Eric Sanders,LG,SR,91,Boston College,,933,15,1,0,6,0
+Historic,2nd team,RG,Dwayne Woods,RG,SR,93,North Texas,,4520,15,1,0,8,0
+Historic,2nd team,RT,Mark White,RT,JR,92,Michigan,,3619,15,1,0,9,0
+Historic,2nd team,K,Adrian Nakfoor,K,JR,93,Oregon State,,5270,15,1,0,19,0
+Historic,2nd team,DT,Ralph Huffman,DT,SR,93,Florida,,1899,15,1,0,12,0
+Historic,1st team,RE,Paul Curry,RE,SR,99,Clemson,,1512,15,0,0,11,0
+Historic,2nd team,DT,Tony Williams,DT,SR,94,Cal,,1197,15,1,0,12,0
+Historic,2nd team,RE,John Ashley,RE,SR,91,Georgia,,2143,15,1,0,11,0
+Historic,2nd team,LOLB,Mike Jones,LOLB,SR,98,Penn State,,5347,15,1,0,13,0
+Historic,2nd team,ROLB,John Watts,ROLB,SR,94,West Virginia,,7882,15,1,0,15,0
+Historic,2nd team,MLB,Chris Davis,MLB,JR,93,Virginia Tech,,7593,15,1,0,14,0
+Historic,2nd team,FS,Amir Blount,FS,SR,95,Miami,,3481,15,1,0,17,0
+Historic,2nd team,SS,Julian Porter,SS,SR,91,Tennessee,,6421,15,1,0,18,0
+Historic,2nd team,CB,Justin Childress,CB,SR,92,Duke,,1683,15,1,0,16,0
+Historic,2nd team,CB,Brian Davis,CB,SR,93,Utah,,7212,15,1,0,16,0
+Historic,2nd team,P,Tyrone White,P,SR,96,Rice,,5564,15,1,0,20,0
+Historic,1st team,FB,Bobby Copeland,FB,SR,93,Rutgers,,5612,15,0,0,2,0
+Historic,2nd team,FB,James Scott,FB,JR,92,Navy,,4004,15,1,0,2,0
+ACC,1st team,FB,Joe Hutchinson,FB,SR,90,Virginia Tech,,7574,0,0,0,2,0
+ACC,1st team,WR,Seth Harris,WR,JR,98,Georgia Tech,,2230,0,0,0,3,0
+ACC,1st team,WR,Brett Toth,WR,SR,88,Clemson,yes,1528,0,0,0,3,1
+ACC,1st team,TE,Robert Myers,TE,JR,92,Miami,,3484,0,0,0,4,0
+ACC,1st team,LT,Todd Oliver,LT,JR,89,Clemson,,1503,0,0,0,5,0
+ACC,1st team,LG,Eric Sanders,LG,SR,91,Boston College,,933,0,0,0,6,0
+ACC,1st team,C,Alex Butler,C,SR,90,Miami,,3430,0,0,0,7,0
+ACC,1st team,RG,Jimmy Forte,RG,SR,90,Florida State,,2003,0,0,0,8,0
+ACC,1st team,RT,Jason Nelson,RT,SR,90,Wake Forest,,7680,0,0,0,9,0
+ACC,1st team,LE,Steven Wright,LE,SR,94,Miami,,3454,0,0,0,10,0
+ACC,1st team,RE,Paul Curry,RE,SR,99,Clemson,,1512,0,0,0,11,0
+ACC,1st team,DT,Matt Carey,DT,JR,91,NC State,,4420,0,0,0,12,0
+ACC,1st team,DT,Jeremiah Anderson,DT,SR,90,Miami,,3440,0,0,0,12,0
+ACC,1st team,LOLB,Nicholas Ross,LOLB,JR,95,Virginia Tech,,7589,0,0,0,13,0
+ACC,2nd team,MLB,Eric Lester,MLB,SR,91,Clemson,,1505,0,1,0,14,0
+ACC,1st team,ROLB,Melvin Kent,MLB,SR,95,Florida State,,2005,0,0,0,15,0
+ACC,1st team,CB,Ethan Hobbs,CB,SR,93,Virginia,,7492,0,0,0,16,0
+ACC,2nd team,CB,Fred Charles,CB,SR,90,NC State,yes,4412,0,1,0,16,1
+ACC,1st team,FS,Amir Blount,FS,SR,95,Miami,,3481,0,0,0,17,0
+ACC,2nd team,SS,James Ellis,SS,SR,89,NC State,,4456,0,1,0,18,0
+ACC,1st team,K,Daniel Peoples,K,SR,94,Virginia Tech,,7583,0,0,0,19,0
+ACC,2nd team,P,Antoine Kirk,P,SR,93,Virginia Tech,,7596,0,1,0,20,0
+ACC,2nd team,QB,Isaac Schifano,QB,SO,86,Florida State,,1999,0,1,0,0,0
+ACC,2nd team,HB,Nicholas Lupo,HB,SO,88,Clemson,,1492,0,1,0,1,0
+ACC,2nd team,HB,Marcus Dukes,HB,JR,86,Boston College,,929,0,1,0,1,0
+ACC,2nd team,FB,Marvin Pryor,FB,SR,88,NC State,,4422,0,1,0,2,0
+ACC,2nd team,WR,Josh Seals,WR,SR,89,Miami,,3488,0,1,0,3,0
+ACC,2nd team,WR,Matt Henshaw,WR,SR,87,Virginia,,7546,0,1,0,3,0
+ACC,2nd team,TE,Fred Davis,TE,JR,86,Virginia,,7543,0,1,0,4,0
+ACC,2nd team,LT,Anthony Jackson,LT,SR,88,NC State,,4438,0,1,0,5,0
+ACC,2nd team,LG,Erik Bailey,LG,SR,89,Clemson,,1498,0,1,0,6,0
+ACC,2nd team,C,Tony Douglas,C,SR,88,NC State,,4410,0,1,0,7,0
+ACC,2nd team,RG,Phil Session,RG,JR,87,Georgia Tech,,2216,0,1,0,8,0
+ACC,2nd team,RT,Charlie Maxwell,RT,SR,86,Clemson,,1520,0,1,0,9,0
+ACC,2nd team,LE,Doug Holt,LE,SR,91,Virginia Tech,,7584,0,1,0,10,0
+ACC,2nd team,RE,Connor Anderson,RE,JR,92,Virginia Tech,,7603,0,1,0,11,0
+ACC,2nd team,DT,Jason Lester,DT,JR,90,Florida State,,1972,0,1,0,12,0
+ACC,2nd team,DT,Chris Landry,DT,SR,90,Georgia Tech,,2178,0,1,0,12,0
+ACC,2nd team,LOLB,Marcus Fluellen,LOLB,SR,94,Georgia Tech,,2202,0,1,0,13,0
+ACC,1st team,MLB,Chris Davis,MLB,JR,93,Virginia Tech,,7593,0,0,0,14,0
+ACC,2nd team,ROLB,Kevin Washington,ROLB,JR,91,Boston College,,953,0,1,0,15,0
+ACC,2nd team,CB,Michael White,CB,SR,88,Georgia Tech,,2173,0,1,0,16,0
+ACC,1st team,CB,Justin Childress,CB,SR,92,Duke,,1683,0,0,0,16,0
+ACC,2nd team,FS,Jay Garcia,FS,SR,90,Wake Forest,,7647,0,1,0,17,0
+ACC,1st team,SS,Joe Reid,SS,SR,94,Virginia Tech,,7614,0,0,0,18,0
+ACC,2nd team,K,Wesley Muhammad,K,SR,90,Clemson,,1493,0,1,0,19,0
+ACC,1st team,P,Bernard Rose,P,SR,94,Maryland,,3328,0,0,0,20,0
+Big Ten,1st team,C,Franklin Kelly,C,SR,91,Iowa,,2590,1,0,0,7,0
+Big Ten,1st team,CB,Keith Hopkins,CB,SR,93,Michigan,,3572,1,0,0,16,0
+Big Ten,1st team,CB,Michael Love,CB,SR,90,Northwestern,,4693,1,0,0,16,0
+Big Ten,1st team,DT,Harvey Swoopes,DT,SR,93,Ohio State,,4907,1,0,0,12,0
+Big Ten,2nd team,FB,Andre Heckel,FB,SR,87,Penn State,,5333,1,1,0,2,0
+Big Ten,1st team,FS,Kris Downing,FS,SR,91,Ohio State,,4915,1,0,0,17,0
+Big Ten,1st team,HB,Chris Perry,HB,JR,92,Michigan,,3587,1,0,0,1,0
+Big Ten,1st team,HB,Tyler Martin,HB,SO,91,Northwestern,,4709,1,0,0,1,0
+Big Ten,1st team,K,Scott McBride,K,SR,90,Iowa,,2617,1,0,0,19,0
+Big Ten,1st team,LE,Jerome Harper,LE,JR,88,Michigan,,3592,1,0,0,10,0
+Big Ten,1st team,LG,Mike Greene,LG,SR,89,Iowa,,2620,1,0,0,6,0
+Big Ten,1st team,LOLB,Mike Jones,LOLB,SR,98,Penn State,,5347,1,0,0,13,0
+Big Ten,1st team,LT,John Roth,LT,SR,97,Wisconsin,,8011,1,0,0,5,0
+Big Ten,1st team,MLB,Isaac Jackson,MLB,SR,92,Penn State,,5351,1,0,0,14,0
+Big Ten,2nd team,P,Peter Craft,P,SR,93,Michigan State,,3674,1,1,0,20,0
+Big Ten,1st team,QB,Shelton Williams,QB,SR,95,Ohio State,,4936,1,0,0,0,0
+Big Ten,1st team,RE,Calvin Alford,RE,JR,88,Iowa,,2634,1,0,0,11,0
+Big Ten,1st team,RG,Jon Brown,RG,SR,90,Northwestern,,4732,1,0,0,8,0
+Big Ten,1st team,ROLB,Shaun McDonald,ROLB,JR,92,Penn State,,5365,1,0,0,15,0
+Big Ten,1st team,RT,Mark White,RT,JR,92,Michigan,,3619,1,0,0,9,0
+Big Ten,1st team,SS,Kyle Williams,SS,SR,90,Northwestern,,4739,1,0,0,18,0
+Big Ten,1st team,TE,Josh Richardson,TE,SR,93,Minnesota,,3835,1,0,0,4,0
+Big Ten,1st team,WR,Jordan Smith,WR,JR,93,Ohio State,,4954,1,0,0,3,0
+Big Ten,1st team,WR,Jake Barry,WR,SR,91,Michigan,yes,3626,1,0,0,3,1
+Big Ten,2nd team,C,Vincent Snyder,C,SR,88,Ohio State,,4900,1,1,0,7,0
+Big Ten,2nd team,CB,David Snyder,CB,SO,87,Penn State,yes,5324,1,1,0,16,1
+Big Ten,2nd team,CB,Rico Brock,CB,JR,84,Iowa,,2597,1,1,0,16,0
+Big Ten,1st team,FB,Gary Lewis,FB,SR,91,Northwestern,,4703,1,0,0,2,0
+Big Ten,2nd team,HB,DeMarcus Howard,HB,JR,91,Iowa,,2612,1,1,0,1,0
+Big Ten,2nd team,HB,Lee Stewart,HB,SR,90,Penn State,,5339,1,1,0,1,0
+Big Ten,2nd team,K,Steven Hall,K,SR,90,Michigan,,3591,1,1,0,19,0
+Big Ten,2nd team,LE,Joe Fletcher,LE,JR,87,Iowa,,2619,1,1,0,10,0
+Big Ten,2nd team,LG,Antonio Manigat,LG,JR,85,Ohio State,,4927,1,1,0,6,0
+Big Ten,2nd team,LOLB,Jeff Carr,LOLB,SR,91,Michigan,,3596,1,1,0,13,0
+Big Ten,2nd team,LT,Joe James,LT,SR,95,Penn State,,5349,1,1,0,5,0
+Big Ten,2nd team,MLB,Seth Clayton,MLB,SR,88,Wisconsin,,8013,1,1,0,14,0
+Big Ten,1st team,P,Paul Smith,P,JR,97,Wisconsin,,8015,1,0,0,20,0
+Big Ten,2nd team,QB,A.J. Essex,QB,SR,95,Michigan State,,3675,1,1,0,0,0
+Big Ten,2nd team,RE,Ben Hopkins,RE,SO,89,Michigan,,3611,1,1,0,11,0
+Big Ten,2nd team,RG,Terrance Bailey,RG,SR,89,Michigan,,3615,1,1,0,8,0
+Big Ten,2nd team,ROLB,Chad Maynard,ROLB,SR,90,Michigan,,3616,1,1,0,15,0
+Big Ten,2nd team,RT,Joseph Burrell,RT,SR,89,Minnesota,,3829,1,1,0,9,0
+Big Ten,2nd team,SS,Lawrence Bates,SS,SR,90,Michigan,,3622,1,1,0,18,0
+Big Ten,2nd team,TE,J.R. Lawrence,TE,SR,91,Michigan,,3625,1,1,0,4,0
+Big Ten,2nd team,WR,Ben Hicks,WR,JR,88,Purdue,,5516,1,1,0,3,0
+Big Ten,2nd team,WR,Chris Schultz,WR,SO,87,Indiana,,2580,1,1,0,3,0
+Big Ten,2nd team,FS,Matthew Jones,FS,SR,86,Minnesota,,3793,1,1,0,17,0
+Big 12,2nd team,C,Trey Langford,C,SR,91,Nebraska,,4060,2,1,0,7,0
+Big 12,1st team,CB,Chris Bentley,CB,SR,90,Texas,yes,6442,2,0,0,16,1
+Big 12,1st team,CB,Calvin Hancock,CB,SR,90,Nebraska,,4063,2,0,0,16,0
+Big 12,1st team,DT,Terrence Wilcher,DT,JR,90,Texas,,6450,2,0,0,12,0
+Big 12,1st team,DT,Lance Jackson,DT,SR,92,Iowa State,,2668,2,0,0,12,0
+Big 12,1st team,FB,David Burkes,FB,SR,92,Nebraska,,4072,2,0,0,2,0
+Big 12,1st team,FS,Marques Hall,FS,SR,90,Missouri,,3933,2,0,0,17,0
+Big 12,1st team,HB,Nick Moore,HB,JR,98,Oklahoma,,4989,2,0,0,1,0
+Big 12,1st team,HB,Zach Mangum,HB,SR,90,Texas A&M,,6530,2,0,0,1,0
+Big 12,1st team,K,Aaron Smith,K,SR,99,Colorado,,1561,2,0,0,19,0
+Big 12,1st team,LE,Justin Nakfoor,LE,SR,92,Texas,,6464,2,0,0,10,0
+Big 12,1st team,LG,Curtis Koester,LG,SR,93,Texas,,6468,2,0,0,6,0
+Big 12,1st team,LOLB,Vernon Robinson,LOLB,JR,90,Texas,,6470,2,0,0,13,0
+Big 12,1st team,LT,Jason Madison,LT,SR,88,Oklahoma,,5005,2,0,0,5,0
+Big 12,2nd team,MLB,Josh Ryan,MLB,SR,92,Colorado,,1573,2,1,0,14,0
+Big 12,2nd team,P,Jeff Singleton,P,SR,93,Texas Tech,,6616,2,1,0,20,0
+Big 12,1st team,QB,Randall Durfee,QB,JR,89,Iowa State,,2692,2,0,0,0,0
+Big 12,1st team,RE,Steve Gorman,RE,SR,93,Nebraska,,4100,2,0,0,11,0
+Big 12,1st team,RG,Tim Rodgers,RG,SR,92,Texas Tech,,6623,2,0,0,8,0
+Big 12,1st team,ROLB,Ernest Richardson,ROLB,SR,95,Oklahoma,,5017,2,0,0,15,0
+Big 12,1st team,RT,Bruce Bates,RT,SR,96,Texas,,6493,2,0,0,9,0
+Big 12,2nd team,SS,Slade McCarty,SS,SR,88,Nebraska,,4109,2,1,0,18,0
+Big 12,1st team,TE,Josh Watson,TE,JR,91,Missouri,,3971,2,0,0,4,0
+Big 12,1st team,WR,Garrett Sanders,WR,SR,92,Texas Tech,,6643,2,0,0,3,0
+Big 12,1st team,WR,Dane Jones,WR,JR,91,Iowa State,,2710,2,0,0,3,0
+Big 12,1st team,C,Kevin McCall,C,SR,93,Colorado,,1540,2,0,0,7,0
+Big 12,2nd team,CB,Will Gallagher,CB,JR,88,Oklahoma,,4976,2,1,0,16,0
+Big 12,2nd team,CB,Kyle Williams,CB,JR,87,Nebraska,yes,4064,2,1,0,16,1
+Big 12,2nd team,DT,Jay Logan,DT,SR,92,Oklahoma State,,5051,2,1,0,12,0
+Big 12,2nd team,DT,Martin Jones,DT,JR,88,Texas A&M,,6519,2,1,0,12,0
+Big 12,2nd team,FB,Patrick Lamb,FB,JR,89,Texas A&M,,6524,2,1,0,2,0
+Big 12,2nd team,FS,Luke Frazier,FS,SR,88,Texas,,6454,2,1,0,17,0
+Big 12,2nd team,K,Lawrence Dean,K,SO,89,Nebraska,,4082,2,1,0,19,0
+Big 12,2nd team,LE,Chris Adams,LE,SR,89,Oklahoma,,4996,2,1,0,10,0
+Big 12,2nd team,LG,Steve Wilson,LG,SR,90,Colorado,,1566,2,1,0,6,0
+Big 12,2nd team,LOLB,Cory George,LOLB,SR,90,Nebraska,,4089,2,1,0,13,0
+Big 12,2nd team,LT,Roderick Patterson,LT,JR,86,Missouri,,3951,2,1,0,5,0
+Big 12,1st team,MLB,Anthony Sullivan,MLB,SR,89,Oklahoma,,5007,2,0,0,14,0
+Big 12,1st team,P,Brandon Smith,P,SR,96,Baylor,,802,2,0,0,20,0
+Big 12,2nd team,QB,Brendan Blackstock,QB,SR,86,Nebraska,,4096,2,1,0,0,0
+Big 12,2nd team,RE,Wayne Ray,RE,SR,90,Oklahoma,,5014,2,1,0,11,0
+Big 12,2nd team,RG,Jay Adams,RG,JR,88,Texas A&M,,6558,2,1,0,8,0
+Big 12,2nd team,ROLB,Ken Woods,ROLB,SR,89,Texas Tech,,6626,2,1,0,15,0
+Big 12,2nd team,RT,Troy Huston,RT,SR,90,Oklahoma State,,5093,2,1,0,9,0
+Big 12,1st team,SS,Bryan Walker,SS,SR,92,Texas,,6495,2,0,0,18,0
+Big 12,2nd team,TE,Corey Stanford,TE,SR,92,Nebraska,,4112,2,1,0,4,0
+Big 12,2nd team,WR,Darren Felder,WR,SR,89,Texas Tech,,6637,2,1,0,3,0
+Big 12,2nd team,WR,Marvin Wise,WR,SR,90,Oklahoma State,,5101,2,1,0,3,0
+Big East,1st team,C,Eddie Lilly,C,SR,94,West Virginia,,7840,3,0,0,7,0
+Big East,1st team,CB,Patrick Berg,CB,JR,91,Pittsburgh,,5392,3,0,0,16,0
+Big East,1st team,CB,Josh Morris,CB,SR,88,Syracuse,yes,6162,3,0,0,16,1
+Big East,1st team,DT,John Stevenson,DT,SR,89,Louisville,,3089,3,0,0,12,0
+Big East,1st team,DT,Andre Russell,DT,JR,86,West Virginia,,7849,3,0,0,12,0
+Big East,1st team,FB,Bobby Copeland,FB,SR,93,Rutgers,,5612,3,0,0,2,0
+Big East,2nd team,FS,Kevin Brown,FS,SR,86,West Virginia,,7851,3,1,0,17,0
+Big East,1st team,HB,Keith Rodgers,HB,SR,94,Louisville,,3099,3,0,0,1,0
+Big East,1st team,HB,Marvin Coleman,HB,SO,91,West Virginia,,7856,3,0,0,1,0
+Big East,1st team,K,Tra Simmons,K,JR,91,Louisville,,3103,3,0,0,19,0
+Big East,1st team,LE,Chris Patton,LE,SR,86,West Virginia,,7860,3,0,0,10,0
+Big East,1st team,LG,Mike Miller,LG,SO,84,West Virginia,,7863,3,0,0,6,0
+Big East,2nd team,LOLB,Andrew Greco,LOLB,SR,85,Pittsburgh,,5420,3,1,0,13,0
+Big East,1st team,LT,Khalid Williams,LT,SR,82,USF,,10108,3,0,0,5,0
+Big East,1st team,MLB,Fred Scott,MLB,SR,93,Pittsburgh,,5425,3,0,0,14,0
+Big East,1st team,P,Steven Patterson,P,SR,90,Syracuse,,6197,3,0,0,20,0
+Big East,1st team,QB,Mike White,QB,JR,92,Louisville,,3117,3,0,0,0,0
+Big East,2nd team,RE,Justin Patterson,RE,SR,89,Rutgers,,5635,3,1,0,11,0
+Big East,1st team,RG,Hunter Bell,RG,SR,93,West Virginia,,7880,3,0,0,8,0
+Big East,1st team,ROLB,John Watts,ROLB,SR,94,West Virginia,,7882,3,0,0,15,0
+Big East,1st team,RT,Michael Williams,RT,JR,80,Louisville,,3129,3,0,0,9,0
+Big East,1st team,SS,Fred Bailey,SS,SR,93,West Virginia,,7888,3,0,0,18,0
+Big East,1st team,TE,Darrell Hand,TE,SR,92,Rutgers,,5645,3,0,0,4,0
+Big East,1st team,WR,Andy Brady,WR,SR,90,West Virginia,,7896,3,0,0,3,0
+Big East,1st team,WR,Jim Owens,WR,SO,88,Louisville,,3138,3,0,0,3,0
+Big East,2nd team,C,Nick Pryor,C,SO,84,Louisville,,3081,3,1,0,7,0
+Big East,2nd team,CB,Brian Bray,CB,SR,88,Louisville,,3083,3,1,0,16,0
+Big East,2nd team,CB,Erik Mason,CB,SR,84,Connecticut,,7002,3,1,0,16,0
+Big East,2nd team,DT,Scott Johnson,DT,SR,86,Connecticut,,7008,3,1,0,12,0
+Big East,2nd team,DT,Martin Bailey,DT,SR,85,USF,,10089,3,1,0,12,0
+Big East,2nd team,FB,Jordan Griffin,FS,FR,72,West Virginia,,7852,3,1,0,2,0
+Big East,1st team,FS,Marcus Bennett,FS,SR,89,Louisville,,3097,3,0,0,17,0
+Big East,2nd team,HB,Elton Ashley,HB,SR,90,Connecticut,,7016,3,1,0,1,0
+Big East,2nd team,HB,Maurice Simpson,HB,SR,87,West Virginia,,7854,3,1,0,1,0
+Big East,2nd team,K,Melvin Carter,K,SR,86,Cincinnati,,1421,3,1,0,19,0
+Big East,2nd team,LE,Greg Ryan,LE,SR,86,Louisville,,3104,3,1,0,10,0
+Big East,2nd team,LG,Chris Tidwell,LG,JR,80,Cincinnati,,1424,3,1,0,6,0
+Big East,1st team,LOLB,Carl Johnson,LOLB,SR,87,USF,,10105,3,0,0,13,0
+Big East,2nd team,LT,Tyrone Long,LT,SR,80,Rutgers,,5627,3,1,0,5,0
+Big East,2nd team,MLB,Pedro Williams,MLB,SR,86,Syracuse,,6195,3,1,0,14,0
+Big East,2nd team,P,Damien Nash,P,SR,90,Rutgers,,5631,3,1,0,20,0
+Big East,2nd team,QB,Jeremy Dowdell,QB,SO,90,West Virginia,,7873,3,1,0,0,0
+Big East,1st team,RE,Justin Jones,RE,JR,91,West Virginia,,7878,3,0,0,11,0
+Big East,2nd team,RG,Brandon Randall,RG,SR,92,Louisville,,3124,3,1,0,8,0
+Big East,2nd team,ROLB,Evan Dailey,ROLB,SR,88,Louisville,,3126,3,1,0,15,0
+Big East,2nd team,RT,Derrick Noble,RT,JR,80,Rutgers,,5641,3,1,0,9,0
+Big East,2nd team,SS,Matt Johnson,SS,SR,84,Connecticut,,7046,3,1,0,18,0
+Big East,2nd team,TE,Eric Durbin,TE,SR,88,Cincinnati,,1450,3,1,0,4,0
+Big East,2nd team,WR,Terry Humphrey,WR,SR,86,Rutgers,,5650,3,1,0,3,0
+Big East,2nd team,WR,Josh Carroll,WR,JR,82,Louisville,yes,3140,3,1,0,3,1
+C-USA,1st team,C,Shannon Coleman,C,SR,89,UCF,,1260,4,0,0,7,0
+C-USA,1st team,CB,Jon Ruffin,CB,SO,88,UCF,,1262,4,0,0,16,0
+C-USA,1st team,CB,Brandon Foster,CB,SR,87,Tulsa,,6792,4,0,0,16,0
+C-USA,1st team,DT,Stephen Mitchell,DT,SR,90,Houston,,2317,4,0,0,12,0
+C-USA,1st team,DT,Nick Brantley,DT,SR,87,UTEP,,7357,4,0,0,12,0
+C-USA,1st team,FB,Ryan Harris,FB,SO,90,Southern Miss,,5962,4,0,0,2,0
+C-USA,1st team,FS,Adam Rice,FS,SR,92,Memphis,,3370,4,0,0,17,0
+C-USA,1st team,HB,Tavares Espinosa,HB,JR,88,ECU,,1766,4,0,0,1,0
+C-USA,2nd team,HB,Curtis Flynn,HB,SO,86,UCF,yes,1280,4,1,0,1,1
+C-USA,1st team,K,Brandon Everett,K,SR,90,Southern Miss,,5970,4,0,0,19,0
+C-USA,1st team,LE,Richard Turner,LE,SR,89,UAB,,6882,4,0,0,10,0
+Big Ten,2nd team,DT,Kyle Bennett,DT,SR,93,Ohio State,,4908,1,1,0,12,0
+Big Ten,1st team,DT,Sean Sanchez,DT,SR,91,Penn State,,5329,1,0,0,12,0
+Big Ten,2nd team,DT,Braylon McNeil,DT,JR,90,Wisconsin,,7988,1,1,0,12,0

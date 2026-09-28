@@ -3,6 +3,10 @@
  *
  *   node src/editSave.ts --table PLAY --where PGID=1234 --set PJEN=99
  *   node src/editSave.ts --table TEAM --row 0 --set TMPR=6 --out /tmp/test.bin
+ *   node src/editSave.ts --table PLAY --where PGID=1234 --set lastName=Smith
+ *
+ * `firstName` / `lastName` are virtual fields: PLAY stores names as 10 + 13
+ * separate 6-bit character fields, and typing those by hand is unreasonable.
  *
  * Safety model
  * ------------
@@ -30,8 +34,11 @@
  */
 import fs from 'node:fs';
 import {
+  encodeName,
   type FieldDescriptor,
   findTable,
+  MAX_FIRST_NAME,
+  MAX_LAST_NAME,
   parseFieldDescriptors,
   parseFileHeader,
   parseTableHeader,
@@ -120,9 +127,40 @@ if (rowIndex < 0 || rowIndex >= header.currentRecords) {
 const offset = recordOffsetAt(header, rowIndex);
 console.log(`${args.table}[${rowIndex}] at file offset 0x${offset.toString(16)}\n`);
 
+// --- Expand virtual name fields --------------------------------------------
+// PLAY stores names as 10 + 13 separate 6-bit character fields, which is a
+// miserable thing to type on a command line. Accept `--set firstName=Dennis`
+// and expand it into the real per-character fields.
+//
+// The expansion writes characters plus one terminator and nothing more, so the
+// residue that 6774 of the 7404 players carry past their terminator survives
+// untouched -- see encodeName.
+const VIRTUAL_NAMES: Record<string, { prefix: 'PF' | 'PL'; max: number }> = {
+  firstName: { prefix: 'PF', max: MAX_FIRST_NAME },
+  lastName: { prefix: 'PL', max: MAX_LAST_NAME },
+};
+const sets: [string, string][] = [];
+for (const [name, rawValue] of args.sets) {
+  const virtual = VIRTUAL_NAMES[name];
+  if (!virtual) {
+    sets.push([name, rawValue]);
+    continue;
+  }
+  if (!fields.some((f) => f.name === `${virtual.prefix}01`)) {
+    throw new Error(`${args.table} has no ${virtual.prefix}* character fields, so "${name}" means nothing here`);
+  }
+  const encoded = encodeName(rawValue, virtual.prefix, virtual.max);
+  console.log(
+    `  ${name}="${rawValue}" expands to ${Object.entries(encoded)
+      .map(([f, c]) => `${f}=${c}`)
+      .join(' ')}`,
+  );
+  for (const [f, c] of Object.entries(encoded)) sets.push([f, String(c)]);
+}
+
 // --- Apply the edits --------------------------------------------------------
 const touched: FieldDescriptor[] = [];
-for (const [name, rawValue] of args.sets) {
+for (const [name, rawValue] of sets) {
   const field = fields.find((f) => f.name === name);
   if (!field) {
     throw new Error(

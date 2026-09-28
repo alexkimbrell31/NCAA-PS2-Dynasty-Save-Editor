@@ -1,0 +1,104 @@
+{
+  "table": "PSDE",
+  "offset": 221924,
+  "recordLenBytes": 20,
+  "records": 1698,
+  "fields": [
+    {
+      "name": "PGID",
+      "bitOffset": 0,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "sslR",
+      "bitOffset": 16,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "sdpd",
+      "bitOffset": 24,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "SEYR",
+      "bitOffset": 32,
+      "bits": 6,
+      "type": 2
+    },
+    {
+      "name": "slsa",
+      "bitOffset": 38,
+      "bits": 7,
+      "type": 3
+    },
+    {
+      "name": "sdta",
+      "bitOffset": 45,
+      "bits": 9,
+      "type": 3
+    },
+    {
+      "name": "slff",
+      "bitOffset": 54,
+      "bits": 7,
+      "type": 3
+    },
+    {
+      "name": "slsk",
+      "bitOffset": 61,
+      "bits": 9,
+      "type": 3
+    },
+    {
+      "name": "slbl",
+      "bitOffset": 70,
+      "bits": 7,
+      "type": 3
+    },
+    {
+      "name": "sdtl",
+      "bitOffset": 77,
+      "bits": 9,
+      "type": 3
+    },
+    {
+      "name": "ssin",
+      "bitOffset": 86,
+      "bits": 7,
+      "type": 3
+    },
+    {
+      "name": "sgmp",
+      "bitOffset": 93,
+      "bits": 4,
+      "type": 3
+    },
+    {
+      "name": "slfr",
+      "bitOffset": 97,
+      "bits": 7,
+      "type": 3
+    },
+    {
+      "name": "ssdt",
+      "bitOffset": 104,
+      "bits": 6,
+      "type": 2
+    },
+    {
+      "name": "slfy",
+      "bitOffset": 110,
+      "bits": 10,
+      "type": 2
+    },
+    {
+      "name": "ssiy",
+      "bitOffset": 120,
+      "bits": 9,
+      "type": 3
+    }
+  ]
+}

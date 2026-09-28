@@ -589,6 +589,67 @@ export function playerName(record: Record<string, number | string>): {
   };
 }
 
+/** Longest first and last name PLAY can store. */
+export const MAX_FIRST_NAME = 10;
+export const MAX_LAST_NAME = 13;
+
+/**
+ * Inverse of `decodeNameChar`. Throws on any character the 6-bit charset
+ * cannot represent, rather than substituting something close -- silently
+ * turning "Peña" into "Pena" would corrupt a name without telling anyone.
+ */
+export function encodeNameChar(ch: string): number {
+  if (ch >= 'a' && ch <= 'z') return ch.charCodeAt(0) - 96;
+  if (ch >= 'A' && ch <= 'Z') return ch.charCodeAt(0) - 64 + 26;
+  if (ch === "'") return 54;
+  if (ch === '.') return 55;
+  if (ch === '-') return 56;
+  throw new Error(
+    `character ${JSON.stringify(ch)} cannot be encoded; ` +
+      `the 6-bit charset holds only a-z, A-Z, apostrophe, period and hyphen`,
+  );
+}
+
+/**
+ * Encode a name into its per-character field values.
+ *
+ * Returns a map of field name -> code, e.g. `{ PF01: 30, ..., PF07: 0 }`, ready
+ * to hand to `writeField`. It emits the characters plus ONE terminator, and
+ * deliberately says nothing about the slots beyond that.
+ *
+ * That last part is not an oversight. 6774 of the 7404 players carry non-zero
+ * codes after their terminator -- residue from a longer name that previously
+ * occupied the row. "Jones" is stored as J,o,n,e,s,0,m,s because the row used
+ * to hold "Williams" and only the first five slots were rewritten. The game
+ * stops at the terminator and never sees it. Zeroing the tail would be
+ * semantically harmless but would change bytes the game did not ask us to
+ * change, breaking the byte-attribution guard in editSave.ts. This mirrors the
+ * rule already established for the wide string fields.
+ *
+ * Validated against PLGA, which stores the same 67 Washington players' names as
+ * plain text written by the game itself.
+ */
+export function encodeName(
+  name: string,
+  prefix: 'PF' | 'PL',
+  maxChars: number,
+): Record<string, number> {
+  if (name.length > maxChars) {
+    throw new Error(
+      `${JSON.stringify(name)} is ${name.length} characters; ` +
+        `${prefix === 'PF' ? 'first' : 'last'} names hold at most ${maxChars}`,
+    );
+  }
+  const field = (i: number) => `${prefix}${String(i).padStart(2, '0')}`;
+  const out: Record<string, number> = {};
+  for (let i = 1; i <= name.length; i++) out[field(i)] = encodeNameChar(name[i - 1]);
+  // A name that exactly fills the field has nowhere to put a terminator. No
+  // such name exists in this save, but the game clearly tolerates it -- the
+  // same situation occurs in COCH.CLLN.
+  if (name.length < maxChars) out[field(name.length + 1)] = 0;
+  return out;
+}
+
 /**
  * Offset added to `PLAY.PWGT` to get pounds.
  *
@@ -824,6 +885,229 @@ export const SURFACE_TURF = 4;
 
 
 /**
+ * `BOWL.SGID` normally points at a `STAD.SGID`, but two of the 34 postseason
+ * slots carry 255 instead -- the maximum value of the 8-bit field, and the
+ * classic shape of a sentinel.
+ *
+ * The two slots are the Conference USA championship game and the BCS national
+ * championship game, and those are precisely the two whose venue genuinely
+ * cannot be known before the season is played: C-USA hosts its title game at
+ * the higher-seeded division winner's stadium, and the BCS title game site is
+ * not fixed to a bowl. Every bowl with a permanent home resolves.
+ */
+export const BOWL_VENUE_TBD = 255;
+
+/**
+ * `TEAM.DGID` is a foreign key into `DIVI`, but only for the ten teams-per-
+ * division conferences that actually split. Everyone else carries 15, which is
+ * all-ones in the field's 4 bits — the format's usual "no value" sentinel, the
+ * same trick `BOWL.SGID = 255` plays in 8 bits.
+ *
+ * Do not read 15 as a division id: `DIVI` has no row 15, and the 143 teams that
+ * carry it span 17 different conferences, so it cannot be a division.
+ */
+export const DIVISION_NONE = 15;
+
+/** True when the team belongs to a conference that plays in divisions. */
+export function hasDivision(rec: Record<string, number | string>): boolean {
+  return typeof rec.DGID === 'number' && rec.DGID !== DIVISION_NONE;
+}
+
+/**
+ * `AAPL` holds all-conference selections: one row per (conference, team, slot).
+ * `TTYP` is the team tier -- 0 = first team, 1 = second team. (The tag is
+ * reused from `TEAM.TTYP`, where it means FBS/FCS; here it does not.)
+ */
+export const ALL_CONF_FIRST_TEAM = 0;
+export const ALL_CONF_SECOND_TEAM = 1;
+
+/**
+ * An all-conference team is 25 slots: the 21 positions once each, plus a second
+ * slot for the four positions a base formation fields two of.
+ */
+export const ALL_CONF_TEAM_SIZE = 25;
+export const ALL_CONF_DOUBLED_POSITIONS = [1, 3, 12, 16];
+
+/**
+ * `WQTS` is a quarter-by-quarter line score: four rows per completed game,
+ * keyed by `(SEWN, SGNM)` exactly as `BOWL` is. `GHSC` / `GASC` are that
+ * quarter's points, not a running total -- they sum to `SCHD`'s final score.
+ */
+export const QUARTERS_PER_GAME = 4;
+
+/**
+ * `PSOF` and `PSDE` are PER-GAME statistic lines, not season totals: every row
+ * carries `sgmp == 1`, and only week 0 has been played.
+ *
+ * `PSOF`'s column names follow `s` + category + stat, where the category letter
+ * is the *second* character:
+ *   `sa**` passing   -- 100% of nonzero rows are QBs
+ *   `sc**` receiving -- WR/HB/TE/FB
+ *   `su**` rushing   -- HB/QB/FB/WR
+ *
+ * This is mnemonic-grade on its own. What establishes it is that the three
+ * categories satisfy football's bookkeeping identities across a whole team:
+ * receiving yards sum to passing yards, catches to completions, receiving
+ * touchdowns to passing touchdowns. See `validateStatTables.ts`.
+ */
+export const STAT_CATEGORY_PASSING = 'a';
+export const STAT_CATEGORY_RECEIVING = 'c';
+export const STAT_CATEGORY_RUSHING = 'u';
+
+/** `PSOF` columns, by the identity each one participates in. */
+export const PASSING_FIELDS = {
+  attempts: 'saat',
+  completions: 'sacm',
+  yards: 'saya',
+  touchdowns: 'satd',
+  interceptions: 'sain',
+  sacked: 'sasa',
+  longest: 'salN',
+} as const;
+
+export const RECEIVING_FIELDS = {
+  catches: 'scca',
+  yards: 'scya',
+  touchdowns: 'sctd',
+  longest: 'scrL',
+  drops: 'scdr',
+} as const;
+
+export const RUSHING_FIELDS = {
+  carries: 'suat',
+  yards: 'suya',
+  touchdowns: 'sutd',
+  longest: 'sulN',
+  brokenTackles: 'subt',
+  yardsAfterContact: 'suyh',
+  fumbles: 'sufu',
+} as const;
+
+export const DEFENSIVE_FIELDS = {
+  tackles: 'sdta',
+  tacklesForLoss: 'sdtl',
+  sacks: 'slsk',
+  passesDefended: 'sdpd',
+  interceptions: 'ssin',
+  interceptionYards: 'ssiy',
+  defensiveTouchdowns: 'ssdt',
+  forcedFumbles: 'slff',
+  fumbleRecoveries: 'slfr',
+  fumbleReturnYards: 'slfy',
+} as const;
+
+/**
+ * `PSOF.scyc` is 13 bits and 24 rows sit at all-ones (8191). That is the
+ * format's usual sentinel shape, but the field's meaning is NOT established --
+ * it is not reliably bounded by receiving yards, so "yards after catch" does
+ * not survive testing. Left unidentified on purpose.
+ */
+export const STAT_VALUE_SENTINEL = 8191;
+
+/**
+ * Only FBS teams have stat rows, because only FBS teams have rosters in `PLAY`
+ * (see PLGA). Any offence-versus-defence identity therefore has to be
+ * restricted to FBS-versus-FBS games or it will appear to fail.
+ */
+export function isFbsTeam(tgid: number, fbsTeams: Set<number>): boolean {
+  return fbsTeams.has(tgid);
+}
+
+/**
+ * True when a `SCHD` game has been played. Established via `WQTS`: every game
+ * with quarter data has a non-zero score somewhere and sums correctly, and the
+ * three week-0 games without quarter data are the three still to be played.
+ *
+ * Note a 0-0 final is impossible in this data set, so absence of quarter rows
+ * is the reliable signal rather than a zero score.
+ */
+export function hasQuarterData(
+  sgnm: number,
+  sewn: number,
+  quarters: Array<Record<string, number | string>>,
+): boolean {
+  return quarters.some((q) => q.SGNM === sgnm && q.SEWN === sewn);
+}
+
+/**
+ * `BOWL.BCI1` / `BCI2` name the two conferences a slot is tied to, as
+ * `CONF.CGID` values, and `BCR1` / `BCR2` give the finishing position that
+ * conference must supply (1 = champion, 2 = runner-up, ...).
+ *
+ * An at-large berth is encoded as conference `Generic` with rank 0. In this
+ * save that combination appears on exactly the three slots that really are
+ * at-large in the BCS: the Fiesta and Sugar Bowls' second team and both sides
+ * of the national championship game.
+ */
+export const CONFERENCE_GENERIC = 17;
+export const BOWL_RANK_AT_LARGE = 0;
+
+/**
+ * A conference championship game is the degenerate case of a bowl tie-in: both
+ * sides are drawn from the same conference, and both are nominally the "#1"
+ * finisher because the two division winners each top their own division.
+ */
+export function isConferenceChampionship(
+  rec: Record<string, number | string>,
+): boolean {
+  return (
+    typeof rec.BCI1 === 'number' &&
+    rec.BCI1 === rec.BCI2 &&
+    rec.BCI1 !== CONFERENCE_GENERIC
+  );
+}
+
+/**
+ * Render a `BOWL` record's `BMON`/`BDAY` as a real date. The bowl season
+ * straddles the new year, so the year follows from the month: December belongs
+ * to the season's own year and January to the next.
+ */
+export function bowlDate(
+  rec: Record<string, number | string>,
+  seasonYear: number,
+): Date {
+  const month = Number(rec.BMON);
+  return new Date(month >= 7 ? seasonYear : seasonYear + 1, month - 1, Number(rec.BDAY));
+}
+
+
+
+/**
+ * `PLGA` is the roster cache for the next game to be played. It holds both
+ * participating squads, and it is the only table that stores player names as
+ * plain text rather than packed 6-bit characters.
+ *
+ * Players belonging to an FCS opponent are GENERATED rather than stored: they
+ * have no `PLAY` row anywhere in the file, an empty `PFNA`, and a `PLNA` of the
+ * form "<position> #<jersey>". That is why `PLAY` only ever contained the 119
+ * FBS rosters.
+ */
+export function isGeneratedPlayer(rec: Record<string, number | string>): boolean {
+  return rec.PFNA === '';
+}
+
+/** Matches a generated player's placeholder name, e.g. "MLB #52". */
+export const GENERATED_NAME_PATTERN = /^([A-Z]+) #(\d+)$/;
+
+/**
+ * `PLGA.SNPD` and `SNPO` each flag exactly 22 players: 11 from the home side
+ * on offence and 11 from the visitors on defence. They are two saved personnel
+ * packages for the same matchup -- in this save a three-receiver set against a
+ * nickel secondary, and a two-tight-end set against an extra linebacker.
+ *
+ * Which of the pair is which is NOT established. Both hold a complete legal
+ * lineup, so nothing in this file distinguishes them.
+ */
+export const LINEUP_SIZE = 11;
+
+/** Positions that line up on offence, used to check a lineup is well formed. */
+export const OFFENSIVE_POSITIONS = [
+  'QB', 'HB', 'FB', 'WR', 'TE', 'LT', 'LG', 'C', 'RG', 'RT',
+] as const;
+
+
+
+/**
  * Rating fields that use the shared 5-bit quantised scale.
  *
  * `PRBK` is 6 bits wide but still stores a value in the 0..31 range and maps
@@ -880,3 +1164,64 @@ export function displayToRating(display: number): number {
 export function hex(n: number, pad = 8): string {
   return `0x${n.toString(16).toUpperCase().padStart(pad, '0')}`;
 }
+
+/* ------------------------------------------------------------------ *
+ * TSSE -- team season statistics
+ * ------------------------------------------------------------------ */
+
+/**
+ * Several TSSE yardage columns are declared unsigned but genuinely hold
+ * negative values: a team can finish with negative rushing yards. The same
+ * quirk appears in PSOF.suya. Read them through this helper.
+ *
+ * Idaho is the live example in this save -- 65535 raw, i.e. -1 rushing yard,
+ * which is what makes `tsor + tsop == tsoy` hold 109/109 instead of 108/109.
+ */
+export function signed16(raw: number): number {
+  return raw >= 0x8000 ? raw - 0x10000 : raw;
+}
+
+/**
+ * TSSE stores each team's own production AND what it allowed. For every
+ * (own, allowed) pair below, a team's value equals its opponent's mirror
+ * value. Verified 82/82 on FBS-vs-FBS week-0 games, with 0/11,690 false
+ * positives across every non-opponent pairing.
+ */
+export const TSSE_MIRROR_PAIRS: ReadonlyArray<readonly [string, string]> = [
+  ['tsop', 'tsdp'], // pass yards gained / allowed
+  ['tsor', 'tsdy'], // rush yards gained / allowed
+  ['tssa', 'tssk'], // sacks taken / sacks made
+  ['tspi', 'tsDi'], // interceptions thrown / made
+  ['tsfl', 'tsfr'], // fumbles lost / recovered
+  ['tsof', 'tsdf'], // unidentified mirror pair
+  ['tsta', 'tsga'], // unidentified mirror pair
+] as const;
+
+/**
+ * PSKI records field goals in five distance buckets. The ranges were derived
+ * empirically from kickers with exactly one make, not assumed: the long-FG
+ * column lands inside the bucket's range every time.
+ *
+ * League-wide make rate falls monotonically across the buckets
+ * (100%, 83%, 82%, 29%, 8%), which is what real kicking looks like.
+ */
+export const FG_BUCKETS: ReadonlyArray<{
+  att: string;
+  made: string;
+  min: number;
+  max: number;
+  label: string;
+}> = [
+  { att: 'skaa', made: 'skma', min: 0, max: 19, label: 'under 20' },
+  { att: 'skab', made: 'skmb', min: 20, max: 29, label: '20-29' },
+  { att: 'skac', made: 'skmc', min: 30, max: 39, label: '30-39' },
+  { att: 'skad', made: 'skmd', min: 40, max: 49, label: '40-49' },
+  { att: 'skae', made: 'skme', min: 50, max: 99, label: '50+' },
+] as const;
+
+/** Points awarded for each scoring play, used to reconstruct a team's total. */
+export const POINTS_TOUCHDOWN = 6;
+export const POINTS_FIELD_GOAL = 3;
+export const POINTS_EXTRA_POINT = 1;
+export const POINTS_TWO_POINT = 2;
+export const POINTS_SAFETY = 2;

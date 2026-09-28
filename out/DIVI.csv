@@ -1,0 +1,11 @@
+division,conference,teamCount,members,DNAM,CGID,DGID
+Big 12 (North),Big 12,6,Colorado; Iowa State; Kansas; Kansas State; Missouri; Nebraska,Big 12 (North),2,0
+Big 12 (South),Big 12,6,Baylor; Oklahoma; Oklahoma State; Texas; Texas A&M; Texas Tech,Big 12 (South),2,1
+MAC (East),MAC,6,Akron; Bowling Green; Buffalo; Kent State; Miami University; Ohio,MAC (East),7,2
+MAC (West),MAC,6,Ball State; Central Michigan; Eastern Michigan; Northern Illinois; Toledo; Western Michigan,MAC (West),7,3
+SEC (East),SEC,6,Florida; Georgia; Kentucky; South Carolina; Tennessee; Vanderbilt,SEC (East),11,4
+SEC (West),SEC,6,Alabama; Arkansas; Auburn; LSU; Mississippi State; Ole Miss,SEC (West),11,5
+ACC (Atlantic),ACC,6,Boston College; Clemson; Florida State; Maryland; NC State; Wake Forest,ACC (Atlantic),0,6
+ACC (Coastal),ACC,6,Duke; Georgia Tech; Miami; North Carolina; Virginia; Virginia Tech,ACC (Coastal),0,7
+C-USA (East),C-USA,6,ECU; Marshall; Memphis; Southern Miss; UAB; UCF,C-USA (East),4,8
+C-USA (West),C-USA,6,Houston; Rice; SMU; Tulane; Tulsa; UTEP,C-USA (West),4,9

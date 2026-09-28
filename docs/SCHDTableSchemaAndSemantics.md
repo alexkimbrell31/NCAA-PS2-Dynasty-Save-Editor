@@ -29,7 +29,7 @@ a matter of public record.
 | `GHSC` | 8 | Home score |
 | `GDAT` | 8 | Day of week, Monday-based (0 = Mon … 5 = Sat, 6 = Sun) |
 | `SEWT` | 8 | Week *type* — tracks `SEWN` in the regular season, then postseason codes |
-| `SGNM` | 7 | Game index within the week, 0..n−1 |
+| `SGNM` | 7 | Game index within the week, 0..n−1; joins `BOWL` in the postseason |
 | `SEWN` | 5 | Week number, 0..21 |
 | `GFOT` | 1 | Unset in this save (0/785) — unidentified |
 | `GFFU` | 1 | User-team game |
@@ -61,7 +61,8 @@ college football), and no score is exactly 1 (unreachable in football scoring).
 `GATG` and `GHTG` use the same `NO_TEAM = 511` sentinel already seen in
 `COCH.TGID`. Here it means **the participants are not yet determined**. All 34
 sentinel rows have it on *both* sides, and all sit in the postseason — they are
-empty bowl slots waiting for the season to be played.
+the five conference championship games plus 29 bowl slots, waiting for the
+season to be played.
 
 (This is also why an early naive check reported "a team is playing itself": two
 511s compared equal. Excluding sentinel rows, 0 of 751 real matchups are
@@ -96,6 +97,12 @@ Saturday dominates (691 of 785), which identifies index 5 but not the origin.
 The eight week-20 bowl slots settle it: they all carry `GDAT=0`, and those are
 the New Year's Day games. **January 1 2007 fell on a Monday**, so 0 = Monday and
 the week runs Monday → Sunday.
+
+That anchor originally rested on a single observation. `BOWL` has since turned
+it into a 34-point fit: `BOWL` stores an absolute calendar date (`BMON`/`BDAY`)
+for every postseason slot, and the Monday-based reading of `GDAT` reproduces the
+real weekday for **34 of 34**, spanning Tuesday through Sunday. No other origin
+survives that.
 
 | Day | Games |
 |---|---|
@@ -168,16 +175,22 @@ ones the user intends to play.
 
 - `GFOT` — never set in this save.
 - Separating `GFFU` from `GFHU`.
-- Whether bowl slots gain a tie-in identifier once the postseason is reached;
-  all 34 are currently blank apart from date and kickoff time.
+
+**Resolved:** the earlier open question — "do bowl slots carry a tie-in
+identifier?" — was asked of the wrong table. The tie-ins are not in `SCHD` at
+all; they live in `BOWL`, which holds the slot's name, venue (`SGID` → `STAD`),
+two conference tie-ins with their seed numbers (`BCI1`/`BCR1`, `BCI2`/`BCR2`)
+and its calendar date. See [BOWL](./BOWLTableSchemaAndSemantics.md).
 
 ## Validation
 
-`src/validateScheduleTable.ts` asserts 25 properties, all passing: bit tiling,
+`src/validateScheduleTable.ts` asserts 28 properties, all passing: bit tiling,
 team-reference resolution, no self-games, FBS-only hosts, guarantee-game
 direction, no double-booking, slate size, home/away balance, `GSTA`-as-winner,
 score sanity (no ties, no scores of 1), day index with the Monday anchor,
 kickoff granularity, `SGNM` contiguity, the five conference championships, the
 single national title game, postseason participants all TBD, the `SEWN`/`SEWT`
 relationship, `GMFX` conference agreement plus the Independent exception,
-rivalry presence and end-of-season clustering, and Army–Navy in the final week.
+rivalry presence and end-of-season clustering, Army–Navy in the final week, and
+three cross-table checks against `BOWL` (34/34 slots join on `SEWN`+`SGNM`,
+kickoff times agree, and `GDAT` reproduces the real 2006–07 bowl calendar).

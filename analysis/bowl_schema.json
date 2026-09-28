@@ -1,0 +1,104 @@
+{
+  "table": "BOWL",
+  "offset": 688,
+  "recordLenBytes": 44,
+  "records": 34,
+  "fields": [
+    {
+      "name": "BMFD",
+      "bitOffset": 0,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "GTOD",
+      "bitOffset": 16,
+      "bits": 16,
+      "type": 0
+    },
+    {
+      "name": "BLGO",
+      "bitOffset": 32,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "SGID",
+      "bitOffset": 48,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "BNME",
+      "bitOffset": 56,
+      "bits": 224,
+      "type": 3
+    },
+    {
+      "name": "BIDX",
+      "bitOffset": 280,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "BCI1",
+      "bitOffset": 288,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "BCR1",
+      "bitOffset": 293,
+      "bits": 4,
+      "type": 3
+    },
+    {
+      "name": "BCI2",
+      "bitOffset": 297,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "BCR2",
+      "bitOffset": 302,
+      "bits": 4,
+      "type": 3
+    },
+    {
+      "name": "UTID",
+      "bitOffset": 306,
+      "bits": 7,
+      "type": 3
+    },
+    {
+      "name": "SGNM",
+      "bitOffset": 313,
+      "bits": 7,
+      "type": 3
+    },
+    {
+      "name": "BMON",
+      "bitOffset": 320,
+      "bits": 4,
+      "type": 3
+    },
+    {
+      "name": "SEWN",
+      "bitOffset": 324,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "BPLO",
+      "bitOffset": 329,
+      "bits": 6,
+      "type": 3
+    },
+    {
+      "name": "BDAY",
+      "bitOffset": 335,
+      "bits": 5,
+      "type": 3
+    }
+  ]
+}

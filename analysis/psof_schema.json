@@ -1,0 +1,152 @@
+{
+  "table": "PSOF",
+  "offset": 518060,
+  "recordLenBytes": 28,
+  "records": 1076,
+  "fields": [
+    {
+      "name": "PGID",
+      "bitOffset": 0,
+      "bits": 16,
+      "type": 2
+    },
+    {
+      "name": "scrL",
+      "bitOffset": 16,
+      "bits": 8,
+      "type": 2
+    },
+    {
+      "name": "salN",
+      "bitOffset": 24,
+      "bits": 8,
+      "type": 2
+    },
+    {
+      "name": "sulN",
+      "bitOffset": 32,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "scca",
+      "bitOffset": 40,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "sctd",
+      "bitOffset": 48,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "sutd",
+      "bitOffset": 56,
+      "bits": 8,
+      "type": 2
+    },
+    {
+      "name": "subt",
+      "bitOffset": 64,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "su2y",
+      "bitOffset": 72,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "SEYR",
+      "bitOffset": 80,
+      "bits": 6,
+      "type": 3
+    },
+    {
+      "name": "sasa",
+      "bitOffset": 86,
+      "bits": 7,
+      "type": 2
+    },
+    {
+      "name": "saya",
+      "bitOffset": 93,
+      "bits": 15,
+      "type": 2
+    },
+    {
+      "name": "scya",
+      "bitOffset": 108,
+      "bits": 14,
+      "type": 2
+    },
+    {
+      "name": "suya",
+      "bitOffset": 122,
+      "bits": 14,
+      "type": 2
+    },
+    {
+      "name": "scyc",
+      "bitOffset": 136,
+      "bits": 13,
+      "type": 3
+    },
+    {
+      "name": "satd",
+      "bitOffset": 149,
+      "bits": 7,
+      "type": 3
+    },
+    {
+      "name": "suyh",
+      "bitOffset": 156,
+      "bits": 13,
+      "type": 3
+    },
+    {
+      "name": "sacm",
+      "bitOffset": 169,
+      "bits": 10,
+      "type": 3
+    },
+    {
+      "name": "sain",
+      "bitOffset": 179,
+      "bits": 6,
+      "type": 3
+    },
+    {
+      "name": "sgmp",
+      "bitOffset": 185,
+      "bits": 4,
+      "type": 3
+    },
+    {
+      "name": "scdr",
+      "bitOffset": 189,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "saat",
+      "bitOffset": 194,
+      "bits": 11,
+      "type": 3
+    },
+    {
+      "name": "suat",
+      "bitOffset": 205,
+      "bits": 10,
+      "type": 3
+    },
+    {
+      "name": "sufu",
+      "bitOffset": 215,
+      "bits": 5,
+      "type": 3
+    }
+  ]
+}

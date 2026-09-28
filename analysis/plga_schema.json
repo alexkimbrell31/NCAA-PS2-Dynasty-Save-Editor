@@ -1,0 +1,440 @@
+{
+  "table": "PLGA",
+  "offset": 1481096,
+  "recordLenBytes": 68,
+  "records": 119,
+  "fields": [
+    {
+      "name": "PGID",
+      "bitOffset": 0,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "PGCI",
+      "bitOffset": 16,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "PGPI",
+      "bitOffset": 32,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "PGSI",
+      "bitOffset": 48,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "PGYI",
+      "bitOffset": 64,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "PFNA",
+      "bitOffset": 80,
+      "bits": 80,
+      "type": 0
+    },
+    {
+      "name": "PLNA",
+      "bitOffset": 160,
+      "bits": 104,
+      "type": 3
+    },
+    {
+      "name": "PWGT",
+      "bitOffset": 264,
+      "bits": 8,
+      "type": 3
+    },
+    {
+      "name": "PTHA",
+      "bitOffset": 272,
+      "bits": 5,
+      "type": 0
+    },
+    {
+      "name": "PSTA",
+      "bitOffset": 277,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PLEB",
+      "bitOffset": 282,
+      "bits": 4,
+      "type": 3
+    },
+    {
+      "name": "PREB",
+      "bitOffset": 286,
+      "bits": 4,
+      "type": 3
+    },
+    {
+      "name": "PKAC",
+      "bitOffset": 290,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PACC",
+      "bitOffset": 295,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PSBD",
+      "bitOffset": 300,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "PHED",
+      "bitOffset": 301,
+      "bits": 4,
+      "type": 3
+    },
+    {
+      "name": "PHPD",
+      "bitOffset": 305,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "SNPD",
+      "bitOffset": 306,
+      "bits": 9,
+      "type": 3
+    },
+    {
+      "name": "PSPD",
+      "bitOffset": 315,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PRSD",
+      "bitOffset": 320,
+      "bits": 2,
+      "type": 3
+    },
+    {
+      "name": "PPOE",
+      "bitOffset": 322,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PBRE",
+      "bitOffset": 327,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "PEYE",
+      "bitOffset": 328,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "PLMG",
+      "bitOffset": 329,
+      "bits": 1,
+      "type": 2
+    },
+    {
+      "name": "PFSH",
+      "bitOffset": 330,
+      "bits": 4,
+      "type": 3
+    },
+    {
+      "name": "PLSH",
+      "bitOffset": 334,
+      "bits": 2,
+      "type": 2
+    },
+    {
+      "name": "PMSH",
+      "bitOffset": 336,
+      "bits": 4,
+      "type": 3
+    },
+    {
+      "name": "PRSH",
+      "bitOffset": 340,
+      "bits": 2,
+      "type": 2
+    },
+    {
+      "name": "PSSH",
+      "bitOffset": 342,
+      "bits": 4,
+      "type": 3
+    },
+    {
+      "name": "PCTH",
+      "bitOffset": 346,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PAGI",
+      "bitOffset": 351,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PSKI",
+      "bitOffset": 356,
+      "bits": 3,
+      "type": 3
+    },
+    {
+      "name": "PINJ",
+      "bitOffset": 359,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PTAK",
+      "bitOffset": 364,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PPBK",
+      "bitOffset": 369,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PRBK",
+      "bitOffset": 374,
+      "bits": 6,
+      "type": 3
+    },
+    {
+      "name": "PNEK",
+      "bitOffset": 380,
+      "bits": 3,
+      "type": 3
+    },
+    {
+      "name": "PFMK",
+      "bitOffset": 383,
+      "bits": 4,
+      "type": 3
+    },
+    {
+      "name": "PBTK",
+      "bitOffset": 387,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PHCL",
+      "bitOffset": 392,
+      "bits": 3,
+      "type": 3
+    },
+    {
+      "name": "PFGM",
+      "bitOffset": 395,
+      "bits": 4,
+      "type": 3
+    },
+    {
+      "name": "HELM",
+      "bitOffset": 399,
+      "bits": 2,
+      "type": 3
+    },
+    {
+      "name": "PHAN",
+      "bitOffset": 401,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "PJEN",
+      "bitOffset": 402,
+      "bits": 7,
+      "type": 3
+    },
+    {
+      "name": "PTEN",
+      "bitOffset": 409,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PLHN",
+      "bitOffset": 414,
+      "bits": 3,
+      "type": 3
+    },
+    {
+      "name": "PRHN",
+      "bitOffset": 417,
+      "bits": 3,
+      "type": 3
+    },
+    {
+      "name": "PSLO",
+      "bitOffset": 420,
+      "bits": 2,
+      "type": 3
+    },
+    {
+      "name": "SNPO",
+      "bitOffset": 422,
+      "bits": 9,
+      "type": 3
+    },
+    {
+      "name": "PTTO",
+      "bitOffset": 431,
+      "bits": 2,
+      "type": 3
+    },
+    {
+      "name": "PLFP",
+      "bitOffset": 433,
+      "bits": 1,
+      "type": 3
+    },
+    {
+      "name": "PRGP",
+      "bitOffset": 434,
+      "bits": 4,
+      "type": 3
+    },
+    {
+      "name": "PTHP",
+      "bitOffset": 438,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PFMP",
+      "bitOffset": 443,
+      "bits": 6,
+      "type": 3
+    },
+    {
+      "name": "PIMP",
+      "bitOffset": 449,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PJMP",
+      "bitOffset": 454,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PSNP",
+      "bitOffset": 459,
+      "bits": 9,
+      "type": 3
+    },
+    {
+      "name": "PTYP",
+      "bitOffset": 468,
+      "bits": 2,
+      "type": 3
+    },
+    {
+      "name": "PCAR",
+      "bitOffset": 470,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PYER",
+      "bitOffset": 475,
+      "bits": 3,
+      "type": 3
+    },
+    {
+      "name": "PKPR",
+      "bitOffset": 478,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PSTR",
+      "bitOffset": 483,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "POVR",
+      "bitOffset": 488,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PAWR",
+      "bitOffset": 493,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PVIS",
+      "bitOffset": 498,
+      "bits": 2,
+      "type": 3
+    },
+    {
+      "name": "PFJS",
+      "bitOffset": 500,
+      "bits": 3,
+      "type": 3
+    },
+    {
+      "name": "PPOS",
+      "bitOffset": 503,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "PLWS",
+      "bitOffset": 508,
+      "bits": 4,
+      "type": 3
+    },
+    {
+      "name": "PRWS",
+      "bitOffset": 512,
+      "bits": 4,
+      "type": 3
+    },
+    {
+      "name": "PHGT",
+      "bitOffset": 516,
+      "bits": 7,
+      "type": 3
+    },
+    {
+      "name": "PSLT",
+      "bitOffset": 523,
+      "bits": 2,
+      "type": 3
+    },
+    {
+      "name": "PRST",
+      "bitOffset": 525,
+      "bits": 6,
+      "type": 3
+    }
+  ]
+}

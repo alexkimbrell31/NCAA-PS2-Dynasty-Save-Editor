@@ -213,6 +213,43 @@ function main() {
     `regular season 0..13 identical; postseason codes ${[...new Set(postseason.map((g) => n(g.SEWT)))].join(',')}`,
   );
 
+  // --- cross-table: BOWL names the postseason slots -------------------------
+  // The 34 postseason slots are anonymous inside SCHD. BOWL carries the name,
+  // venue, conference tie-ins and calendar date for each of them. If (SEWN,
+  // SGNM) is really the shared key then every BOWL record must land on exactly
+  // one TBD SCHD slot, and the fields they both carry must agree.
+  const bowl = load('BOWL');
+  const postByKey = new Map(postseason.map((g) => [`${n(g.SEWN)}:${n(g.SGNM)}`, g]));
+  const joined = bowl.records
+    .map((b) => ({ b, g: postByKey.get(`${n(b.SEWN)}:${n(b.SGNM)}`) }))
+    .filter((p): p is { b: (typeof bowl.records)[number]; g: (typeof games)[number] } =>
+      p.g !== undefined,
+    );
+  check(
+    'every BOWL record joins a postseason SCHD slot on (SEWN, SGNM)',
+    bowl.records.length === postseason.length && joined.length === bowl.records.length,
+    `${joined.length}/${bowl.records.length} joined; ${postseason.length} TBD slots`,
+  );
+  check(
+    'BOWL and SCHD agree on kickoff time for every shared slot',
+    joined.every((p) => n(p.b.GTOD) === n(p.g.GTOD)),
+    `GTOD matches on ${joined.filter((p) => n(p.b.GTOD) === n(p.g.GTOD)).length}/${joined.length}`,
+  );
+  // BOWL stores an absolute date (BMON/BDAY). That turns GDAT from an inference
+  // resting on the eight New Year's Day slots into a 34-point fit: the bowl
+  // season runs Dec 2006 into Jan 2007, so the year follows from the month.
+  const gdatAgrees = joined.filter((p) => {
+    const mon = n(p.b.BMON);
+    const year = mon >= 7 ? 2006 : 2007;
+    const jsDay = new Date(year, mon - 1, n(p.b.BDAY)).getDay();
+    return (jsDay + 6) % 7 === n(p.g.GDAT);
+  });
+  check(
+    "GDAT's Monday-based day index reproduces the real 2006-07 bowl calendar",
+    gdatAgrees.length === joined.length,
+    `${gdatAgrees.length}/${joined.length} dates agree, spanning ${GAME_DAYS[1]}..${GAME_DAYS[6]}`,
+  );
+
   // --- conference games -----------------------------------------------------
   const sameConf = (g: (typeof real)[0]) => {
     const a = byTgid.get(n(g.GATG));

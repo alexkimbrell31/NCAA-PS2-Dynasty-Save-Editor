@@ -1,0 +1,44 @@
+{
+  "table": "AAPL",
+  "offset": 1453712,
+  "recordLenBytes": 8,
+  "records": 650,
+  "fields": [
+    {
+      "name": "PGID",
+      "bitOffset": 0,
+      "bits": 16,
+      "type": 3
+    },
+    {
+      "name": "CGID",
+      "bitOffset": 16,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "TTYP",
+      "bitOffset": 21,
+      "bits": 3,
+      "type": 3
+    },
+    {
+      "name": "SEYR",
+      "bitOffset": 24,
+      "bits": 6,
+      "type": 3
+    },
+    {
+      "name": "PPOS",
+      "bitOffset": 30,
+      "bits": 5,
+      "type": 3
+    },
+    {
+      "name": "ARET",
+      "bitOffset": 35,
+      "bits": 1,
+      "type": 3
+    }
+  ]
+}

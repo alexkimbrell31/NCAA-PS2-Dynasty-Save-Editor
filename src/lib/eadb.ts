@@ -43,8 +43,24 @@ export const TOC_OFFSET = 0x18;
  * All TOC pointers are relative to this base: the end of the TOC region rounded
  * up to a 16-byte paragraph. Forgetting this offsets every table by 688 bytes,
  * which is what made the PLAY payload look like zero padding.
+ *
+ * 0x2B0 is the value for THIS file, which has 82 tables:
+ *   0x18 + 82 * 8 = 0x2A8, rounded up to 16 = 0x2B0.
+ * Use {@link tocBaseFor} instead when opening a file whose table count may
+ * differ -- a roster file, or another EA title using the same container.
+ *
+ * CAVEAT: the derivation fits exactly, but on a sample of ONE file. A second
+ * file with a different table count would be the first real test of it.
  */
 export const TOC_BASE = 0x2b0;
+
+/**
+ * TOC base for an arbitrary table count. See {@link TOC_BASE} for the caveat.
+ */
+export function tocBaseFor(tableCount: number): number {
+  const tocEnd = TOC_OFFSET + tableCount * 8;
+  return Math.ceil(tocEnd / 16) * 16;
+}
 
 export const TABLE_HEADER_SIZE = 0x24;
 export const FIELD_DESCRIPTOR_SIZE = 0x10;
@@ -135,11 +151,12 @@ export function parseFileHeader(buf: Buffer): FileHeader {
 
 export function parseToc(buf: Buffer, header: FileHeader): TocEntry[] {
   const entries: TocEntry[] = [];
+  const base = tocBaseFor(header.tableCount);
   for (let i = 0; i < header.tableCount; i++) {
     const off = TOC_OFFSET + i * 8;
     const name = buf.toString('ascii', off, off + 4).replace(/\0/g, '');
     const pointer = buf.readUInt32LE(off + 4);
-    entries.push({ name, tocOffset: off, pointer, realOffset: TOC_BASE + pointer });
+    entries.push({ name, tocOffset: off, pointer, realOffset: base + pointer });
   }
   return entries;
 }
